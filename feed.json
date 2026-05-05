@@ -1,0 +1,369 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Bobbi Breaking News",
+  "home_page_url": "https://behuber.github.io/newsfeed/",
+  "feed_url": "https://behuber.github.io/newsfeed/feed.json",
+  "description": "Kurzer, automatisch erzeugter Breaking-News-Feed aus Bobbis lokalem Monitoring.",
+  "language": "de-DE",
+  "authors": [
+    {
+      "name": "Bobbi"
+    }
+  ],
+  "expired": false,
+  "items": [
+    {
+      "id": "0b639535f4b24a17",
+      "url": "https://www.bbc.com/news/articles/cgkpjz2638ro",
+      "title": "MITTEL — internationale-ereignisse — Romanian PM ousted in no-confidence vote",
+      "content_text": "BBC meldet, dass Rumäniens Premier Ilie Bolojan per Misstrauensvotum gestürzt wurde, nachdem sich die größte Koalitionspartei mit der Rechtsaußen-Opposition zusammengeschlossen hatte.\nQuelle: BBC World\nZeit: 2026-05-05T20:16:44Z",
+      "date_published": "2026-05-05T20:16:44Z",
+      "tags": [
+        "internationale-ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "796fd0567d9025d3",
+      "url": "https://therecord.media/german-officials-advance-laws-surveillance",
+      "title": "MITTEL — it-news — German officials advance legislation that would expand law enforcement use of surveillance technology",
+      "content_text": "The Record berichtet, dass deutsche Regierungsstellen Gesetze voranbringen, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger ausweiten würden.\nQuelle: The Record\nZeit: 2026-05-05T20:16:44Z",
+      "date_published": "2026-05-05T20:16:44Z",
+      "tags": [
+        "it-news",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
+      "id": "b1b4b36c404dc8db",
+      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o",
+      "title": "HOCH — ukraine-krieg — Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+      "content_text": "BBC berichtet, dass russische Angriffe vor konkurrierenden Feuerpausen-Zusagen aus Kiew und Moskau mehr als 20 Menschen getötet haben; Kiew will ab 6. Mai symmetrisch auf Moskaus Parade-Waffenruhe reagieren.\nQuelle: BBC World\nZeit: 2026-05-05T20:16:35Z",
+      "date_published": "2026-05-05T20:16:35Z",
+      "tags": [
+        "ukraine-krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "489523bca8b3191d",
+      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Ukraine-Krieg — Russische Angriffe töten vor konkurrierenden Feuerpausen mindestens 20 Menschen",
+      "content_text": "Vor konkurrierenden Feuerpausen-Vorschlägen aus Kyjiw und Moskau haben russische Angriffe laut BBC mindestens 20 Menschen getötet.\nQuelle: BBC World RSS\nZeit: 2026-05-05T18:16:35Z",
+      "date_published": "2026-05-05T18:16:35Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "207c0921da1e55fe",
+      "url": "https://therecord.media/ftc-bans-kochava-location-data-sales",
+      "title": "MITTEL — IT-Sicherheit — FTC untersagt Kochava den Verkauf sensibler Standortdaten ohne Einwilligung",
+      "content_text": "FTC verbietet dem Datenhändler Kochava laut The Record den Verkauf präziser Standortdaten ohne ausdrückliche Zustimmung. Betroffen sind sensible Bewegungsdaten etwa zu Gesundheits- und Religionsorten.\nQuelle: The Record RSS\nZeit: 2026-05-05T18:16:24Z",
+      "date_published": "2026-05-05T18:16:24Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
+      "id": "7afa97d78bf3e75a",
+      "url": "https://therecord.media/australia-launches-cyber-review-board",
+      "title": "MITTEL — IT-Sicherheit — Australia launches cyber review board modeled on version disbanded in US",
+      "content_text": "Australien startet ein Cyber Review Board für nachträgliche Analysen signifikanter Cyberangriffe ohne Schuldzuweisung, mit Fokus auf systemische Lehren.\nQuelle: The Record RSS\nZeit: 2026-05-05T16:16:20Z",
+      "date_published": "2026-05-05T16:16:20Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
+      "id": "d0d188c640168f9d",
+      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Ukraine-Krieg — Russia and Ukraine announce rival ceasefires as deadly strikes continue",
+      "content_text": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow.\nQuelle: bbc.com\nZeit: 2026-05-05T15:53:52Z",
+      "date_published": "2026-05-05T15:53:52Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "bbc.com"
+        }
+      ]
+    },
+    {
+      "id": "0edb5d41d39f91a7",
+      "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o",
+      "title": "HOCH — internationale-ereignisse — Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "content_text": "In Leipzig sind laut BBC zwei Menschen getötet und viele weitere verletzt worden, nachdem ein Auto in eine Menschenmenge gefahren war; ein 33-jähriger Deutscher wurde festgenommen.\nQuelle: BBC World\nZeit: 2026-05-04T20:16:16Z",
+      "date_published": "2026-05-04T20:16:16Z",
+      "tags": [
+        "internationale-ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "0be623dc689d6c14",
+      "url": "https://www.bbc.com/news/articles/cwy234llx3vo",
+      "title": "HOCH — ukraine-krieg — Ukrainian drone hits Moscow high-rise ahead of Victory Day celebrations",
+      "content_text": "BBC berichtet von einem Drohnenangriff auf ein gehobenes Hochhaus in Moskau vor den Siegesfeierlichkeiten; Russland droht bei Störung der Feierlichkeiten mit massivem Schlag gegen Kyjiw.\nQuelle: BBC World\nZeit: 2026-05-04T20:16:07Z",
+      "date_published": "2026-05-04T20:16:07Z",
+      "tags": [
+        "ukraine-krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "fee86e06e51a9a45",
+      "url": "https://www.bbc.com/news/articles/c5yrwny111xo",
+      "title": "MITTEL — Internationale Ereignisse — Three Russian diplomats expelled from Austria over spying accusations",
+      "content_text": "BBC meldet, dass Österreich drei russische Diplomaten wegen Spionagevorwürfen ausweist; Außenministerin spricht von Antennenanlagen auf Diplomatengebäuden.\nQuelle: BBC World RSS\nZeit: 2026-05-04T18:43:04Z",
+      "date_published": "2026-05-04T18:43:04Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "e942a1c00731b469",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260305-rentenanpassung-2026.html",
+      "title": "MITTEL — Rentenreform — Renten steigen zum 1. Juli 2026 um 4,24 Prozent",
+      "content_text": "Die Deutsche Rentenversicherung meldet zum 1. Juli 2026 eine Rentenerhöhung um 4,24 Prozent, was die laufenden Bezüge für Rentnerhaushalte spürbar erhöht.\nQuelle: Deutsche Rentenversicherung\nZeit: 2026-05-04T12:32:44Z",
+      "date_published": "2026-05-04T12:32:44Z",
+      "tags": [
+        "Rentenreform",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "Deutsche Rentenversicherung"
+        }
+      ]
+    },
+    {
+      "id": "5d4dd6a41d8b89af",
+      "url": "https://www.bbc.com/news/articles/clyp41v1n1go",
+      "title": "HOCH — Ukraine-Krieg — Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "content_text": "BBC reports 10 killed in Russian strikes in Ukraine, while Zelensky says Ukrainian drones hit shadow-fleet oil tankers and an oil terminal.\nQuelle: BBC World RSS\nZeit: 2026-05-04T04:16:30Z",
+      "date_published": "2026-05-04T04:16:30Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "775e96d0c9c1a884",
+      "url": "https://www.bbc.com/news/articles/clyp41v1n1go",
+      "title": "HOCH — Ukraine-Krieg — Russische Angriffe töten laut BBC 10 Menschen; Selenskyj meldet Treffer gegen Öltanker und Terminal der russischen Schattenflotte",
+      "content_text": "BBC World meldet neue tödliche Angriffe in der Ukraine. Gleichzeitig sagt Kyjiw, Drohnen hätten Öltanker und ein Terminal der russischen Schattenflotte getroffen.\nQuelle: BBC World RSS\nZeit: 2026-05-03T12:16:01Z",
+      "date_published": "2026-05-03T12:16:01Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "b0a6413c47ca7466",
+      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
+      "title": "MITTEL — internationale-ereignisse — Deutschland hält weiteren US-Truppenabzug nach Trumps Kürzungswarnung für absehbar",
+      "content_text": "BBC World berichtet, dass Berlin einen weiteren Abzug von US-Soldaten für absehbar hält, nachdem Trump zusätzliche Kürzungen angekündigt hat; selbst in den USA äußern Republikaner Bedenken.\nQuelle: BBC\nZeit: 2026-05-03T08:16:02Z",
+      "date_published": "2026-05-03T08:16:02Z",
+      "tags": [
+        "internationale-ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "c74df2e506bf8390",
+      "url": "https://therecord.media/british-cyber-ai-patch-wave",
+      "title": "MITTEL — IT-Sicherheit — Britische Cyberbehörde warnt vor kommender Patch-Welle durch AI",
+      "content_text": "The Record berichtet, dass Großbritanniens Cyberbehörde wegen KI-beschleunigter Schwachstellenfunde eine Welle dringender Sicherheitsupdates und höheres Ausnutzungsrisiko erwartet.\nQuelle: The Record\nZeit: 2026-05-03T06:16:05Z",
+      "date_published": "2026-05-03T06:16:05Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
+      "id": "3a2f6ab110489c34",
+      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Internationale Ereignisse — Trump kündigt weitere Truppenkürzungen in Deutschland an",
+      "content_text": "Laut BBC hält Berlin den Abzug weiterer US-Soldaten für absehbar; in Washington wächst parteiübergreifend die Sorge über die geplante Reduzierung um 5.000 Soldaten.\nQuelle: BBC World\nZeit: 2026-05-03T06:15:59Z",
+      "date_published": "2026-05-03T06:15:59Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "d948c84635bb5ab8",
+      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
+      "title": "HOCH — internationale ereignisse — Deutschland hält US-Truppenabzug nach Trumps Kürzungswarnung für absehbar",
+      "content_text": "Laut BBC hält Berlin einen Abzug von 5.000 US-Soldaten nach neuen Kürzungswarnungen von Präsident Trump für absehbar; in Washington kommt auch Kritik aus den Reihen der Republikaner.\nQuelle: BBC World\nZeit: 2026-05-03T04:16:00Z",
+      "date_published": "2026-05-03T04:16:00Z",
+      "tags": [
+        "internationale ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "15dce8f5693535fc",
+      "url": "https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug",
+      "title": "HOCH — IT-Sicherheit — Federal agencies must patch cPanel bug by Sunday, CISA says",
+      "content_text": "CISA verpflichtet US-Bundesbehörden laut The Record, eine cPanel-Schwachstelle bis Sonntag zu patchen. Erfolgreiche Ausnutzung kann Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites geben.\nQuelle: The Record\nZeit: 2026-05-02T20:16:04Z",
+      "date_published": "2026-05-02T20:16:04Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
+      "id": "1800777a4e8e0e65",
+      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Internationale Ereignisse — Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+      "content_text": "BBC World berichtet, Deutschland halte den angekündigten Abzug von 5.000 US-Soldaten für absehbar; die Nato verlangt nun Klarstellung zu den Plänen.\nQuelle: BBC World\nZeit: 2026-05-02T18:16:26Z",
+      "date_published": "2026-05-02T18:16:26Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "2dc3725891e4c2fb",
+      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Iran-Krieg — US threatens shipping firms with sanctions if they pay Iran tolls",
+      "content_text": "Die USA drohen Reedereien mit Sanktionen, falls sie iranische Durchfahrtsgebühren zahlen. Das verschärft den wirtschaftlichen Druck im Umfeld des Iran-Konflikts und könnte Handel sowie Transportkosten belasten.\nQuelle: BBC World RSS\nZeit: 2026-05-02T17:22:29Z",
+      "date_published": "2026-05-02T17:22:29Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "986c37b41319afc7",
+      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o",
+      "title": "HOCH — iran-krieg — Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "content_text": "Trump teilt dem Kongress laut BBC mit, der Waffenstillstand beende die Kampfhandlungen; deshalb brauche er keine Zustimmung des Kongresses für den Iran-Krieg.\nQuelle: BBC World\nZeit: 2026-05-02T10:17:15Z",
+      "date_published": "2026-05-02T10:17:15Z",
+      "tags": [
+        "iran-krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "316cc48dd61ace26",
+      "url": "https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug",
+      "title": "HOCH — it-sicherheit — CISA setzt Frist für Patch einer kritischen cPanel-Lücke bis Sonntag",
+      "content_text": "US-Bundesbehörden müssen laut The Record eine cPanel-Sicherheitslücke bis Sonntag schließen; Rapid7 warnt, erfolgreiche Ausnutzung gebe Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites.\nQuelle: The Record RSS\nZeit: 2026-05-02T09:28:24Z",
+      "date_published": "2026-05-02T09:28:24Z",
+      "tags": [
+        "it-sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-05-05T20:48:05.690017Z"
+}

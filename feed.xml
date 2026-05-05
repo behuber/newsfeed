@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Bobbi Breaking News</title>
+    <link>https://behuber.github.io/newsfeed/</link>
+    <description>Kurzer, automatisch erzeugter Breaking-News-Feed aus Bobbis lokalem Monitoring.</description>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 05 May 2026 20:48:05 +0000</lastBuildDate>
+    <generator>generate_breaking_news_feed.py</generator>
+    <ttl>10</ttl>
+    <item>
+      <title>MITTEL — internationale-ereignisse — Romanian PM ousted in no-confidence vote</title>
+      <link>https://www.bbc.com/news/articles/cgkpjz2638ro</link>
+      <guid isPermaLink="false">0b639535f4b24a17</guid>
+      <pubDate>Tue, 05 May 2026 20:16:44 +0000</pubDate>
+      <description>BBC meldet, dass Rumäniens Premier Ilie Bolojan per Misstrauensvotum gestürzt wurde, nachdem sich die größte Koalitionspartei mit der Rechtsaußen-Opposition zusammengeschlossen hatte.
+Quelle: BBC World
+Zeit: 2026-05-05T20:16:44Z</description>
+      <category>internationale-ereignisse</category>
+    </item>
+    <item>
+      <title>MITTEL — it-news — German officials advance legislation that would expand law enforcement use of surveillance technology</title>
+      <link>https://therecord.media/german-officials-advance-laws-surveillance</link>
+      <guid isPermaLink="false">796fd0567d9025d3</guid>
+      <pubDate>Tue, 05 May 2026 20:16:44 +0000</pubDate>
+      <description>The Record berichtet, dass deutsche Regierungsstellen Gesetze voranbringen, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger ausweiten würden.
+Quelle: The Record
+Zeit: 2026-05-05T20:16:44Z</description>
+      <category>it-news</category>
+    </item>
+    <item>
+      <title>HOCH — ukraine-krieg — Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow</title>
+      <link>https://www.bbc.com/news/articles/c1e2zjz22p9o</link>
+      <guid isPermaLink="false">b1b4b36c404dc8db</guid>
+      <pubDate>Tue, 05 May 2026 20:16:35 +0000</pubDate>
+      <description>BBC berichtet, dass russische Angriffe vor konkurrierenden Feuerpausen-Zusagen aus Kiew und Moskau mehr als 20 Menschen getötet haben; Kiew will ab 6. Mai symmetrisch auf Moskaus Parade-Waffenruhe reagieren.
+Quelle: BBC World
+Zeit: 2026-05-05T20:16:35Z</description>
+      <category>ukraine-krieg</category>
+    </item>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russische Angriffe töten vor konkurrierenden Feuerpausen mindestens 20 Menschen</title>
+      <link>https://www.bbc.com/news/articles/c1e2zjz22p9o?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">489523bca8b3191d</guid>
+      <pubDate>Tue, 05 May 2026 18:16:35 +0000</pubDate>
+      <description>Vor konkurrierenden Feuerpausen-Vorschlägen aus Kyjiw und Moskau haben russische Angriffe laut BBC mindestens 20 Menschen getötet.
+Quelle: BBC World RSS
+Zeit: 2026-05-05T18:16:35Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — FTC untersagt Kochava den Verkauf sensibler Standortdaten ohne Einwilligung</title>
+      <link>https://therecord.media/ftc-bans-kochava-location-data-sales</link>
+      <guid isPermaLink="false">207c0921da1e55fe</guid>
+      <pubDate>Tue, 05 May 2026 18:16:24 +0000</pubDate>
+      <description>FTC verbietet dem Datenhändler Kochava laut The Record den Verkauf präziser Standortdaten ohne ausdrückliche Zustimmung. Betroffen sind sensible Bewegungsdaten etwa zu Gesundheits- und Religionsorten.
+Quelle: The Record RSS
+Zeit: 2026-05-05T18:16:24Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Australia launches cyber review board modeled on version disbanded in US</title>
+      <link>https://therecord.media/australia-launches-cyber-review-board</link>
+      <guid isPermaLink="false">7afa97d78bf3e75a</guid>
+      <pubDate>Tue, 05 May 2026 16:16:20 +0000</pubDate>
+      <description>Australien startet ein Cyber Review Board für nachträgliche Analysen signifikanter Cyberangriffe ohne Schuldzuweisung, mit Fokus auf systemische Lehren.
+Quelle: The Record RSS
+Zeit: 2026-05-05T16:16:20Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russia and Ukraine announce rival ceasefires as deadly strikes continue</title>
+      <link>https://www.bbc.com/news/articles/c1e2zjz22p9o?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">d0d188c640168f9d</guid>
+      <pubDate>Tue, 05 May 2026 15:53:52 +0000</pubDate>
+      <description>Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow.
+Quelle: bbc.com
+Zeit: 2026-05-05T15:53:52Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — internationale-ereignisse — Two killed and many injured after car driven into crowd in German city of Leipzig</title>
+      <link>https://www.bbc.com/news/articles/ckgpzgxgz58o</link>
+      <guid isPermaLink="false">0edb5d41d39f91a7</guid>
+      <pubDate>Mon, 04 May 2026 20:16:16 +0000</pubDate>
+      <description>In Leipzig sind laut BBC zwei Menschen getötet und viele weitere verletzt worden, nachdem ein Auto in eine Menschenmenge gefahren war; ein 33-jähriger Deutscher wurde festgenommen.
+Quelle: BBC World
+Zeit: 2026-05-04T20:16:16Z</description>
+      <category>internationale-ereignisse</category>
+    </item>
+    <item>
+      <title>HOCH — ukraine-krieg — Ukrainian drone hits Moscow high-rise ahead of Victory Day celebrations</title>
+      <link>https://www.bbc.com/news/articles/cwy234llx3vo</link>
+      <guid isPermaLink="false">0be623dc689d6c14</guid>
+      <pubDate>Mon, 04 May 2026 20:16:07 +0000</pubDate>
+      <description>BBC berichtet von einem Drohnenangriff auf ein gehobenes Hochhaus in Moskau vor den Siegesfeierlichkeiten; Russland droht bei Störung der Feierlichkeiten mit massivem Schlag gegen Kyjiw.
+Quelle: BBC World
+Zeit: 2026-05-04T20:16:07Z</description>
+      <category>ukraine-krieg</category>
+    </item>
+    <item>
+      <title>MITTEL — Internationale Ereignisse — Three Russian diplomats expelled from Austria over spying accusations</title>
+      <link>https://www.bbc.com/news/articles/c5yrwny111xo</link>
+      <guid isPermaLink="false">fee86e06e51a9a45</guid>
+      <pubDate>Mon, 04 May 2026 18:43:04 +0000</pubDate>
+      <description>BBC meldet, dass Österreich drei russische Diplomaten wegen Spionagevorwürfen ausweist; Außenministerin spricht von Antennenanlagen auf Diplomatengebäuden.
+Quelle: BBC World RSS
+Zeit: 2026-05-04T18:43:04Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
+    <item>
+      <title>MITTEL — Rentenreform — Renten steigen zum 1. Juli 2026 um 4,24 Prozent</title>
+      <link>https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260305-rentenanpassung-2026.html</link>
+      <guid isPermaLink="false">e942a1c00731b469</guid>
+      <pubDate>Mon, 04 May 2026 12:32:44 +0000</pubDate>
+      <description>Die Deutsche Rentenversicherung meldet zum 1. Juli 2026 eine Rentenerhöhung um 4,24 Prozent, was die laufenden Bezüge für Rentnerhaushalte spürbar erhöht.
+Quelle: Deutsche Rentenversicherung
+Zeit: 2026-05-04T12:32:44Z</description>
+      <category>Rentenreform</category>
+    </item>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal</title>
+      <link>https://www.bbc.com/news/articles/clyp41v1n1go</link>
+      <guid isPermaLink="false">5d4dd6a41d8b89af</guid>
+      <pubDate>Mon, 04 May 2026 04:16:30 +0000</pubDate>
+      <description>BBC reports 10 killed in Russian strikes in Ukraine, while Zelensky says Ukrainian drones hit shadow-fleet oil tankers and an oil terminal.
+Quelle: BBC World RSS
+Zeit: 2026-05-04T04:16:30Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russische Angriffe töten laut BBC 10 Menschen; Selenskyj meldet Treffer gegen Öltanker und Terminal der russischen Schattenflotte</title>
+      <link>https://www.bbc.com/news/articles/clyp41v1n1go</link>
+      <guid isPermaLink="false">775e96d0c9c1a884</guid>
+      <pubDate>Sun, 03 May 2026 12:16:01 +0000</pubDate>
+      <description>BBC World meldet neue tödliche Angriffe in der Ukraine. Gleichzeitig sagt Kyjiw, Drohnen hätten Öltanker und ein Terminal der russischen Schattenflotte getroffen.
+Quelle: BBC World RSS
+Zeit: 2026-05-03T12:16:01Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>MITTEL — internationale-ereignisse — Deutschland hält weiteren US-Truppenabzug nach Trumps Kürzungswarnung für absehbar</title>
+      <link>https://www.bbc.com/news/articles/cd9pn541jjlo</link>
+      <guid isPermaLink="false">b0a6413c47ca7466</guid>
+      <pubDate>Sun, 03 May 2026 08:16:02 +0000</pubDate>
+      <description>BBC World berichtet, dass Berlin einen weiteren Abzug von US-Soldaten für absehbar hält, nachdem Trump zusätzliche Kürzungen angekündigt hat; selbst in den USA äußern Republikaner Bedenken.
+Quelle: BBC
+Zeit: 2026-05-03T08:16:02Z</description>
+      <category>internationale-ereignisse</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Britische Cyberbehörde warnt vor kommender Patch-Welle durch AI</title>
+      <link>https://therecord.media/british-cyber-ai-patch-wave</link>
+      <guid isPermaLink="false">c74df2e506bf8390</guid>
+      <pubDate>Sun, 03 May 2026 06:16:05 +0000</pubDate>
+      <description>The Record berichtet, dass Großbritanniens Cyberbehörde wegen KI-beschleunigter Schwachstellenfunde eine Welle dringender Sicherheitsupdates und höheres Ausnutzungsrisiko erwartet.
+Quelle: The Record
+Zeit: 2026-05-03T06:16:05Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
+    <item>
+      <title>MITTEL — Internationale Ereignisse — Trump kündigt weitere Truppenkürzungen in Deutschland an</title>
+      <link>https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">3a2f6ab110489c34</guid>
+      <pubDate>Sun, 03 May 2026 06:15:59 +0000</pubDate>
+      <description>Laut BBC hält Berlin den Abzug weiterer US-Soldaten für absehbar; in Washington wächst parteiübergreifend die Sorge über die geplante Reduzierung um 5.000 Soldaten.
+Quelle: BBC World
+Zeit: 2026-05-03T06:15:59Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
+    <item>
+      <title>HOCH — internationale ereignisse — Deutschland hält US-Truppenabzug nach Trumps Kürzungswarnung für absehbar</title>
+      <link>https://www.bbc.com/news/articles/cd9pn541jjlo</link>
+      <guid isPermaLink="false">d948c84635bb5ab8</guid>
+      <pubDate>Sun, 03 May 2026 04:16:00 +0000</pubDate>
+      <description>Laut BBC hält Berlin einen Abzug von 5.000 US-Soldaten nach neuen Kürzungswarnungen von Präsident Trump für absehbar; in Washington kommt auch Kritik aus den Reihen der Republikaner.
+Quelle: BBC World
+Zeit: 2026-05-03T04:16:00Z</description>
+      <category>internationale ereignisse</category>
+    </item>
+    <item>
+      <title>HOCH — IT-Sicherheit — Federal agencies must patch cPanel bug by Sunday, CISA says</title>
+      <link>https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug</link>
+      <guid isPermaLink="false">15dce8f5693535fc</guid>
+      <pubDate>Sat, 02 May 2026 20:16:04 +0000</pubDate>
+      <description>CISA verpflichtet US-Bundesbehörden laut The Record, eine cPanel-Schwachstelle bis Sonntag zu patchen. Erfolgreiche Ausnutzung kann Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites geben.
+Quelle: The Record
+Zeit: 2026-05-02T20:16:04Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
+    <item>
+      <title>MITTEL — Internationale Ereignisse — Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification</title>
+      <link>https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">1800777a4e8e0e65</guid>
+      <pubDate>Sat, 02 May 2026 18:16:26 +0000</pubDate>
+      <description>BBC World berichtet, Deutschland halte den angekündigten Abzug von 5.000 US-Soldaten für absehbar; die Nato verlangt nun Klarstellung zu den Plänen.
+Quelle: BBC World
+Zeit: 2026-05-02T18:16:26Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
+    <item>
+      <title>HOCH — Iran-Krieg — US threatens shipping firms with sanctions if they pay Iran tolls</title>
+      <link>https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">2dc3725891e4c2fb</guid>
+      <pubDate>Sat, 02 May 2026 17:22:29 +0000</pubDate>
+      <description>Die USA drohen Reedereien mit Sanktionen, falls sie iranische Durchfahrtsgebühren zahlen. Das verschärft den wirtschaftlichen Druck im Umfeld des Iran-Konflikts und könnte Handel sowie Transportkosten belasten.
+Quelle: BBC World RSS
+Zeit: 2026-05-02T17:22:29Z</description>
+      <category>Iran-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — iran-krieg — Trump tells Congress ceasefire means he does not need their approval for Iran war</title>
+      <link>https://www.bbc.com/news/articles/c4g4xexy4w7o</link>
+      <guid isPermaLink="false">986c37b41319afc7</guid>
+      <pubDate>Sat, 02 May 2026 10:17:15 +0000</pubDate>
+      <description>Trump teilt dem Kongress laut BBC mit, der Waffenstillstand beende die Kampfhandlungen; deshalb brauche er keine Zustimmung des Kongresses für den Iran-Krieg.
+Quelle: BBC World
+Zeit: 2026-05-02T10:17:15Z</description>
+      <category>iran-krieg</category>
+    </item>
+    <item>
+      <title>HOCH — it-sicherheit — CISA setzt Frist für Patch einer kritischen cPanel-Lücke bis Sonntag</title>
+      <link>https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug</link>
+      <guid isPermaLink="false">316cc48dd61ace26</guid>
+      <pubDate>Sat, 02 May 2026 09:28:24 +0000</pubDate>
+      <description>US-Bundesbehörden müssen laut The Record eine cPanel-Sicherheitslücke bis Sonntag schließen; Rapid7 warnt, erfolgreiche Ausnutzung gebe Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites.
+Quelle: The Record RSS
+Zeit: 2026-05-02T09:28:24Z</description>
+      <category>it-sicherheit</category>
+    </item>
+  </channel>
+</rss>
