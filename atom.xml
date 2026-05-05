@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Bobbi Breaking News</title>
-  <subtitle>Kurzer, automatisch erzeugter Breaking-News-Feed aus Bobbis lokalem Monitoring.</subtitle>
+  <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
+  <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-05T20:50:23.119638Z</updated>
+  <updated>2026-05-05T21:06:05.462574Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>

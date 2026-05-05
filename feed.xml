@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>Bobbi Breaking News</title>
+    <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
     <link>https://behuber.github.io/newsfeed/</link>
-    <description>Kurzer, automatisch erzeugter Breaking-News-Feed aus Bobbis lokalem Monitoring.</description>
+    <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 05 May 2026 20:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 21:06:05 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
     <item>

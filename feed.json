@@ -1,9 +1,9 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Bobbi Breaking News",
+  "title": "Bobbi Newsfeed — Welt, Krieg, Sicherheit",
   "home_page_url": "https://behuber.github.io/newsfeed/",
   "feed_url": "https://behuber.github.io/newsfeed/feed.json",
-  "description": "Kurzer, automatisch erzeugter Breaking-News-Feed aus Bobbis lokalem Monitoring.",
+  "description": "Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.",
   "language": "de-DE",
   "authors": [
     {
@@ -365,5 +365,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-05T20:50:23.119638Z"
+  "generated_at": "2026-05-05T21:06:05.462574Z"
 }
