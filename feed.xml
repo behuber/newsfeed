@@ -5,7 +5,7 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Kurzer, automatisch erzeugter Breaking-News-Feed aus Bobbis lokalem Monitoring.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 05 May 2026 20:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 20:50:23 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
     <item>
