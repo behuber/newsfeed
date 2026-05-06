@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "af938f43eff696e4",
+      "url": "https://www.bbc.com/news/articles/c0m21mndm71o",
+      "title": "MITTEL — Iran-Krieg — China drängt in Gesprächen mit Iran auf schnelle Wiederöffnung der Straße von Hormus",
+      "content_text": "Chinas Außenminister Wang Yi fordert bei Gesprächen mit Irans Außenminister eine rasche Wiederöffnung der Straße von Hormus, während die Lage nach dem Krieg fragil bleibt.\nQuelle: BBC News World\nZeit: 2026-05-06T10:16:49Z",
+      "date_published": "2026-05-06T10:16:49Z",
+      "tags": [
+        "Iran-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC News World"
+        }
+      ]
+    },
+    {
       "id": "42c5c303f09f0e2e",
       "url": "https://therecord.media/german-officials-advance-laws-surveillance",
       "title": "MITTEL — IT-Sicherheit — Deutschland bringt Gesetz für ausgeweitete Polizeinutzung von KI-Überwachung voran",
@@ -461,5 +477,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-06T10:11:50.246461Z"
+  "generated_at": "2026-05-06T10:26:49.953853Z"
 }

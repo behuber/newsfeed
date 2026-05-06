@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 06 May 2026 10:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:26:49 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Iran-Krieg — China drängt in Gesprächen mit Iran auf schnelle Wiederöffnung der Straße von Hormus</title>
+      <link>https://www.bbc.com/news/articles/c0m21mndm71o</link>
+      <guid isPermaLink="false">af938f43eff696e4</guid>
+      <pubDate>Wed, 06 May 2026 10:16:49 +0000</pubDate>
+      <description>Chinas Außenminister Wang Yi fordert bei Gesprächen mit Irans Außenminister eine rasche Wiederöffnung der Straße von Hormus, während die Lage nach dem Krieg fragil bleibt.
+Quelle: BBC News World
+Zeit: 2026-05-06T10:16:49Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — IT-Sicherheit — Deutschland bringt Gesetz für ausgeweitete Polizeinutzung von KI-Überwachung voran</title>
       <link>https://therecord.media/german-officials-advance-laws-surveillance</link>
