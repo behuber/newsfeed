@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-06T08:10:57.802095Z</updated>
+  <updated>2026-05-06T08:25:55.164313Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — Deutschland bringt Gesetz für ausgeweitete Polizeinutzung von KI-Überwachung voran</title>
+    <id>42c5c303f09f0e2e</id>
+    <updated>2026-05-06T08:16:54Z</updated>
+    <link href="https://therecord.media/german-officials-advance-laws-surveillance" />
+    <summary>The Record berichtet, dass deutsche Politiker Gesetze vorantreiben, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger legalisieren und ausweiten würden.
+Quelle: The Record RSS
+Zeit: 2026-05-06T08:16:54Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Russische Angriffe töten vor konkurrierenden Waffenruhen mehr als 20 Menschen</title>
+    <id>b9465c1a0fcb2f1f</id>
+    <updated>2026-05-06T08:16:42Z</updated>
+    <link href="https://www.bbc.com/news/articles/c1e2zjz22p9o" />
+    <summary>BBC berichtet, dass vor den von Kiew und Moskau vorgeschlagenen Feuerpausen mehr als 20 Menschen bei russischen Angriffen getötet wurden; Kiew will ab 6. Mai eine Waffenruhe beginnen und symmetrisch auf Moskaus Parade-Pause reagieren.
+Quelle: BBC World RSS
+Zeit: 2026-05-06T08:16:42Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — IT-Sicherheit — German officials advance legislation that would expand law enforcement use of surveillance technology</title>
     <id>79a49ace70155ae0</id>

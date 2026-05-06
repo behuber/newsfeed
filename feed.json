@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "42c5c303f09f0e2e",
+      "url": "https://therecord.media/german-officials-advance-laws-surveillance",
+      "title": "MITTEL — IT-Sicherheit — Deutschland bringt Gesetz für ausgeweitete Polizeinutzung von KI-Überwachung voran",
+      "content_text": "The Record berichtet, dass deutsche Politiker Gesetze vorantreiben, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger legalisieren und ausweiten würden.\nQuelle: The Record RSS\nZeit: 2026-05-06T08:16:54Z",
+      "date_published": "2026-05-06T08:16:54Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
+      "id": "b9465c1a0fcb2f1f",
+      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o",
+      "title": "HOCH — Ukraine-Krieg — Russische Angriffe töten vor konkurrierenden Waffenruhen mehr als 20 Menschen",
+      "content_text": "BBC berichtet, dass vor den von Kiew und Moskau vorgeschlagenen Feuerpausen mehr als 20 Menschen bei russischen Angriffen getötet wurden; Kiew will ab 6. Mai eine Waffenruhe beginnen und symmetrisch auf Moskaus Parade-Pause reagieren.\nQuelle: BBC World RSS\nZeit: 2026-05-06T08:16:42Z",
+      "date_published": "2026-05-06T08:16:42Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "79a49ace70155ae0",
       "url": "https://therecord.media/german-officials-advance-laws-surveillance",
       "title": "MITTEL — IT-Sicherheit — German officials advance legislation that would expand law enforcement use of surveillance technology",
@@ -429,5 +461,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-06T08:10:57.802095Z"
+  "generated_at": "2026-05-06T08:25:55.164313Z"
 }

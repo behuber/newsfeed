@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 06 May 2026 08:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 08:25:55 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Deutschland bringt Gesetz für ausgeweitete Polizeinutzung von KI-Überwachung voran</title>
+      <link>https://therecord.media/german-officials-advance-laws-surveillance</link>
+      <guid isPermaLink="false">42c5c303f09f0e2e</guid>
+      <pubDate>Wed, 06 May 2026 08:16:54 +0000</pubDate>
+      <description>The Record berichtet, dass deutsche Politiker Gesetze vorantreiben, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger legalisieren und ausweiten würden.
+Quelle: The Record RSS
+Zeit: 2026-05-06T08:16:54Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russische Angriffe töten vor konkurrierenden Waffenruhen mehr als 20 Menschen</title>
+      <link>https://www.bbc.com/news/articles/c1e2zjz22p9o</link>
+      <guid isPermaLink="false">b9465c1a0fcb2f1f</guid>
+      <pubDate>Wed, 06 May 2026 08:16:42 +0000</pubDate>
+      <description>BBC berichtet, dass vor den von Kiew und Moskau vorgeschlagenen Feuerpausen mehr als 20 Menschen bei russischen Angriffen getötet wurden; Kiew will ab 6. Mai eine Waffenruhe beginnen und symmetrisch auf Moskaus Parade-Pause reagieren.
+Quelle: BBC World RSS
+Zeit: 2026-05-06T08:16:42Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — IT-Sicherheit — German officials advance legislation that would expand law enforcement use of surveillance technology</title>
       <link>https://therecord.media/german-officials-advance-laws-surveillance</link>
