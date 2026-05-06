@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "8c6cb8e5306f3637",
+      "url": "https://therecord.media/hackers-compromise-daemon-tools-global-supply-chain-attack",
+      "title": "HOCH — IT-Sicherheit — Hackers compromise Daemon Tools in global supply-chain attack, researchers say",
+      "content_text": "The Record reports attackers tampered with official Daemon Tools installers and distributed a backdoor via the vendor website in a global supply-chain attack.\nQuelle: The Record RSS\nZeit: 2026-05-06T14:16:49Z",
+      "date_published": "2026-05-06T14:16:49Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
+      "id": "48d7eef1ac22bcd6",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Iran-Krieg — Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "content_text": "BBC reports new hopes of a US-Iran agreement after days of escalation; markets reacted immediately with falling oil prices and rising stocks.\nQuelle: BBC World RSS\nZeit: 2026-05-06T14:16:39Z",
+      "date_published": "2026-05-06T14:16:39Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "a6a8d5e7f39966a3",
       "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o",
       "title": "MITTEL — Iran-Krieg — Berichte über mögliches Abkommen im Iran-Krieg drücken Ölpreis und stützen Börsen",
@@ -493,5 +525,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-06T14:11:48.944997Z"
+  "generated_at": "2026-05-06T14:26:49.100411Z"
 }
