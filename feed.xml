@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 06 May 2026 02:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 04:18:11 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Konflikt — Trump says US to pause operation to guide vessels through Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/clypekl71gdo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">0b2d0bf156a0eb9d</guid>
+      <pubDate>Wed, 06 May 2026 04:17:41 +0000</pubDate>
+      <description>Trump says the US will halt its vessel-guidance operation in the Strait of Hormuz because progress has been made toward a deal with Iran.
+Quelle: BBC World RSS
+Zeit: 2026-05-06T04:17:41Z</description>
+      <category>Iran-Konflikt</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — North Korean hackers targeted ethnic Koreans in China with Android BirdCall malware</title>
+      <link>https://therecord.media/north-korean-hackers-target-ethnic-koreans-in-china</link>
+      <guid isPermaLink="false">ace37372a80083fc</guid>
+      <pubDate>Wed, 06 May 2026 04:17:41 +0000</pubDate>
+      <description>Researchers attributed a campaign targeting ethnic Koreans in China to APT37, using Android backdoor malware distributed through a card-game software supply chain.
+Quelle: The Record RSS
+Zeit: 2026-05-06T04:17:41Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — internationale-ereignisse — Romanian PM ousted in no-confidence vote</title>
       <link>https://www.bbc.com/news/articles/cgkpjz2638ro</link>

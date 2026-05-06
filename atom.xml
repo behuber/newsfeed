@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-06T02:02:23.253433Z</updated>
+  <updated>2026-05-06T04:18:11.862141Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Konflikt — Trump says US to pause operation to guide vessels through Strait of Hormuz</title>
+    <id>0b2d0bf156a0eb9d</id>
+    <updated>2026-05-06T04:17:41Z</updated>
+    <link href="https://www.bbc.com/news/articles/clypekl71gdo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Trump says the US will halt its vessel-guidance operation in the Strait of Hormuz because progress has been made toward a deal with Iran.
+Quelle: BBC World RSS
+Zeit: 2026-05-06T04:17:41Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — North Korean hackers targeted ethnic Koreans in China with Android BirdCall malware</title>
+    <id>ace37372a80083fc</id>
+    <updated>2026-05-06T04:17:41Z</updated>
+    <link href="https://therecord.media/north-korean-hackers-target-ethnic-koreans-in-china" />
+    <summary>Researchers attributed a campaign targeting ethnic Koreans in China to APT37, using Android backdoor malware distributed through a card-game software supply chain.
+Quelle: The Record RSS
+Zeit: 2026-05-06T04:17:41Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — internationale-ereignisse — Romanian PM ousted in no-confidence vote</title>
     <id>0b639535f4b24a17</id>

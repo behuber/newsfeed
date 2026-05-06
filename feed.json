@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "0b2d0bf156a0eb9d",
+      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Iran-Konflikt — Trump says US to pause operation to guide vessels through Strait of Hormuz",
+      "content_text": "Trump says the US will halt its vessel-guidance operation in the Strait of Hormuz because progress has been made toward a deal with Iran.\nQuelle: BBC World RSS\nZeit: 2026-05-06T04:17:41Z",
+      "date_published": "2026-05-06T04:17:41Z",
+      "tags": [
+        "Iran-Konflikt",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "ace37372a80083fc",
+      "url": "https://therecord.media/north-korean-hackers-target-ethnic-koreans-in-china",
+      "title": "MITTEL — IT-Sicherheit — North Korean hackers targeted ethnic Koreans in China with Android BirdCall malware",
+      "content_text": "Researchers attributed a campaign targeting ethnic Koreans in China to APT37, using Android backdoor malware distributed through a card-game software supply chain.\nQuelle: The Record RSS\nZeit: 2026-05-06T04:17:41Z",
+      "date_published": "2026-05-06T04:17:41Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
       "id": "0b639535f4b24a17",
       "url": "https://www.bbc.com/news/articles/cgkpjz2638ro",
       "title": "MITTEL — internationale-ereignisse — Romanian PM ousted in no-confidence vote",
@@ -365,5 +397,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-06T02:02:23.253433Z"
+  "generated_at": "2026-05-06T04:18:11.862141Z"
 }
