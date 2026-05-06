@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 06 May 2026 12:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 12:26:49 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Iran-Krieg — Berichte über mögliches Abkommen im Iran-Krieg drücken Ölpreis und stützen Börsen</title>
+      <link>https://www.bbc.com/news/articles/c4g8zejyyr3o</link>
+      <guid isPermaLink="false">a6a8d5e7f39966a3</guid>
+      <pubDate>Wed, 06 May 2026 12:16:39 +0000</pubDate>
+      <description>Laut BBC nähren Berichte über ein mögliches Abkommen zwischen den USA und Iran Hoffnungen auf ein Ende der jüngsten Eskalation; Öl fällt, Aktien steigen.
+Quelle: BBC World
+Zeit: 2026-05-06T12:16:39Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — Iran-Krieg — China drängt in Gesprächen mit Iran auf schnelle Wiederöffnung der Straße von Hormus</title>
       <link>https://www.bbc.com/news/articles/c0m21mndm71o</link>

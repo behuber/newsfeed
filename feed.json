@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "a6a8d5e7f39966a3",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o",
+      "title": "MITTEL — Iran-Krieg — Berichte über mögliches Abkommen im Iran-Krieg drücken Ölpreis und stützen Börsen",
+      "content_text": "Laut BBC nähren Berichte über ein mögliches Abkommen zwischen den USA und Iran Hoffnungen auf ein Ende der jüngsten Eskalation; Öl fällt, Aktien steigen.\nQuelle: BBC World\nZeit: 2026-05-06T12:16:39Z",
+      "date_published": "2026-05-06T12:16:39Z",
+      "tags": [
+        "Iran-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "af938f43eff696e4",
       "url": "https://www.bbc.com/news/articles/c0m21mndm71o",
       "title": "MITTEL — Iran-Krieg — China drängt in Gesprächen mit Iran auf schnelle Wiederöffnung der Straße von Hormus",
@@ -477,5 +493,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-06T12:11:48.491461Z"
+  "generated_at": "2026-05-06T12:26:49.074504Z"
 }

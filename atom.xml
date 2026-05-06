@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-06T12:11:48.491461Z</updated>
+  <updated>2026-05-06T12:26:49.074504Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Iran-Krieg — Berichte über mögliches Abkommen im Iran-Krieg drücken Ölpreis und stützen Börsen</title>
+    <id>a6a8d5e7f39966a3</id>
+    <updated>2026-05-06T12:16:39Z</updated>
+    <link href="https://www.bbc.com/news/articles/c4g8zejyyr3o" />
+    <summary>Laut BBC nähren Berichte über ein mögliches Abkommen zwischen den USA und Iran Hoffnungen auf ein Ende der jüngsten Eskalation; Öl fällt, Aktien steigen.
+Quelle: BBC World
+Zeit: 2026-05-06T12:16:39Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — Iran-Krieg — China drängt in Gesprächen mit Iran auf schnelle Wiederöffnung der Straße von Hormus</title>
     <id>af938f43eff696e4</id>
