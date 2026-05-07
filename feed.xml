@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 07 May 2026 18:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:42:15 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Ukraine-Krieg — Vor Moskaus Siegesparade fahren erstmals seit Jahren keine Panzer</title>
+      <link>https://www.bbc.com/news/articles/cwy2gj2jlr8o</link>
+      <guid isPermaLink="false">0f9bef8c85c5f6d0</guid>
+      <pubDate>Thu, 07 May 2026 18:32:31 +0000</pubDate>
+      <description>Laut BBC ist für die Siegesparade in Moskau diesmal keine Militärtechnik vorgesehen; das wird als weiteres Signal gewertet, wie stark Russlands Ressourcen durch den Krieg gegen die Ukraine gebunden sind.
+Quelle: BBC World
+Zeit: 2026-05-07T18:32:31Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — IT-Sicherheit — Polnischer Geheimdienst meldet Hackerangriffe auf Steuerungen von Wasseraufbereitungsanlagen</title>
+      <link>https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment</link>
+      <guid isPermaLink="false">54e1484e92ec70ee</guid>
+      <pubDate>Thu, 07 May 2026 18:32:23 +0000</pubDate>
+      <description>Polens Nachrichtendienst warnt vor Angriffen auf Kontrollsysteme von Wasseraufbereitungsanlagen und verweist auf verstärkte feindliche Cyberaktivität mit besonderem Fokus auf russische Dienste.
+Quelle: The Record
+Zeit: 2026-05-07T18:32:23Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — IT-Sicherheit — Polnischer Geheimdienst meldet Hackerangriffe auf Wasseraufbereitungs-Steuerungen</title>
       <link>https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment</link>

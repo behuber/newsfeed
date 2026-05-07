@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "0f9bef8c85c5f6d0",
+      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o",
+      "title": "MITTEL — Ukraine-Krieg — Vor Moskaus Siegesparade fahren erstmals seit Jahren keine Panzer",
+      "content_text": "Laut BBC ist für die Siegesparade in Moskau diesmal keine Militärtechnik vorgesehen; das wird als weiteres Signal gewertet, wie stark Russlands Ressourcen durch den Krieg gegen die Ukraine gebunden sind.\nQuelle: BBC World\nZeit: 2026-05-07T18:32:31Z",
+      "date_published": "2026-05-07T18:32:31Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "54e1484e92ec70ee",
+      "url": "https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment",
+      "title": "HOCH — IT-Sicherheit — Polnischer Geheimdienst meldet Hackerangriffe auf Steuerungen von Wasseraufbereitungsanlagen",
+      "content_text": "Polens Nachrichtendienst warnt vor Angriffen auf Kontrollsysteme von Wasseraufbereitungsanlagen und verweist auf verstärkte feindliche Cyberaktivität mit besonderem Fokus auf russische Dienste.\nQuelle: The Record\nZeit: 2026-05-07T18:32:23Z",
+      "date_published": "2026-05-07T18:32:23Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "afabbeac135d7d58",
       "url": "https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment",
       "title": "HOCH — IT-Sicherheit — Polnischer Geheimdienst meldet Hackerangriffe auf Wasseraufbereitungs-Steuerungen",
@@ -557,5 +589,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-07T18:12:13.329804Z"
+  "generated_at": "2026-05-07T18:42:15.849244Z"
 }

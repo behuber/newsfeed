@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-07T18:12:13.329804Z</updated>
+  <updated>2026-05-07T18:42:15.849244Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg — Vor Moskaus Siegesparade fahren erstmals seit Jahren keine Panzer</title>
+    <id>0f9bef8c85c5f6d0</id>
+    <updated>2026-05-07T18:32:31Z</updated>
+    <link href="https://www.bbc.com/news/articles/cwy2gj2jlr8o" />
+    <summary>Laut BBC ist für die Siegesparade in Moskau diesmal keine Militärtechnik vorgesehen; das wird als weiteres Signal gewertet, wie stark Russlands Ressourcen durch den Krieg gegen die Ukraine gebunden sind.
+Quelle: BBC World
+Zeit: 2026-05-07T18:32:31Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — IT-Sicherheit — Polnischer Geheimdienst meldet Hackerangriffe auf Steuerungen von Wasseraufbereitungsanlagen</title>
+    <id>54e1484e92ec70ee</id>
+    <updated>2026-05-07T18:32:23Z</updated>
+    <link href="https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment" />
+    <summary>Polens Nachrichtendienst warnt vor Angriffen auf Kontrollsysteme von Wasseraufbereitungsanlagen und verweist auf verstärkte feindliche Cyberaktivität mit besonderem Fokus auf russische Dienste.
+Quelle: The Record
+Zeit: 2026-05-07T18:32:23Z</summary>
+  </entry>
   <entry>
     <title>HOCH — IT-Sicherheit — Polnischer Geheimdienst meldet Hackerangriffe auf Wasseraufbereitungs-Steuerungen</title>
     <id>afabbeac135d7d58</id>
