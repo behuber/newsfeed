@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-06T16:16:01.966943Z</updated>
+  <updated>2026-05-07T16:42:12.863978Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — IT-Sicherheit — Polnischer Geheimdienst meldet Hackerangriffe auf Wasseraufbereitungs-Steuerungen</title>
+    <id>afabbeac135d7d58</id>
+    <updated>2026-05-07T16:40:44Z</updated>
+    <link href="https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment" />
+    <summary>Polens Nachrichtendienst warnt vor Angriffen auf Steuerungssysteme von Wasseraufbereitungsanlagen und verweist auf verstärkte feindliche Cyberaktivität mit Fokus auf russische Dienste.
+Quelle: The Record
+Zeit: 2026-05-07T16:40:44Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Iran-Krieg — Ölpreis fällt und Börsen steigen nach Berichten über Deal zum Ende des Iran-Kriegs</title>
+    <id>d6949aa3d37c86ce</id>
+    <updated>2026-05-06T16:16:47Z</updated>
+    <link href="https://www.bbc.com/news/articles/c4g8zejyyr3o" />
+    <summary>BBC berichtet von neuen Hoffnungen auf eine Einigung zwischen den USA und Iran nach Tagen der Eskalation; Ölpreise fallen, Aktienmärkte steigen.
+Quelle: BBC World
+Zeit: 2026-05-06T16:16:47Z</summary>
+  </entry>
   <entry>
     <title>HOCH — IT-Sicherheit — Hackers compromise Daemon Tools in global supply-chain attack, researchers say</title>
     <id>8c6cb8e5306f3637</id>
