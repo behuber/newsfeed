@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 08 May 2026 12:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:40:12 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russia and Ukraine accuse each other of breaching Victory Day ceasefire</title>
+      <link>https://www.bbc.com/news/articles/c202zn5gg0lo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">5597a5cd6a90c77c</guid>
+      <pubDate>Fri, 08 May 2026 12:32:22 +0000</pubDate>
+      <description>BBC berichtet, dass beide Seiten nur Stunden nach Inkrafttreten der Waffenruhe Hunderte Drohnenangriffe meldeten und sich gegenseitig Verstöße vorwerfen.
+Quelle: BBC World RSS
+Zeit: 2026-05-08T12:32:22Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — US und Iran melden Feuerwechsel in der Straße von Hormus trotz angeblicher Waffenruhe</title>
       <link>https://www.bbc.com/news/articles/c626zyywxjno</link>

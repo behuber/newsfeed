@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "5597a5cd6a90c77c",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Ukraine-Krieg — Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "content_text": "BBC berichtet, dass beide Seiten nur Stunden nach Inkrafttreten der Waffenruhe Hunderte Drohnenangriffe meldeten und sich gegenseitig Verstöße vorwerfen.\nQuelle: BBC World RSS\nZeit: 2026-05-08T12:32:22Z",
+      "date_published": "2026-05-08T12:32:22Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "01e988fa53ec2e96",
       "url": "https://www.bbc.com/news/articles/c626zyywxjno",
       "title": "HOCH — Iran-Krieg — US und Iran melden Feuerwechsel in der Straße von Hormus trotz angeblicher Waffenruhe",
@@ -701,5 +717,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-08T12:25:11.642360Z"
+  "generated_at": "2026-05-08T12:40:12.167966Z"
 }

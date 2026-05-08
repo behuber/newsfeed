@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-08T12:25:11.642360Z</updated>
+  <updated>2026-05-08T12:40:12.167966Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Russia and Ukraine accuse each other of breaching Victory Day ceasefire</title>
+    <id>5597a5cd6a90c77c</id>
+    <updated>2026-05-08T12:32:22Z</updated>
+    <link href="https://www.bbc.com/news/articles/c202zn5gg0lo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>BBC berichtet, dass beide Seiten nur Stunden nach Inkrafttreten der Waffenruhe Hunderte Drohnenangriffe meldeten und sich gegenseitig Verstöße vorwerfen.
+Quelle: BBC World RSS
+Zeit: 2026-05-08T12:32:22Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — US und Iran melden Feuerwechsel in der Straße von Hormus trotz angeblicher Waffenruhe</title>
     <id>01e988fa53ec2e96</id>
