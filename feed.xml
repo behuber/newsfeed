@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 08 May 2026 20:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 20:40:13 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Canvas cyber incident forces universities to reschedule exams</title>
+      <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
+      <guid isPermaLink="false">50ff6447077419c6</guid>
+      <pubDate>Fri, 08 May 2026 20:32:21 +0000</pubDate>
+      <description>After a cyber incident affecting the Canvas education platform, multiple universities have had to reschedule final exams, turning the breach into a direct operational disruption.
+Quelle: The Record
+Zeit: 2026-05-08T20:32:21Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — IT-Sicherheit — Multiple universities forced to reschedule final exams after Canvas cyber incident</title>
       <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
