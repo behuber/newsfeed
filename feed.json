@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "cbdd66a32d5ab5e1",
+      "url": "https://www.bbc.com/news/articles/c626zyywxjno",
+      "title": "HOCH — Iran-Krieg — Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "content_text": "BBC berichtet über neuen Beschuss trotz Waffenruhe: Trump sagt, die US-Iran-Feuerpause halte weiter, während Iran den USA Verstöße in der Straße von Hormus vorwirft.\nQuelle: BBC World RSS\nZeit: 2026-05-08T06:32:22Z",
+      "date_published": "2026-05-08T06:32:22Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "18a1f75d94bf125e",
+      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo",
+      "title": "MITTEL — AI-News — Instagram privacy tech is turned off today - what does this mean for your DMs?",
+      "content_text": "BBC Technology meldet eine Kehrtwende bei Meta: Instagram entfernt laut Feed heute die Ende-zu-Ende-Verschlüsselung für Direktnachrichten.\nQuelle: BBC Technology RSS\nZeit: 2026-05-08T06:32:22Z",
+      "date_published": "2026-05-08T06:32:22Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology RSS"
+        }
+      ]
+    },
+    {
       "id": "e5f7cf4f318169f0",
       "url": "https://www.bbc.com/news/articles/clypzxl3lvqo",
       "title": "MITTEL — allgemeine IT-News — Instagram privacy tech is turned off today- what does this mean for your DMs?",
@@ -621,5 +653,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-08T06:24:04.689980Z"
+  "generated_at": "2026-05-08T06:39:04.648839Z"
 }

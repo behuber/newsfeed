@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 08 May 2026 06:24:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 06:39:04 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/c626zyywxjno</link>
+      <guid isPermaLink="false">cbdd66a32d5ab5e1</guid>
+      <pubDate>Fri, 08 May 2026 06:32:22 +0000</pubDate>
+      <description>BBC berichtet über neuen Beschuss trotz Waffenruhe: Trump sagt, die US-Iran-Feuerpause halte weiter, während Iran den USA Verstöße in der Straße von Hormus vorwirft.
+Quelle: BBC World RSS
+Zeit: 2026-05-08T06:32:22Z</description>
+      <category>Iran-Krieg</category>
+    </item>
+    <item>
+      <title>MITTEL — AI-News — Instagram privacy tech is turned off today - what does this mean for your DMs?</title>
+      <link>https://www.bbc.com/news/articles/clypzxl3lvqo</link>
+      <guid isPermaLink="false">18a1f75d94bf125e</guid>
+      <pubDate>Fri, 08 May 2026 06:32:22 +0000</pubDate>
+      <description>BBC Technology meldet eine Kehrtwende bei Meta: Instagram entfernt laut Feed heute die Ende-zu-Ende-Verschlüsselung für Direktnachrichten.
+Quelle: BBC Technology RSS
+Zeit: 2026-05-08T06:32:22Z</description>
+      <category>AI-News</category>
+    </item>
     <item>
       <title>MITTEL — allgemeine IT-News — Instagram privacy tech is turned off today- what does this mean for your DMs?</title>
       <link>https://www.bbc.com/news/articles/clypzxl3lvqo</link>
