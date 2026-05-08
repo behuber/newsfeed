@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "b1856f93587f4374",
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
+      "title": "HOCH — IT-Sicherheit — International cyber attack disrupts swathe of universities and schools",
+      "content_text": "Ein internationaler Cyberangriff auf Canvas-Software stört laut BBC zahlreiche Schulen und Hochschulen weltweit.\nQuelle: BBC World RSS\nZeit: 2026-05-08T14:32:26Z",
+      "date_published": "2026-05-08T14:32:26Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "5597a5cd6a90c77c",
       "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_campaign=rss&at_medium=RSS",
       "title": "HOCH — Ukraine-Krieg — Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
@@ -717,5 +733,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-08T14:25:12.042901Z"
+  "generated_at": "2026-05-08T14:40:15.544794Z"
 }

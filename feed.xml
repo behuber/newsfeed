@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 08 May 2026 14:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 14:40:15 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — IT-Sicherheit — International cyber attack disrupts swathe of universities and schools</title>
+      <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>
+      <guid isPermaLink="false">b1856f93587f4374</guid>
+      <pubDate>Fri, 08 May 2026 14:32:26 +0000</pubDate>
+      <description>Ein internationaler Cyberangriff auf Canvas-Software stört laut BBC zahlreiche Schulen und Hochschulen weltweit.
+Quelle: BBC World RSS
+Zeit: 2026-05-08T14:32:26Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Ukraine-Krieg — Russia and Ukraine accuse each other of breaching Victory Day ceasefire</title>
       <link>https://www.bbc.com/news/articles/c202zn5gg0lo?at_campaign=rss&amp;at_medium=RSS</link>
