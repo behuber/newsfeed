@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-08T10:25:11.408830Z</updated>
+  <updated>2026-05-08T10:40:11.748016Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — US und Iran melden Feuerwechsel in der Straße von Hormus trotz angeblicher Waffenruhe</title>
+    <id>01e988fa53ec2e96</id>
+    <updated>2026-05-08T10:32:28Z</updated>
+    <link href="https://www.bbc.com/news/articles/c626zyywxjno" />
+    <summary>BBC World meldet neuen Feuerwechsel in der Straße von Hormus; Trump sagt, die Waffenruhe gelte weiter, während Iran den USA Verstöße vorwirft. Ölpreise legten laut BBC zu.
+Quelle: BBC World RSS
+Zeit: 2026-05-08T10:32:28Z</summary>
+  </entry>
   <entry>
     <title>HOCH — it-sicherheit — Polish intelligence warns hackers attacked water treatment control systems</title>
     <id>4e1ceec6db2ca756</id>

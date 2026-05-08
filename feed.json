@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "01e988fa53ec2e96",
+      "url": "https://www.bbc.com/news/articles/c626zyywxjno",
+      "title": "HOCH — Iran-Krieg — US und Iran melden Feuerwechsel in der Straße von Hormus trotz angeblicher Waffenruhe",
+      "content_text": "BBC World meldet neuen Feuerwechsel in der Straße von Hormus; Trump sagt, die Waffenruhe gelte weiter, während Iran den USA Verstöße vorwirft. Ölpreise legten laut BBC zu.\nQuelle: BBC World RSS\nZeit: 2026-05-08T10:32:28Z",
+      "date_published": "2026-05-08T10:32:28Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "4e1ceec6db2ca756",
       "url": "https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment",
       "title": "HOCH — it-sicherheit — Polish intelligence warns hackers attacked water treatment control systems",
@@ -685,5 +701,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-08T10:25:11.408830Z"
+  "generated_at": "2026-05-08T10:40:11.748016Z"
 }

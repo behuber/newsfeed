@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 08 May 2026 10:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:40:11 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — US und Iran melden Feuerwechsel in der Straße von Hormus trotz angeblicher Waffenruhe</title>
+      <link>https://www.bbc.com/news/articles/c626zyywxjno</link>
+      <guid isPermaLink="false">01e988fa53ec2e96</guid>
+      <pubDate>Fri, 08 May 2026 10:32:28 +0000</pubDate>
+      <description>BBC World meldet neuen Feuerwechsel in der Straße von Hormus; Trump sagt, die Waffenruhe gelte weiter, während Iran den USA Verstöße vorwirft. Ölpreise legten laut BBC zu.
+Quelle: BBC World RSS
+Zeit: 2026-05-08T10:32:28Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>HOCH — it-sicherheit — Polish intelligence warns hackers attacked water treatment control systems</title>
       <link>https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment</link>
