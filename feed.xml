@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 08 May 2026 16:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:40:12 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Iran accuses US of 'reckless military adventure'</title>
+      <link>https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">99f72174ba983b97</guid>
+      <pubDate>Fri, 08 May 2026 16:32:21 +0000</pubDate>
+      <description>Iranian Foreign Minister Abbas Araghchi says US attacks come despite a diplomatic solution being on the table, marking a fresh escalation in the Iran-US confrontation.
+Quelle: BBC World RSS
+Zeit: 2026-05-08T16:32:21Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>HOCH — IT-Sicherheit — International cyber attack disrupts swathe of universities and schools</title>
       <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>

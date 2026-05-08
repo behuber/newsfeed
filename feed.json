@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "99f72174ba983b97",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Iran-Krieg — Iran accuses US of 'reckless military adventure'",
+      "content_text": "Iranian Foreign Minister Abbas Araghchi says US attacks come despite a diplomatic solution being on the table, marking a fresh escalation in the Iran-US confrontation.\nQuelle: BBC World RSS\nZeit: 2026-05-08T16:32:21Z",
+      "date_published": "2026-05-08T16:32:21Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "b1856f93587f4374",
       "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
       "title": "HOCH — IT-Sicherheit — International cyber attack disrupts swathe of universities and schools",
@@ -733,5 +749,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-08T16:25:12.642106Z"
+  "generated_at": "2026-05-08T16:40:12.802667Z"
 }

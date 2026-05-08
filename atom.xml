@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-08T16:25:12.642106Z</updated>
+  <updated>2026-05-08T16:40:12.802667Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — Iran accuses US of 'reckless military adventure'</title>
+    <id>99f72174ba983b97</id>
+    <updated>2026-05-08T16:32:21Z</updated>
+    <link href="https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Iranian Foreign Minister Abbas Araghchi says US attacks come despite a diplomatic solution being on the table, marking a fresh escalation in the Iran-US confrontation.
+Quelle: BBC World RSS
+Zeit: 2026-05-08T16:32:21Z</summary>
+  </entry>
   <entry>
     <title>HOCH — IT-Sicherheit — International cyber attack disrupts swathe of universities and schools</title>
     <id>b1856f93587f4374</id>
