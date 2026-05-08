@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-08T18:25:17.818027Z</updated>
+  <updated>2026-05-08T18:40:35.476604Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — IT-Sicherheit — Multiple universities forced to reschedule final exams after Canvas cyber incident</title>
+    <id>ec65b2922f6a372a</id>
+    <updated>2026-05-08T18:32:32Z</updated>
+    <link href="https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident" />
+    <summary>Nach einem Cybervorfall bei Canvas müssen mehrere Hochschulen Abschlussprüfungen verschieben; Studierende sahen Erpresserhinweise im Lernsystem.
+Quelle: The Record RSS
+Zeit: 2026-05-08T18:32:32Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Iran accuses US of 'reckless military adventure'</title>
     <id>99f72174ba983b97</id>

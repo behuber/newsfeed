@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 08 May 2026 18:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 18:40:35 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — IT-Sicherheit — Multiple universities forced to reschedule final exams after Canvas cyber incident</title>
+      <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
+      <guid isPermaLink="false">ec65b2922f6a372a</guid>
+      <pubDate>Fri, 08 May 2026 18:32:32 +0000</pubDate>
+      <description>Nach einem Cybervorfall bei Canvas müssen mehrere Hochschulen Abschlussprüfungen verschieben; Studierende sahen Erpresserhinweise im Lernsystem.
+Quelle: The Record RSS
+Zeit: 2026-05-08T18:32:32Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — Iran accuses US of 'reckless military adventure'</title>
       <link>https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&amp;at_medium=RSS</link>

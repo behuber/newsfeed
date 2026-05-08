@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "ec65b2922f6a372a",
+      "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
+      "title": "HOCH — IT-Sicherheit — Multiple universities forced to reschedule final exams after Canvas cyber incident",
+      "content_text": "Nach einem Cybervorfall bei Canvas müssen mehrere Hochschulen Abschlussprüfungen verschieben; Studierende sahen Erpresserhinweise im Lernsystem.\nQuelle: The Record RSS\nZeit: 2026-05-08T18:32:32Z",
+      "date_published": "2026-05-08T18:32:32Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
       "id": "99f72174ba983b97",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&at_medium=RSS",
       "title": "HOCH — Iran-Krieg — Iran accuses US of 'reckless military adventure'",
@@ -749,5 +765,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-08T18:25:17.818027Z"
+  "generated_at": "2026-05-08T18:40:35.476604Z"
 }
