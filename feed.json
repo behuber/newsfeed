@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "4e1ceec6db2ca756",
+      "url": "https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment",
+      "title": "HOCH — it-sicherheit — Polish intelligence warns hackers attacked water treatment control systems",
+      "content_text": "Polens Nachrichtendienste warnen laut The Record vor Angriffen auf Steuerungssysteme von Wasseraufbereitungsanlagen; die Behörde verweist auf verschärfte feindliche Cyberaktivität mit Schwerpunkt Russland.\nQuelle: The Record RSS\nZeit: 2026-05-08T08:32:40Z",
+      "date_published": "2026-05-08T08:32:40Z",
+      "tags": [
+        "it-sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
+      "id": "4b056e7bd831fff3",
+      "url": "https://therecord.media/european-leaders-unveil-deal-ai-act-nudification",
+      "title": "MITTEL — ai-news — European leaders unveil tentative deal for AI Act simplification, including a ban on nudification tools",
+      "content_text": "Laut The Record gibt es eine vorläufige Einigung zur Vereinfachung des EU AI Act: Hochrisiko-Regeln würden teils bis Dezember 2027 verschoben, zugleich sollen Nudification-Tools verboten werden.\nQuelle: The Record RSS\nZeit: 2026-05-08T08:32:25Z",
+      "date_published": "2026-05-08T08:32:25Z",
+      "tags": [
+        "ai-news",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
       "id": "cbdd66a32d5ab5e1",
       "url": "https://www.bbc.com/news/articles/c626zyywxjno",
       "title": "HOCH — Iran-Krieg — Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
@@ -653,5 +685,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-08T08:25:13.905679Z"
+  "generated_at": "2026-05-08T08:40:11.684864Z"
 }

@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 08 May 2026 08:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 08:40:11 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — it-sicherheit — Polish intelligence warns hackers attacked water treatment control systems</title>
+      <link>https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment</link>
+      <guid isPermaLink="false">4e1ceec6db2ca756</guid>
+      <pubDate>Fri, 08 May 2026 08:32:40 +0000</pubDate>
+      <description>Polens Nachrichtendienste warnen laut The Record vor Angriffen auf Steuerungssysteme von Wasseraufbereitungsanlagen; die Behörde verweist auf verschärfte feindliche Cyberaktivität mit Schwerpunkt Russland.
+Quelle: The Record RSS
+Zeit: 2026-05-08T08:32:40Z</description>
+      <category>it-sicherheit</category>
+    </item>
+    <item>
+      <title>MITTEL — ai-news — European leaders unveil tentative deal for AI Act simplification, including a ban on nudification tools</title>
+      <link>https://therecord.media/european-leaders-unveil-deal-ai-act-nudification</link>
+      <guid isPermaLink="false">4b056e7bd831fff3</guid>
+      <pubDate>Fri, 08 May 2026 08:32:25 +0000</pubDate>
+      <description>Laut The Record gibt es eine vorläufige Einigung zur Vereinfachung des EU AI Act: Hochrisiko-Regeln würden teils bis Dezember 2027 verschoben, zugleich sollen Nudification-Tools verboten werden.
+Quelle: The Record RSS
+Zeit: 2026-05-08T08:32:25Z</description>
+      <category>ai-news</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz</title>
       <link>https://www.bbc.com/news/articles/c626zyywxjno</link>

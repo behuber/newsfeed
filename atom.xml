@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-08T08:25:13.905679Z</updated>
+  <updated>2026-05-08T08:40:11.684864Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — it-sicherheit — Polish intelligence warns hackers attacked water treatment control systems</title>
+    <id>4e1ceec6db2ca756</id>
+    <updated>2026-05-08T08:32:40Z</updated>
+    <link href="https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment" />
+    <summary>Polens Nachrichtendienste warnen laut The Record vor Angriffen auf Steuerungssysteme von Wasseraufbereitungsanlagen; die Behörde verweist auf verschärfte feindliche Cyberaktivität mit Schwerpunkt Russland.
+Quelle: The Record RSS
+Zeit: 2026-05-08T08:32:40Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — ai-news — European leaders unveil tentative deal for AI Act simplification, including a ban on nudification tools</title>
+    <id>4b056e7bd831fff3</id>
+    <updated>2026-05-08T08:32:25Z</updated>
+    <link href="https://therecord.media/european-leaders-unveil-deal-ai-act-nudification" />
+    <summary>Laut The Record gibt es eine vorläufige Einigung zur Vereinfachung des EU AI Act: Hochrisiko-Regeln würden teils bis Dezember 2027 verschoben, zugleich sollen Nudification-Tools verboten werden.
+Quelle: The Record RSS
+Zeit: 2026-05-08T08:32:25Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz</title>
     <id>cbdd66a32d5ab5e1</id>
