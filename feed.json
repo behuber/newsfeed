@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "99f72174ba983b97",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
+      "title": "HOCH — Iran-Krieg — Iran accuses US of reckless military adventure",
+      "content_text": "Iranian Foreign Minister Abbas Araghchi accused the US of a reckless military adventure and said Washington strikes whenever a diplomatic solution is on the table.\nQuelle: BBC World RSS\nZeit: 2026-05-09T04:32:21Z",
+      "date_published": "2026-05-09T04:32:21Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "50ff6447077419c6",
       "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
       "title": "MITTEL — IT-Sicherheit — Canvas cyber incident forces universities to reschedule exams",
@@ -781,5 +797,5 @@
       ]
     }
   ],
-  "generated_at": "2026-05-09T04:25:13.622342Z"
+  "generated_at": "2026-05-09T04:40:15.961941Z"
 }
