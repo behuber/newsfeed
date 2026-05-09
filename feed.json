@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "bd15e9d580788b53",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
+      "title": "HOCH — Iran-Krieg — Iran wirft den USA ein \"reckless military adventure\" vor",
+      "content_text": "Irans Außenminister wirft den USA nach den jüngsten Angriffen vor, diplomatische Lösungen zu torpedieren; der Streit eskaliert weiter.\nQuelle: BBC World RSS\nZeit: 2026-05-09T06:32:37Z",
+      "date_published": "2026-05-09T06:32:37Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "3acc73a887b4c93f",
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
+      "title": "HOCH — IT-Sicherheit — Canvas-Hack stört Hochschulen und Schulen international",
+      "content_text": "Ein Cyberangriff auf die Lernplattform Canvas beeinträchtigt weltweit Schulen und Universitäten; teils mussten Prüfungen verschoben werden.\nQuelle: BBC World RSS\nZeit: 2026-05-09T06:32:37Z",
+      "date_published": "2026-05-09T06:32:37Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "99f72174ba983b97",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
       "title": "HOCH — Iran-Krieg — Iran accuses US of reckless military adventure",
@@ -779,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "316cc48dd61ace26",
-      "url": "https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug",
-      "title": "HOCH — it-sicherheit — CISA setzt Frist für Patch einer kritischen cPanel-Lücke bis Sonntag",
-      "content_text": "US-Bundesbehörden müssen laut The Record eine cPanel-Sicherheitslücke bis Sonntag schließen; Rapid7 warnt, erfolgreiche Ausnutzung gebe Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites.\nQuelle: The Record RSS\nZeit: 2026-05-02T09:28:24Z",
-      "date_published": "2026-05-02T09:28:24Z",
-      "tags": [
-        "it-sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-09T06:25:19.366734Z"
+  "generated_at": "2026-05-09T06:40:12.933959Z"
 }

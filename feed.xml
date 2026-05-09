@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 09 May 2026 06:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 06:40:12 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Iran wirft den USA ein "reckless military adventure" vor</title>
+      <link>https://www.bbc.com/news/articles/c99lpn9ze8ro</link>
+      <guid isPermaLink="false">bd15e9d580788b53</guid>
+      <pubDate>Sat, 09 May 2026 06:32:37 +0000</pubDate>
+      <description>Irans Außenminister wirft den USA nach den jüngsten Angriffen vor, diplomatische Lösungen zu torpedieren; der Streit eskaliert weiter.
+Quelle: BBC World RSS
+Zeit: 2026-05-09T06:32:37Z</description>
+      <category>Iran-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — IT-Sicherheit — Canvas-Hack stört Hochschulen und Schulen international</title>
+      <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>
+      <guid isPermaLink="false">3acc73a887b4c93f</guid>
+      <pubDate>Sat, 09 May 2026 06:32:37 +0000</pubDate>
+      <description>Ein Cyberangriff auf die Lernplattform Canvas beeinträchtigt weltweit Schulen und Universitäten; teils mussten Prüfungen verschoben werden.
+Quelle: BBC World RSS
+Zeit: 2026-05-09T06:32:37Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — Iran accuses US of reckless military adventure</title>
       <link>https://www.bbc.com/news/articles/c99lpn9ze8ro</link>
@@ -487,16 +507,6 @@ Zeit: 2026-05-02T17:22:29Z</description>
 Quelle: BBC World
 Zeit: 2026-05-02T10:17:15Z</description>
       <category>iran-krieg</category>
-    </item>
-    <item>
-      <title>HOCH — it-sicherheit — CISA setzt Frist für Patch einer kritischen cPanel-Lücke bis Sonntag</title>
-      <link>https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug</link>
-      <guid isPermaLink="false">316cc48dd61ace26</guid>
-      <pubDate>Sat, 02 May 2026 09:28:24 +0000</pubDate>
-      <description>US-Bundesbehörden müssen laut The Record eine cPanel-Sicherheitslücke bis Sonntag schließen; Rapid7 warnt, erfolgreiche Ausnutzung gebe Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites.
-Quelle: The Record RSS
-Zeit: 2026-05-02T09:28:24Z</description>
-      <category>it-sicherheit</category>
     </item>
   </channel>
 </rss>
