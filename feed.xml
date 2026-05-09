@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 09 May 2026 10:25:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 10:40:44 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — IT-Sicherheit — International cyber attack disrupts universities and schools via Canvas</title>
+      <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>
+      <guid isPermaLink="false">938e0cc9e20aadbb</guid>
+      <pubDate>Sat, 09 May 2026 10:32:34 +0000</pubDate>
+      <description>BBC, BleepingComputer and The Record all report a broad cyber incident affecting Canvas, with hacked login portals and exam disruptions across universities and schools.
+Quelle: BBC World RSS
+Zeit: 2026-05-09T10:32:34Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — IT-Sicherheit — Canvas-Cyberangriff stört Hochschulen und Schulen weltweit</title>
       <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-02T20:16:04Z</description>
 Quelle: BBC World
 Zeit: 2026-05-02T18:16:26Z</description>
       <category>Internationale Ereignisse</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — US threatens shipping firms with sanctions if they pay Iran tolls</title>
-      <link>https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">2dc3725891e4c2fb</guid>
-      <pubDate>Sat, 02 May 2026 17:22:29 +0000</pubDate>
-      <description>Die USA drohen Reedereien mit Sanktionen, falls sie iranische Durchfahrtsgebühren zahlen. Das verschärft den wirtschaftlichen Druck im Umfeld des Iran-Konflikts und könnte Handel sowie Transportkosten belasten.
-Quelle: BBC World RSS
-Zeit: 2026-05-02T17:22:29Z</description>
-      <category>Iran-Krieg</category>
     </item>
   </channel>
 </rss>

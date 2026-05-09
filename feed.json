@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "938e0cc9e20aadbb",
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
+      "title": "HOCH — IT-Sicherheit — International cyber attack disrupts universities and schools via Canvas",
+      "content_text": "BBC, BleepingComputer and The Record all report a broad cyber incident affecting Canvas, with hacked login portals and exam disruptions across universities and schools.\nQuelle: BBC World RSS\nZeit: 2026-05-09T10:32:34Z",
+      "date_published": "2026-05-09T10:32:34Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "82fae59def71e077",
       "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
       "title": "HOCH — IT-Sicherheit — Canvas-Cyberangriff stört Hochschulen und Schulen weltweit",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "2dc3725891e4c2fb",
-      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Iran-Krieg — US threatens shipping firms with sanctions if they pay Iran tolls",
-      "content_text": "Die USA drohen Reedereien mit Sanktionen, falls sie iranische Durchfahrtsgebühren zahlen. Das verschärft den wirtschaftlichen Druck im Umfeld des Iran-Konflikts und könnte Handel sowie Transportkosten belasten.\nQuelle: BBC World RSS\nZeit: 2026-05-02T17:22:29Z",
-      "date_published": "2026-05-02T17:22:29Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-09T10:25:14.718946Z"
+  "generated_at": "2026-05-09T10:40:44.940429Z"
 }
