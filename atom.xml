@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-09T20:25:13.286997Z</updated>
+  <updated>2026-05-09T20:40:15.107966Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — AI-News — TikTok fährt KI-generierte Videobeschreibungen nach groben Fehlern zurück</title>
+    <id>e215c3e0003ee5fe</id>
+    <updated>2026-05-09T20:32:33Z</updated>
+    <link href="https://www.bbc.com/news/articles/c5yerd05n01o" />
+    <summary>BBC Technology berichtet, dass TikTok eine nur teils ausgerollte Funktion für KI-generierte Videobeschreibungen nach weithin geteilten Fehlbeschreibungen zurücknimmt.
+Quelle: BBC Technology
+Zeit: 2026-05-09T20:32:33Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Konflikt — Iran wirft den USA ein 'rücksichtsloses Militärabenteuer' vor</title>
     <id>594c9e4dd643977a</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-03T08:16:02Z</summary>
     <summary>The Record berichtet, dass Großbritanniens Cyberbehörde wegen KI-beschleunigter Schwachstellenfunde eine Welle dringender Sicherheitsupdates und höheres Ausnutzungsrisiko erwartet.
 Quelle: The Record
 Zeit: 2026-05-03T06:16:05Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Internationale Ereignisse — Trump kündigt weitere Truppenkürzungen in Deutschland an</title>
-    <id>3a2f6ab110489c34</id>
-    <updated>2026-05-03T06:15:59Z</updated>
-    <link href="https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Laut BBC hält Berlin den Abzug weiterer US-Soldaten für absehbar; in Washington wächst parteiübergreifend die Sorge über die geplante Reduzierung um 5.000 Soldaten.
-Quelle: BBC World
-Zeit: 2026-05-03T06:15:59Z</summary>
   </entry>
 </feed>

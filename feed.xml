@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 09 May 2026 20:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 20:40:15 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — AI-News — TikTok fährt KI-generierte Videobeschreibungen nach groben Fehlern zurück</title>
+      <link>https://www.bbc.com/news/articles/c5yerd05n01o</link>
+      <guid isPermaLink="false">e215c3e0003ee5fe</guid>
+      <pubDate>Sat, 09 May 2026 20:32:33 +0000</pubDate>
+      <description>BBC Technology berichtet, dass TikTok eine nur teils ausgerollte Funktion für KI-generierte Videobeschreibungen nach weithin geteilten Fehlbeschreibungen zurücknimmt.
+Quelle: BBC Technology
+Zeit: 2026-05-09T20:32:33Z</description>
+      <category>AI-News</category>
+    </item>
     <item>
       <title>HOCH — Iran-Konflikt — Iran wirft den USA ein 'rücksichtsloses Militärabenteuer' vor</title>
       <link>https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-03T08:16:02Z</description>
 Quelle: The Record
 Zeit: 2026-05-03T06:16:05Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — Internationale Ereignisse — Trump kündigt weitere Truppenkürzungen in Deutschland an</title>
-      <link>https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">3a2f6ab110489c34</guid>
-      <pubDate>Sun, 03 May 2026 06:15:59 +0000</pubDate>
-      <description>Laut BBC hält Berlin den Abzug weiterer US-Soldaten für absehbar; in Washington wächst parteiübergreifend die Sorge über die geplante Reduzierung um 5.000 Soldaten.
-Quelle: BBC World
-Zeit: 2026-05-03T06:15:59Z</description>
-      <category>Internationale Ereignisse</category>
     </item>
   </channel>
 </rss>

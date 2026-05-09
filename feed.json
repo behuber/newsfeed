@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "e215c3e0003ee5fe",
+      "url": "https://www.bbc.com/news/articles/c5yerd05n01o",
+      "title": "MITTEL — AI-News — TikTok fährt KI-generierte Videobeschreibungen nach groben Fehlern zurück",
+      "content_text": "BBC Technology berichtet, dass TikTok eine nur teils ausgerollte Funktion für KI-generierte Videobeschreibungen nach weithin geteilten Fehlbeschreibungen zurücknimmt.\nQuelle: BBC Technology\nZeit: 2026-05-09T20:32:33Z",
+      "date_published": "2026-05-09T20:32:33Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology"
+        }
+      ]
+    },
+    {
       "id": "594c9e4dd643977a",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&at_medium=RSS",
       "title": "HOCH — Iran-Konflikt — Iran wirft den USA ein 'rücksichtsloses Militärabenteuer' vor",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "3a2f6ab110489c34",
-      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — Internationale Ereignisse — Trump kündigt weitere Truppenkürzungen in Deutschland an",
-      "content_text": "Laut BBC hält Berlin den Abzug weiterer US-Soldaten für absehbar; in Washington wächst parteiübergreifend die Sorge über die geplante Reduzierung um 5.000 Soldaten.\nQuelle: BBC World\nZeit: 2026-05-03T06:15:59Z",
-      "date_published": "2026-05-03T06:15:59Z",
-      "tags": [
-        "Internationale Ereignisse",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-09T20:25:13.286997Z"
+  "generated_at": "2026-05-09T20:40:15.107966Z"
 }
