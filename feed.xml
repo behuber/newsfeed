@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 09 May 2026 12:25:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 12:40:15 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Ukraine-Krieg — Putin kritisiert NATO bei Moskauer Siegesparade</title>
+      <link>https://www.bbc.com/news/articles/c626xjq0q0vo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">336c3694e72583af</guid>
+      <pubDate>Sat, 09 May 2026 12:32:36 +0000</pubDate>
+      <description>Bei der Siegesparade in Moskau rechtfertigte Putin den Krieg gegen die Ukraine erneut und griff die NATO scharf an.
+Quelle: BBC World RSS
+Zeit: 2026-05-09T12:32:36Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>HOCH — IT-Sicherheit — International cyber attack disrupts universities and schools via Canvas</title>
       <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-03T04:16:00Z</description>
 Quelle: The Record
 Zeit: 2026-05-02T20:16:04Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — Internationale Ereignisse — Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification</title>
-      <link>https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">1800777a4e8e0e65</guid>
-      <pubDate>Sat, 02 May 2026 18:16:26 +0000</pubDate>
-      <description>BBC World berichtet, Deutschland halte den angekündigten Abzug von 5.000 US-Soldaten für absehbar; die Nato verlangt nun Klarstellung zu den Plänen.
-Quelle: BBC World
-Zeit: 2026-05-02T18:16:26Z</description>
-      <category>Internationale Ereignisse</category>
     </item>
   </channel>
 </rss>

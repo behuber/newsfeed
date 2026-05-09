@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "336c3694e72583af",
+      "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Ukraine-Krieg — Putin kritisiert NATO bei Moskauer Siegesparade",
+      "content_text": "Bei der Siegesparade in Moskau rechtfertigte Putin den Krieg gegen die Ukraine erneut und griff die NATO scharf an.\nQuelle: BBC World RSS\nZeit: 2026-05-09T12:32:36Z",
+      "date_published": "2026-05-09T12:32:36Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "938e0cc9e20aadbb",
       "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
       "title": "HOCH — IT-Sicherheit — International cyber attack disrupts universities and schools via Canvas",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "1800777a4e8e0e65",
-      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — Internationale Ereignisse — Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-      "content_text": "BBC World berichtet, Deutschland halte den angekündigten Abzug von 5.000 US-Soldaten für absehbar; die Nato verlangt nun Klarstellung zu den Plänen.\nQuelle: BBC World\nZeit: 2026-05-02T18:16:26Z",
-      "date_published": "2026-05-02T18:16:26Z",
-      "tags": [
-        "Internationale Ereignisse",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-09T12:25:14.455821Z"
+  "generated_at": "2026-05-09T12:40:15.432464Z"
 }

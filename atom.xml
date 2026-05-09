@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-09T12:25:14.455821Z</updated>
+  <updated>2026-05-09T12:40:15.432464Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg — Putin kritisiert NATO bei Moskauer Siegesparade</title>
+    <id>336c3694e72583af</id>
+    <updated>2026-05-09T12:32:36Z</updated>
+    <link href="https://www.bbc.com/news/articles/c626xjq0q0vo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Bei der Siegesparade in Moskau rechtfertigte Putin den Krieg gegen die Ukraine erneut und griff die NATO scharf an.
+Quelle: BBC World RSS
+Zeit: 2026-05-09T12:32:36Z</summary>
+  </entry>
   <entry>
     <title>HOCH — IT-Sicherheit — International cyber attack disrupts universities and schools via Canvas</title>
     <id>938e0cc9e20aadbb</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-03T04:16:00Z</summary>
     <summary>CISA verpflichtet US-Bundesbehörden laut The Record, eine cPanel-Schwachstelle bis Sonntag zu patchen. Erfolgreiche Ausnutzung kann Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites geben.
 Quelle: The Record
 Zeit: 2026-05-02T20:16:04Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Internationale Ereignisse — Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification</title>
-    <id>1800777a4e8e0e65</id>
-    <updated>2026-05-02T18:16:26Z</updated>
-    <link href="https://www.bbc.com/news/articles/cd9pn541jjlo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>BBC World berichtet, Deutschland halte den angekündigten Abzug von 5.000 US-Soldaten für absehbar; die Nato verlangt nun Klarstellung zu den Plänen.
-Quelle: BBC World
-Zeit: 2026-05-02T18:16:26Z</summary>
   </entry>
 </feed>
