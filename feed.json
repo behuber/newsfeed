@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "594c9e4dd643977a",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Iran-Konflikt — Iran wirft den USA ein 'rücksichtsloses Militärabenteuer' vor",
+      "content_text": "Irans Außenminister sagt laut BBC, die US-Angriffe kämen trotz diplomatischer Lösungsmöglichkeiten; das deutet auf eine weitere Eskalation im Iran-Konflikt hin.\nQuelle: BBC World RSS\nZeit: 2026-05-09T16:32:27Z",
+      "date_published": "2026-05-09T16:32:27Z",
+      "tags": [
+        "Iran-Konflikt",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "a4ee403ad8b28b15",
       "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
       "title": "HOCH — IT-Sicherheit — Cyberangriff auf Canvas stört Schulen und Universitäten weltweit",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "d948c84635bb5ab8",
-      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
-      "title": "HOCH — internationale ereignisse — Deutschland hält US-Truppenabzug nach Trumps Kürzungswarnung für absehbar",
-      "content_text": "Laut BBC hält Berlin einen Abzug von 5.000 US-Soldaten nach neuen Kürzungswarnungen von Präsident Trump für absehbar; in Washington kommt auch Kritik aus den Reihen der Republikaner.\nQuelle: BBC World\nZeit: 2026-05-03T04:16:00Z",
-      "date_published": "2026-05-03T04:16:00Z",
-      "tags": [
-        "internationale ereignisse",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-09T16:25:14.949104Z"
+  "generated_at": "2026-05-09T16:40:21.133426Z"
 }

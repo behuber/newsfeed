@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 09 May 2026 16:25:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 16:40:21 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Konflikt — Iran wirft den USA ein 'rücksichtsloses Militärabenteuer' vor</title>
+      <link>https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">594c9e4dd643977a</guid>
+      <pubDate>Sat, 09 May 2026 16:32:27 +0000</pubDate>
+      <description>Irans Außenminister sagt laut BBC, die US-Angriffe kämen trotz diplomatischer Lösungsmöglichkeiten; das deutet auf eine weitere Eskalation im Iran-Konflikt hin.
+Quelle: BBC World RSS
+Zeit: 2026-05-09T16:32:27Z</description>
+      <category>Iran-Konflikt</category>
+    </item>
     <item>
       <title>HOCH — IT-Sicherheit — Cyberangriff auf Canvas stört Schulen und Universitäten weltweit</title>
       <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-03T06:16:05Z</description>
 Quelle: BBC World
 Zeit: 2026-05-03T06:15:59Z</description>
       <category>Internationale Ereignisse</category>
-    </item>
-    <item>
-      <title>HOCH — internationale ereignisse — Deutschland hält US-Truppenabzug nach Trumps Kürzungswarnung für absehbar</title>
-      <link>https://www.bbc.com/news/articles/cd9pn541jjlo</link>
-      <guid isPermaLink="false">d948c84635bb5ab8</guid>
-      <pubDate>Sun, 03 May 2026 04:16:00 +0000</pubDate>
-      <description>Laut BBC hält Berlin einen Abzug von 5.000 US-Soldaten nach neuen Kürzungswarnungen von Präsident Trump für absehbar; in Washington kommt auch Kritik aus den Reihen der Republikaner.
-Quelle: BBC World
-Zeit: 2026-05-03T04:16:00Z</description>
-      <category>internationale ereignisse</category>
     </item>
   </channel>
 </rss>

@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-09T16:25:14.949104Z</updated>
+  <updated>2026-05-09T16:40:21.133426Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Konflikt — Iran wirft den USA ein 'rücksichtsloses Militärabenteuer' vor</title>
+    <id>594c9e4dd643977a</id>
+    <updated>2026-05-09T16:32:27Z</updated>
+    <link href="https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Irans Außenminister sagt laut BBC, die US-Angriffe kämen trotz diplomatischer Lösungsmöglichkeiten; das deutet auf eine weitere Eskalation im Iran-Konflikt hin.
+Quelle: BBC World RSS
+Zeit: 2026-05-09T16:32:27Z</summary>
+  </entry>
   <entry>
     <title>HOCH — IT-Sicherheit — Cyberangriff auf Canvas stört Schulen und Universitäten weltweit</title>
     <id>a4ee403ad8b28b15</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-03T06:16:05Z</summary>
     <summary>Laut BBC hält Berlin den Abzug weiterer US-Soldaten für absehbar; in Washington wächst parteiübergreifend die Sorge über die geplante Reduzierung um 5.000 Soldaten.
 Quelle: BBC World
 Zeit: 2026-05-03T06:15:59Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — internationale ereignisse — Deutschland hält US-Truppenabzug nach Trumps Kürzungswarnung für absehbar</title>
-    <id>d948c84635bb5ab8</id>
-    <updated>2026-05-03T04:16:00Z</updated>
-    <link href="https://www.bbc.com/news/articles/cd9pn541jjlo" />
-    <summary>Laut BBC hält Berlin einen Abzug von 5.000 US-Soldaten nach neuen Kürzungswarnungen von Präsident Trump für absehbar; in Washington kommt auch Kritik aus den Reihen der Republikaner.
-Quelle: BBC World
-Zeit: 2026-05-03T04:16:00Z</summary>
   </entry>
 </feed>
