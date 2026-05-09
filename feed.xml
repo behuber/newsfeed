@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 09 May 2026 08:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:40:13 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — IT-Sicherheit — Canvas-Cyberangriff stört Hochschulen und Schulen weltweit</title>
+      <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
+      <guid isPermaLink="false">82fae59def71e077</guid>
+      <pubDate>Sat, 09 May 2026 08:32:28 +0000</pubDate>
+      <description>BBC und The Record berichten über einen Cyberangriff auf Canvas, der zahlreiche Schulen und Universitäten trifft; teils mussten Abschlussprüfungen verschoben werden.
+Quelle: The Record RSS
+Zeit: 2026-05-09T08:32:28Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — Iran wirft den USA ein "reckless military adventure" vor</title>
       <link>https://www.bbc.com/news/articles/c99lpn9ze8ro</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-02T18:16:26Z</description>
 Quelle: BBC World RSS
 Zeit: 2026-05-02T17:22:29Z</description>
       <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — iran-krieg — Trump tells Congress ceasefire means he does not need their approval for Iran war</title>
-      <link>https://www.bbc.com/news/articles/c4g4xexy4w7o</link>
-      <guid isPermaLink="false">986c37b41319afc7</guid>
-      <pubDate>Sat, 02 May 2026 10:17:15 +0000</pubDate>
-      <description>Trump teilt dem Kongress laut BBC mit, der Waffenstillstand beende die Kampfhandlungen; deshalb brauche er keine Zustimmung des Kongresses für den Iran-Krieg.
-Quelle: BBC World
-Zeit: 2026-05-02T10:17:15Z</description>
-      <category>iran-krieg</category>
     </item>
   </channel>
 </rss>

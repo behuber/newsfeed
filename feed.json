@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "82fae59def71e077",
+      "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
+      "title": "HOCH — IT-Sicherheit — Canvas-Cyberangriff stört Hochschulen und Schulen weltweit",
+      "content_text": "BBC und The Record berichten über einen Cyberangriff auf Canvas, der zahlreiche Schulen und Universitäten trifft; teils mussten Abschlussprüfungen verschoben werden.\nQuelle: The Record RSS\nZeit: 2026-05-09T08:32:28Z",
+      "date_published": "2026-05-09T08:32:28Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
       "id": "bd15e9d580788b53",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
       "title": "HOCH — Iran-Krieg — Iran wirft den USA ein \"reckless military adventure\" vor",
@@ -795,23 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "986c37b41319afc7",
-      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o",
-      "title": "HOCH — iran-krieg — Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "content_text": "Trump teilt dem Kongress laut BBC mit, der Waffenstillstand beende die Kampfhandlungen; deshalb brauche er keine Zustimmung des Kongresses für den Iran-Krieg.\nQuelle: BBC World\nZeit: 2026-05-02T10:17:15Z",
-      "date_published": "2026-05-02T10:17:15Z",
-      "tags": [
-        "iran-krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-09T08:25:12.727479Z"
+  "generated_at": "2026-05-09T08:40:13.689257Z"
 }

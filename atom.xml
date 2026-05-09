@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-09T08:25:12.727479Z</updated>
+  <updated>2026-05-09T08:40:13.689257Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — IT-Sicherheit — Canvas-Cyberangriff stört Hochschulen und Schulen weltweit</title>
+    <id>82fae59def71e077</id>
+    <updated>2026-05-09T08:32:28Z</updated>
+    <link href="https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident" />
+    <summary>BBC und The Record berichten über einen Cyberangriff auf Canvas, der zahlreiche Schulen und Universitäten trifft; teils mussten Abschlussprüfungen verschoben werden.
+Quelle: The Record RSS
+Zeit: 2026-05-09T08:32:28Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Iran wirft den USA ein "reckless military adventure" vor</title>
     <id>bd15e9d580788b53</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-02T18:16:26Z</summary>
     <summary>Die USA drohen Reedereien mit Sanktionen, falls sie iranische Durchfahrtsgebühren zahlen. Das verschärft den wirtschaftlichen Druck im Umfeld des Iran-Konflikts und könnte Handel sowie Transportkosten belasten.
 Quelle: BBC World RSS
 Zeit: 2026-05-02T17:22:29Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — iran-krieg — Trump tells Congress ceasefire means he does not need their approval for Iran war</title>
-    <id>986c37b41319afc7</id>
-    <updated>2026-05-02T10:17:15Z</updated>
-    <link href="https://www.bbc.com/news/articles/c4g4xexy4w7o" />
-    <summary>Trump teilt dem Kongress laut BBC mit, der Waffenstillstand beende die Kampfhandlungen; deshalb brauche er keine Zustimmung des Kongresses für den Iran-Krieg.
-Quelle: BBC World
-Zeit: 2026-05-02T10:17:15Z</summary>
   </entry>
 </feed>
