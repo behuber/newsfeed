@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "a4ee403ad8b28b15",
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
+      "title": "HOCH — IT-Sicherheit — Cyberangriff auf Canvas stört Schulen und Universitäten weltweit",
+      "content_text": "Ein Hackerangriff auf die Lernplattform Canvas beeinträchtigt Schulen und Hochschulen international; Login-Portale wurden kompromittiert und Prüfungen teils verschoben.\nQuelle: BBC\nZeit: 2026-05-09T14:32:22Z",
+      "date_published": "2026-05-09T14:32:22Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC"
+        }
+      ]
+    },
+    {
       "id": "336c3694e72583af",
       "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — Ukraine-Krieg — Putin kritisiert NATO bei Moskauer Siegesparade",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "15dce8f5693535fc",
-      "url": "https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug",
-      "title": "HOCH — IT-Sicherheit — Federal agencies must patch cPanel bug by Sunday, CISA says",
-      "content_text": "CISA verpflichtet US-Bundesbehörden laut The Record, eine cPanel-Schwachstelle bis Sonntag zu patchen. Erfolgreiche Ausnutzung kann Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites geben.\nQuelle: The Record\nZeit: 2026-05-02T20:16:04Z",
-      "date_published": "2026-05-02T20:16:04Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-09T14:25:17.564748Z"
+  "generated_at": "2026-05-09T14:40:17.171710Z"
 }

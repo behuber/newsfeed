@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-09T14:25:17.564748Z</updated>
+  <updated>2026-05-09T14:40:17.171710Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — IT-Sicherheit — Cyberangriff auf Canvas stört Schulen und Universitäten weltweit</title>
+    <id>a4ee403ad8b28b15</id>
+    <updated>2026-05-09T14:32:22Z</updated>
+    <link href="https://www.bbc.com/news/articles/ce3pq0136eqo" />
+    <summary>Ein Hackerangriff auf die Lernplattform Canvas beeinträchtigt Schulen und Hochschulen international; Login-Portale wurden kompromittiert und Prüfungen teils verschoben.
+Quelle: BBC
+Zeit: 2026-05-09T14:32:22Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — Ukraine-Krieg — Putin kritisiert NATO bei Moskauer Siegesparade</title>
     <id>336c3694e72583af</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-03T06:15:59Z</summary>
     <summary>Laut BBC hält Berlin einen Abzug von 5.000 US-Soldaten nach neuen Kürzungswarnungen von Präsident Trump für absehbar; in Washington kommt auch Kritik aus den Reihen der Republikaner.
 Quelle: BBC World
 Zeit: 2026-05-03T04:16:00Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — IT-Sicherheit — Federal agencies must patch cPanel bug by Sunday, CISA says</title>
-    <id>15dce8f5693535fc</id>
-    <updated>2026-05-02T20:16:04Z</updated>
-    <link href="https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug" />
-    <summary>CISA verpflichtet US-Bundesbehörden laut The Record, eine cPanel-Schwachstelle bis Sonntag zu patchen. Erfolgreiche Ausnutzung kann Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites geben.
-Quelle: The Record
-Zeit: 2026-05-02T20:16:04Z</summary>
   </entry>
 </feed>

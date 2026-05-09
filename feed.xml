@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 09 May 2026 14:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 14:40:17 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — IT-Sicherheit — Cyberangriff auf Canvas stört Schulen und Universitäten weltweit</title>
+      <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>
+      <guid isPermaLink="false">a4ee403ad8b28b15</guid>
+      <pubDate>Sat, 09 May 2026 14:32:22 +0000</pubDate>
+      <description>Ein Hackerangriff auf die Lernplattform Canvas beeinträchtigt Schulen und Hochschulen international; Login-Portale wurden kompromittiert und Prüfungen teils verschoben.
+Quelle: BBC
+Zeit: 2026-05-09T14:32:22Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — Ukraine-Krieg — Putin kritisiert NATO bei Moskauer Siegesparade</title>
       <link>https://www.bbc.com/news/articles/c626xjq0q0vo?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-03T06:15:59Z</description>
 Quelle: BBC World
 Zeit: 2026-05-03T04:16:00Z</description>
       <category>internationale ereignisse</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — Federal agencies must patch cPanel bug by Sunday, CISA says</title>
-      <link>https://therecord.media/cisa-orders-federal-agencies-to-patch-cpanel-bug</link>
-      <guid isPermaLink="false">15dce8f5693535fc</guid>
-      <pubDate>Sat, 02 May 2026 20:16:04 +0000</pubDate>
-      <description>CISA verpflichtet US-Bundesbehörden laut The Record, eine cPanel-Schwachstelle bis Sonntag zu patchen. Erfolgreiche Ausnutzung kann Angreifern Kontrolle über Host, Konfigurationen, Datenbanken und verwaltete Websites geben.
-Quelle: The Record
-Zeit: 2026-05-02T20:16:04Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
