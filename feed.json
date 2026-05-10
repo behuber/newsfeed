@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "9e840f7a20a08ca0",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo",
+      "title": "HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zur Beendigung des Kriegs völlig inakzeptabel",
+      "content_text": "BBC meldet, dass Trump Irans Reaktion auf einen US-Vorschlag zur Beendigung des Kriegs als völlig inakzeptabel bezeichnet. Details der Antwort und des Vorschlags wurden zunächst nicht veröffentlicht.\nQuelle: BBC World RSS\nZeit: 2026-05-10T20:32:19Z",
+      "date_published": "2026-05-10T20:32:19Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "9be3ea439cd9b99b",
       "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — AI-News — TikTok scales back AI-generated video descriptions after absurd errors",
@@ -795,23 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "207c0921da1e55fe",
-      "url": "https://therecord.media/ftc-bans-kochava-location-data-sales",
-      "title": "MITTEL — IT-Sicherheit — FTC untersagt Kochava den Verkauf sensibler Standortdaten ohne Einwilligung",
-      "content_text": "FTC verbietet dem Datenhändler Kochava laut The Record den Verkauf präziser Standortdaten ohne ausdrückliche Zustimmung. Betroffen sind sensible Bewegungsdaten etwa zu Gesundheits- und Religionsorten.\nQuelle: The Record RSS\nZeit: 2026-05-05T18:16:24Z",
-      "date_published": "2026-05-05T18:16:24Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-10T20:26:20.047489Z"
+  "generated_at": "2026-05-10T20:41:19.385131Z"
 }

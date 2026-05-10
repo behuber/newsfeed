@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-10T20:26:20.047489Z</updated>
+  <updated>2026-05-10T20:41:19.385131Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zur Beendigung des Kriegs völlig inakzeptabel</title>
+    <id>9e840f7a20a08ca0</id>
+    <updated>2026-05-10T20:32:19Z</updated>
+    <link href="https://www.bbc.com/news/articles/clypgz9e5pmo" />
+    <summary>BBC meldet, dass Trump Irans Reaktion auf einen US-Vorschlag zur Beendigung des Kriegs als völlig inakzeptabel bezeichnet. Details der Antwort und des Vorschlags wurden zunächst nicht veröffentlicht.
+Quelle: BBC World RSS
+Zeit: 2026-05-10T20:32:19Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — AI-News — TikTok scales back AI-generated video descriptions after absurd errors</title>
     <id>9be3ea439cd9b99b</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-05T20:16:35Z</summary>
     <summary>Vor konkurrierenden Feuerpausen-Vorschlägen aus Kyjiw und Moskau haben russische Angriffe laut BBC mindestens 20 Menschen getötet.
 Quelle: BBC World RSS
 Zeit: 2026-05-05T18:16:35Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — FTC untersagt Kochava den Verkauf sensibler Standortdaten ohne Einwilligung</title>
-    <id>207c0921da1e55fe</id>
-    <updated>2026-05-05T18:16:24Z</updated>
-    <link href="https://therecord.media/ftc-bans-kochava-location-data-sales" />
-    <summary>FTC verbietet dem Datenhändler Kochava laut The Record den Verkauf präziser Standortdaten ohne ausdrückliche Zustimmung. Betroffen sind sensible Bewegungsdaten etwa zu Gesundheits- und Religionsorten.
-Quelle: The Record RSS
-Zeit: 2026-05-05T18:16:24Z</summary>
   </entry>
 </feed>

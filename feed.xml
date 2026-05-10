@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 10 May 2026 20:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 20:41:19 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zur Beendigung des Kriegs völlig inakzeptabel</title>
+      <link>https://www.bbc.com/news/articles/clypgz9e5pmo</link>
+      <guid isPermaLink="false">9e840f7a20a08ca0</guid>
+      <pubDate>Sun, 10 May 2026 20:32:19 +0000</pubDate>
+      <description>BBC meldet, dass Trump Irans Reaktion auf einen US-Vorschlag zur Beendigung des Kriegs als völlig inakzeptabel bezeichnet. Details der Antwort und des Vorschlags wurden zunächst nicht veröffentlicht.
+Quelle: BBC World RSS
+Zeit: 2026-05-10T20:32:19Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — AI-News — TikTok scales back AI-generated video descriptions after absurd errors</title>
       <link>https://www.bbc.com/news/articles/c5yerd05n01o?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-05T20:16:35Z</description>
 Quelle: BBC World RSS
 Zeit: 2026-05-05T18:16:35Z</description>
       <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — FTC untersagt Kochava den Verkauf sensibler Standortdaten ohne Einwilligung</title>
-      <link>https://therecord.media/ftc-bans-kochava-location-data-sales</link>
-      <guid isPermaLink="false">207c0921da1e55fe</guid>
-      <pubDate>Tue, 05 May 2026 18:16:24 +0000</pubDate>
-      <description>FTC verbietet dem Datenhändler Kochava laut The Record den Verkauf präziser Standortdaten ohne ausdrückliche Zustimmung. Betroffen sind sensible Bewegungsdaten etwa zu Gesundheits- und Religionsorten.
-Quelle: The Record RSS
-Zeit: 2026-05-05T18:16:24Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
