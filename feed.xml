@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 10 May 2026 10:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 10:40:32 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Ukraine-Krieg/IT-Sicherheit — Kaspersky sieht Zusammenarbeit pro-ukrainischer Hackergruppen gegen Russland</title>
+      <link>https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky</link>
+      <guid isPermaLink="false">3b420798af64a891</guid>
+      <pubDate>Sun, 10 May 2026 10:32:20 +0000</pubDate>
+      <description>Laut The Record/Kaspersky deuten gemeinsame Infrastruktur und Werkzeuge auf koordinierte Angriffe der Gruppen BO Team und Head Mare gegen russische Ziele hin.
+Quelle: The Record
+Zeit: 2026-05-10T10:32:20Z</description>
+      <category>Ukraine-Krieg/IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — IT-Sicherheit — Canvas-Cybervorfall zwingt Hochschulen zur Verschiebung von Prüfungen</title>
       <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-04T20:16:16Z</description>
 Quelle: BBC World
 Zeit: 2026-05-04T20:16:07Z</description>
       <category>ukraine-krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — Internationale Ereignisse — Three Russian diplomats expelled from Austria over spying accusations</title>
-      <link>https://www.bbc.com/news/articles/c5yrwny111xo</link>
-      <guid isPermaLink="false">fee86e06e51a9a45</guid>
-      <pubDate>Mon, 04 May 2026 18:43:04 +0000</pubDate>
-      <description>BBC meldet, dass Österreich drei russische Diplomaten wegen Spionagevorwürfen ausweist; Außenministerin spricht von Antennenanlagen auf Diplomatengebäuden.
-Quelle: BBC World RSS
-Zeit: 2026-05-04T18:43:04Z</description>
-      <category>Internationale Ereignisse</category>
     </item>
   </channel>
 </rss>
