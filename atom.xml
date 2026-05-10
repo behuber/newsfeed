@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-10T06:10:22.139867Z</updated>
+  <updated>2026-05-10T06:40:28.686377Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg — Pro-Ukraine BO Team and Head Mare hackers appear to team up in attacks against Russia</title>
+    <id>00f414c3e7ea0fe4</id>
+    <updated>2026-05-10T06:32:25Z</updated>
+    <link href="https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky" />
+    <summary>Kaspersky researchers say the pro-Ukraine groups BO Team and Head Mare appear to share infrastructure and tools, suggesting coordination in cyberattacks against Russian targets.
+Quelle: The Record RSS
+Zeit: 2026-05-10T06:32:25Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — Multiple universities forced to reschedule final exams after Canvas cyber incident</title>
+    <id>ec65b2922f6a372a</id>
+    <updated>2026-05-10T06:32:20Z</updated>
+    <link href="https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident" />
+    <summary>A cyber incident involving Instructure's Canvas platform forced multiple universities to reschedule exams after students reported seeing a cybercriminal message in the service.
+Quelle: The Record RSS
+Zeit: 2026-05-10T06:32:20Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Putin says he thinks Ukraine conflict 'coming to an end'</title>
     <id>22027fb548da2f61</id>
@@ -440,23 +458,5 @@ Zeit: 2026-05-04T12:32:44Z</summary>
     <summary>BBC reports 10 killed in Russian strikes in Ukraine, while Zelensky says Ukrainian drones hit shadow-fleet oil tankers and an oil terminal.
 Quelle: BBC World RSS
 Zeit: 2026-05-04T04:16:30Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Ukraine-Krieg — Russische Angriffe töten laut BBC 10 Menschen; Selenskyj meldet Treffer gegen Öltanker und Terminal der russischen Schattenflotte</title>
-    <id>775e96d0c9c1a884</id>
-    <updated>2026-05-03T12:16:01Z</updated>
-    <link href="https://www.bbc.com/news/articles/clyp41v1n1go" />
-    <summary>BBC World meldet neue tödliche Angriffe in der Ukraine. Gleichzeitig sagt Kyjiw, Drohnen hätten Öltanker und ein Terminal der russischen Schattenflotte getroffen.
-Quelle: BBC World RSS
-Zeit: 2026-05-03T12:16:01Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — internationale-ereignisse — Deutschland hält weiteren US-Truppenabzug nach Trumps Kürzungswarnung für absehbar</title>
-    <id>b0a6413c47ca7466</id>
-    <updated>2026-05-03T08:16:02Z</updated>
-    <link href="https://www.bbc.com/news/articles/cd9pn541jjlo" />
-    <summary>BBC World berichtet, dass Berlin einen weiteren Abzug von US-Soldaten für absehbar hält, nachdem Trump zusätzliche Kürzungen angekündigt hat; selbst in den USA äußern Republikaner Bedenken.
-Quelle: BBC
-Zeit: 2026-05-03T08:16:02Z</summary>
   </entry>
 </feed>

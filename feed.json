@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "00f414c3e7ea0fe4",
+      "url": "https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky",
+      "title": "MITTEL — Ukraine-Krieg — Pro-Ukraine BO Team and Head Mare hackers appear to team up in attacks against Russia",
+      "content_text": "Kaspersky researchers say the pro-Ukraine groups BO Team and Head Mare appear to share infrastructure and tools, suggesting coordination in cyberattacks against Russian targets.\nQuelle: The Record RSS\nZeit: 2026-05-10T06:32:25Z",
+      "date_published": "2026-05-10T06:32:25Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
+      "id": "ec65b2922f6a372a",
+      "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
+      "title": "MITTEL — IT-Sicherheit — Multiple universities forced to reschedule final exams after Canvas cyber incident",
+      "content_text": "A cyber incident involving Instructure's Canvas platform forced multiple universities to reschedule exams after students reported seeing a cybercriminal message in the service.\nQuelle: The Record RSS\nZeit: 2026-05-10T06:32:20Z",
+      "date_published": "2026-05-10T06:32:20Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
       "id": "22027fb548da2f61",
       "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
       "title": "HOCH — Ukraine-Krieg — Putin says he thinks Ukraine conflict 'coming to an end'",
@@ -779,39 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "775e96d0c9c1a884",
-      "url": "https://www.bbc.com/news/articles/clyp41v1n1go",
-      "title": "HOCH — Ukraine-Krieg — Russische Angriffe töten laut BBC 10 Menschen; Selenskyj meldet Treffer gegen Öltanker und Terminal der russischen Schattenflotte",
-      "content_text": "BBC World meldet neue tödliche Angriffe in der Ukraine. Gleichzeitig sagt Kyjiw, Drohnen hätten Öltanker und ein Terminal der russischen Schattenflotte getroffen.\nQuelle: BBC World RSS\nZeit: 2026-05-03T12:16:01Z",
-      "date_published": "2026-05-03T12:16:01Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "b0a6413c47ca7466",
-      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
-      "title": "MITTEL — internationale-ereignisse — Deutschland hält weiteren US-Truppenabzug nach Trumps Kürzungswarnung für absehbar",
-      "content_text": "BBC World berichtet, dass Berlin einen weiteren Abzug von US-Soldaten für absehbar hält, nachdem Trump zusätzliche Kürzungen angekündigt hat; selbst in den USA äußern Republikaner Bedenken.\nQuelle: BBC\nZeit: 2026-05-03T08:16:02Z",
-      "date_published": "2026-05-03T08:16:02Z",
-      "tags": [
-        "internationale-ereignisse",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-10T06:10:22.139867Z"
+  "generated_at": "2026-05-10T06:40:28.686377Z"
 }
