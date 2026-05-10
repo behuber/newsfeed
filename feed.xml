@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 10 May 2026 04:25:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 04:40:15 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Putin says he thinks Ukraine conflict 'coming to an end'</title>
+      <link>https://www.bbc.com/news/articles/cn8p4j2jzwwo</link>
+      <guid isPermaLink="false">22027fb548da2f61</guid>
+      <pubDate>Sun, 10 May 2026 04:32:23 +0000</pubDate>
+      <description>Putin said he sees potential for negotiations and suggested the Ukraine conflict is nearing an end, while criticizing Western backing for Zelensky.
+Quelle: BBC World RSS
+Zeit: 2026-05-10T04:32:23Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — AI-News — TikTok fährt KI-generierte Videobeschreibungen nach groben Fehlern zurück</title>
       <link>https://www.bbc.com/news/articles/c5yerd05n01o</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-03T12:16:01Z</description>
 Quelle: BBC
 Zeit: 2026-05-03T08:16:02Z</description>
       <category>internationale-ereignisse</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — Britische Cyberbehörde warnt vor kommender Patch-Welle durch AI</title>
-      <link>https://therecord.media/british-cyber-ai-patch-wave</link>
-      <guid isPermaLink="false">c74df2e506bf8390</guid>
-      <pubDate>Sun, 03 May 2026 06:16:05 +0000</pubDate>
-      <description>The Record berichtet, dass Großbritanniens Cyberbehörde wegen KI-beschleunigter Schwachstellenfunde eine Welle dringender Sicherheitsupdates und höheres Ausnutzungsrisiko erwartet.
-Quelle: The Record
-Zeit: 2026-05-03T06:16:05Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>

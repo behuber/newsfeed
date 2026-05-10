@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "22027fb548da2f61",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
+      "title": "HOCH — Ukraine-Krieg — Putin says he thinks Ukraine conflict 'coming to an end'",
+      "content_text": "Putin said he sees potential for negotiations and suggested the Ukraine conflict is nearing an end, while criticizing Western backing for Zelensky.\nQuelle: BBC World RSS\nZeit: 2026-05-10T04:32:23Z",
+      "date_published": "2026-05-10T04:32:23Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "e215c3e0003ee5fe",
       "url": "https://www.bbc.com/news/articles/c5yerd05n01o",
       "title": "MITTEL — AI-News — TikTok fährt KI-generierte Videobeschreibungen nach groben Fehlern zurück",
@@ -795,23 +811,7 @@
           "name": "BBC"
         }
       ]
-    },
-    {
-      "id": "c74df2e506bf8390",
-      "url": "https://therecord.media/british-cyber-ai-patch-wave",
-      "title": "MITTEL — IT-Sicherheit — Britische Cyberbehörde warnt vor kommender Patch-Welle durch AI",
-      "content_text": "The Record berichtet, dass Großbritanniens Cyberbehörde wegen KI-beschleunigter Schwachstellenfunde eine Welle dringender Sicherheitsupdates und höheres Ausnutzungsrisiko erwartet.\nQuelle: The Record\nZeit: 2026-05-03T06:16:05Z",
-      "date_published": "2026-05-03T06:16:05Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-10T04:25:16.696558Z"
+  "generated_at": "2026-05-10T04:40:15.342628Z"
 }

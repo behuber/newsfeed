@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-10T04:25:16.696558Z</updated>
+  <updated>2026-05-10T04:40:15.342628Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Putin says he thinks Ukraine conflict 'coming to an end'</title>
+    <id>22027fb548da2f61</id>
+    <updated>2026-05-10T04:32:23Z</updated>
+    <link href="https://www.bbc.com/news/articles/cn8p4j2jzwwo" />
+    <summary>Putin said he sees potential for negotiations and suggested the Ukraine conflict is nearing an end, while criticizing Western backing for Zelensky.
+Quelle: BBC World RSS
+Zeit: 2026-05-10T04:32:23Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — AI-News — TikTok fährt KI-generierte Videobeschreibungen nach groben Fehlern zurück</title>
     <id>e215c3e0003ee5fe</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-03T12:16:01Z</summary>
     <summary>BBC World berichtet, dass Berlin einen weiteren Abzug von US-Soldaten für absehbar hält, nachdem Trump zusätzliche Kürzungen angekündigt hat; selbst in den USA äußern Republikaner Bedenken.
 Quelle: BBC
 Zeit: 2026-05-03T08:16:02Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — Britische Cyberbehörde warnt vor kommender Patch-Welle durch AI</title>
-    <id>c74df2e506bf8390</id>
-    <updated>2026-05-03T06:16:05Z</updated>
-    <link href="https://therecord.media/british-cyber-ai-patch-wave" />
-    <summary>The Record berichtet, dass Großbritanniens Cyberbehörde wegen KI-beschleunigter Schwachstellenfunde eine Welle dringender Sicherheitsupdates und höheres Ausnutzungsrisiko erwartet.
-Quelle: The Record
-Zeit: 2026-05-03T06:16:05Z</summary>
   </entry>
 </feed>
