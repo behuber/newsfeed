@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-10T12:25:33.767874Z</updated>
+  <updated>2026-05-10T12:40:32.483007Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC 'am Ende' und verweist auf mögliche Verhandlungen</title>
+    <id>a696c104d4006570</id>
+    <updated>2026-05-10T12:32:21Z</updated>
+    <link href="https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Putin sagte laut BBC, der Ukraine-Krieg komme aus seiner Sicht an ein Ende; zugleich sprach er von Verhandlungschancen und kritisierte die westliche Unterstützung für Selenskyj.
+Quelle: BBC World
+Zeit: 2026-05-10T12:32:21Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — Ukraine-Krieg/IT-Sicherheit — Kaspersky sieht Zusammenarbeit pro-ukrainischer Hackergruppen gegen Russland</title>
     <id>3b420798af64a891</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-05T15:53:52Z</summary>
     <summary>In Leipzig sind laut BBC zwei Menschen getötet und viele weitere verletzt worden, nachdem ein Auto in eine Menschenmenge gefahren war; ein 33-jähriger Deutscher wurde festgenommen.
 Quelle: BBC World
 Zeit: 2026-05-04T20:16:16Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — ukraine-krieg — Ukrainian drone hits Moscow high-rise ahead of Victory Day celebrations</title>
-    <id>0be623dc689d6c14</id>
-    <updated>2026-05-04T20:16:07Z</updated>
-    <link href="https://www.bbc.com/news/articles/cwy234llx3vo" />
-    <summary>BBC berichtet von einem Drohnenangriff auf ein gehobenes Hochhaus in Moskau vor den Siegesfeierlichkeiten; Russland droht bei Störung der Feierlichkeiten mit massivem Schlag gegen Kyjiw.
-Quelle: BBC World
-Zeit: 2026-05-04T20:16:07Z</summary>
   </entry>
 </feed>

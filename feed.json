@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "a696c104d4006570",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC 'am Ende' und verweist auf mögliche Verhandlungen",
+      "content_text": "Putin sagte laut BBC, der Ukraine-Krieg komme aus seiner Sicht an ein Ende; zugleich sprach er von Verhandlungschancen und kritisierte die westliche Unterstützung für Selenskyj.\nQuelle: BBC World\nZeit: 2026-05-10T12:32:21Z",
+      "date_published": "2026-05-10T12:32:21Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "3b420798af64a891",
       "url": "https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky",
       "title": "MITTEL — Ukraine-Krieg/IT-Sicherheit — Kaspersky sieht Zusammenarbeit pro-ukrainischer Hackergruppen gegen Russland",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "0be623dc689d6c14",
-      "url": "https://www.bbc.com/news/articles/cwy234llx3vo",
-      "title": "HOCH — ukraine-krieg — Ukrainian drone hits Moscow high-rise ahead of Victory Day celebrations",
-      "content_text": "BBC berichtet von einem Drohnenangriff auf ein gehobenes Hochhaus in Moskau vor den Siegesfeierlichkeiten; Russland droht bei Störung der Feierlichkeiten mit massivem Schlag gegen Kyjiw.\nQuelle: BBC World\nZeit: 2026-05-04T20:16:07Z",
-      "date_published": "2026-05-04T20:16:07Z",
-      "tags": [
-        "ukraine-krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-10T12:25:33.767874Z"
+  "generated_at": "2026-05-10T12:40:32.483007Z"
 }

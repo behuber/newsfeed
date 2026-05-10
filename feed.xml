@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 10 May 2026 12:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 12:40:32 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC 'am Ende' und verweist auf mögliche Verhandlungen</title>
+      <link>https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">a696c104d4006570</guid>
+      <pubDate>Sun, 10 May 2026 12:32:21 +0000</pubDate>
+      <description>Putin sagte laut BBC, der Ukraine-Krieg komme aus seiner Sicht an ein Ende; zugleich sprach er von Verhandlungschancen und kritisierte die westliche Unterstützung für Selenskyj.
+Quelle: BBC World
+Zeit: 2026-05-10T12:32:21Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — Ukraine-Krieg/IT-Sicherheit — Kaspersky sieht Zusammenarbeit pro-ukrainischer Hackergruppen gegen Russland</title>
       <link>https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-05T15:53:52Z</description>
 Quelle: BBC World
 Zeit: 2026-05-04T20:16:16Z</description>
       <category>internationale-ereignisse</category>
-    </item>
-    <item>
-      <title>HOCH — ukraine-krieg — Ukrainian drone hits Moscow high-rise ahead of Victory Day celebrations</title>
-      <link>https://www.bbc.com/news/articles/cwy234llx3vo</link>
-      <guid isPermaLink="false">0be623dc689d6c14</guid>
-      <pubDate>Mon, 04 May 2026 20:16:07 +0000</pubDate>
-      <description>BBC berichtet von einem Drohnenangriff auf ein gehobenes Hochhaus in Moskau vor den Siegesfeierlichkeiten; Russland droht bei Störung der Feierlichkeiten mit massivem Schlag gegen Kyjiw.
-Quelle: BBC World
-Zeit: 2026-05-04T20:16:07Z</description>
-      <category>ukraine-krieg</category>
     </item>
   </channel>
 </rss>
