@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "285b244ecb45c034",
+      "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
+      "title": "MITTEL — IT-Sicherheit — Canvas-Cybervorfall zwingt Hochschulen zur Verschiebung von Prüfungen",
+      "content_text": "Nach einem Cybervorfall bei der Lernplattform Canvas mussten mehrere Universitäten laut The Record Abschlussprüfungen verschieben, nachdem auf Login-Seiten eine Nachricht einer Cybercrime-Gruppe erschien.\nQuelle: The Record\nZeit: 2026-05-10T08:32:35Z",
+      "date_published": "2026-05-10T08:32:35Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
+      "id": "35b82a3dc9184f2c",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC vor einem Ende",
+      "content_text": "Russlands Präsident Putin sagte laut BBC, der Ukraine-Konflikt komme aus seiner Sicht zu einem Ende und verwies auf mögliche Verhandlungen; zugleich kritisierte er die westliche Unterstützung für Selenskyj.\nQuelle: BBC World RSS\nZeit: 2026-05-10T08:32:26Z",
+      "date_published": "2026-05-10T08:32:26Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "00f414c3e7ea0fe4",
       "url": "https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky",
       "title": "MITTEL — Ukraine-Krieg — Pro-Ukraine BO Team and Head Mare hackers appear to team up in attacks against Russia",
@@ -779,39 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "e942a1c00731b469",
-      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260305-rentenanpassung-2026.html",
-      "title": "MITTEL — Rentenreform — Renten steigen zum 1. Juli 2026 um 4,24 Prozent",
-      "content_text": "Die Deutsche Rentenversicherung meldet zum 1. Juli 2026 eine Rentenerhöhung um 4,24 Prozent, was die laufenden Bezüge für Rentnerhaushalte spürbar erhöht.\nQuelle: Deutsche Rentenversicherung\nZeit: 2026-05-04T12:32:44Z",
-      "date_published": "2026-05-04T12:32:44Z",
-      "tags": [
-        "Rentenreform",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "Deutsche Rentenversicherung"
-        }
-      ]
-    },
-    {
-      "id": "5d4dd6a41d8b89af",
-      "url": "https://www.bbc.com/news/articles/clyp41v1n1go",
-      "title": "HOCH — Ukraine-Krieg — Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "content_text": "BBC reports 10 killed in Russian strikes in Ukraine, while Zelensky says Ukrainian drones hit shadow-fleet oil tankers and an oil terminal.\nQuelle: BBC World RSS\nZeit: 2026-05-04T04:16:30Z",
-      "date_published": "2026-05-04T04:16:30Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-10T08:25:32.264238Z"
+  "generated_at": "2026-05-10T08:40:32.111335Z"
 }

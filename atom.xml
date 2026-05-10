@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-10T08:25:32.264238Z</updated>
+  <updated>2026-05-10T08:40:32.111335Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — Canvas-Cybervorfall zwingt Hochschulen zur Verschiebung von Prüfungen</title>
+    <id>285b244ecb45c034</id>
+    <updated>2026-05-10T08:32:35Z</updated>
+    <link href="https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident" />
+    <summary>Nach einem Cybervorfall bei der Lernplattform Canvas mussten mehrere Universitäten laut The Record Abschlussprüfungen verschieben, nachdem auf Login-Seiten eine Nachricht einer Cybercrime-Gruppe erschien.
+Quelle: The Record
+Zeit: 2026-05-10T08:32:35Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC vor einem Ende</title>
+    <id>35b82a3dc9184f2c</id>
+    <updated>2026-05-10T08:32:26Z</updated>
+    <link href="https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Russlands Präsident Putin sagte laut BBC, der Ukraine-Konflikt komme aus seiner Sicht zu einem Ende und verwies auf mögliche Verhandlungen; zugleich kritisierte er die westliche Unterstützung für Selenskyj.
+Quelle: BBC World RSS
+Zeit: 2026-05-10T08:32:26Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — Ukraine-Krieg — Pro-Ukraine BO Team and Head Mare hackers appear to team up in attacks against Russia</title>
     <id>00f414c3e7ea0fe4</id>
@@ -440,23 +458,5 @@ Zeit: 2026-05-04T20:16:07Z</summary>
     <summary>BBC meldet, dass Österreich drei russische Diplomaten wegen Spionagevorwürfen ausweist; Außenministerin spricht von Antennenanlagen auf Diplomatengebäuden.
 Quelle: BBC World RSS
 Zeit: 2026-05-04T18:43:04Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Rentenreform — Renten steigen zum 1. Juli 2026 um 4,24 Prozent</title>
-    <id>e942a1c00731b469</id>
-    <updated>2026-05-04T12:32:44Z</updated>
-    <link href="https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260305-rentenanpassung-2026.html" />
-    <summary>Die Deutsche Rentenversicherung meldet zum 1. Juli 2026 eine Rentenerhöhung um 4,24 Prozent, was die laufenden Bezüge für Rentnerhaushalte spürbar erhöht.
-Quelle: Deutsche Rentenversicherung
-Zeit: 2026-05-04T12:32:44Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Ukraine-Krieg — Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal</title>
-    <id>5d4dd6a41d8b89af</id>
-    <updated>2026-05-04T04:16:30Z</updated>
-    <link href="https://www.bbc.com/news/articles/clyp41v1n1go" />
-    <summary>BBC reports 10 killed in Russian strikes in Ukraine, while Zelensky says Ukrainian drones hit shadow-fleet oil tankers and an oil terminal.
-Quelle: BBC World RSS
-Zeit: 2026-05-04T04:16:30Z</summary>
   </entry>
 </feed>

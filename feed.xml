@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 10 May 2026 08:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 08:40:32 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Canvas-Cybervorfall zwingt Hochschulen zur Verschiebung von Prüfungen</title>
+      <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
+      <guid isPermaLink="false">285b244ecb45c034</guid>
+      <pubDate>Sun, 10 May 2026 08:32:35 +0000</pubDate>
+      <description>Nach einem Cybervorfall bei der Lernplattform Canvas mussten mehrere Universitäten laut The Record Abschlussprüfungen verschieben, nachdem auf Login-Seiten eine Nachricht einer Cybercrime-Gruppe erschien.
+Quelle: The Record
+Zeit: 2026-05-10T08:32:35Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
+    <item>
+      <title>MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC vor einem Ende</title>
+      <link>https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">35b82a3dc9184f2c</guid>
+      <pubDate>Sun, 10 May 2026 08:32:26 +0000</pubDate>
+      <description>Russlands Präsident Putin sagte laut BBC, der Ukraine-Konflikt komme aus seiner Sicht zu einem Ende und verwies auf mögliche Verhandlungen; zugleich kritisierte er die westliche Unterstützung für Selenskyj.
+Quelle: BBC World RSS
+Zeit: 2026-05-10T08:32:26Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — Ukraine-Krieg — Pro-Ukraine BO Team and Head Mare hackers appear to team up in attacks against Russia</title>
       <link>https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky</link>
@@ -487,26 +507,6 @@ Zeit: 2026-05-04T20:16:07Z</description>
 Quelle: BBC World RSS
 Zeit: 2026-05-04T18:43:04Z</description>
       <category>Internationale Ereignisse</category>
-    </item>
-    <item>
-      <title>MITTEL — Rentenreform — Renten steigen zum 1. Juli 2026 um 4,24 Prozent</title>
-      <link>https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260305-rentenanpassung-2026.html</link>
-      <guid isPermaLink="false">e942a1c00731b469</guid>
-      <pubDate>Mon, 04 May 2026 12:32:44 +0000</pubDate>
-      <description>Die Deutsche Rentenversicherung meldet zum 1. Juli 2026 eine Rentenerhöhung um 4,24 Prozent, was die laufenden Bezüge für Rentnerhaushalte spürbar erhöht.
-Quelle: Deutsche Rentenversicherung
-Zeit: 2026-05-04T12:32:44Z</description>
-      <category>Rentenreform</category>
-    </item>
-    <item>
-      <title>HOCH — Ukraine-Krieg — Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal</title>
-      <link>https://www.bbc.com/news/articles/clyp41v1n1go</link>
-      <guid isPermaLink="false">5d4dd6a41d8b89af</guid>
-      <pubDate>Mon, 04 May 2026 04:16:30 +0000</pubDate>
-      <description>BBC reports 10 killed in Russian strikes in Ukraine, while Zelensky says Ukrainian drones hit shadow-fleet oil tankers and an oil terminal.
-Quelle: BBC World RSS
-Zeit: 2026-05-04T04:16:30Z</description>
-      <category>Ukraine-Krieg</category>
     </item>
   </channel>
 </rss>
