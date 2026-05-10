@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 10 May 2026 14:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 14:40:33 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Iran sends response to US proposals to end war</title>
+      <link>https://www.bbc.com/news/articles/clypgz9e5pmo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">91d7f2df0ed7f71a</guid>
+      <pubDate>Sun, 10 May 2026 14:32:22 +0000</pubDate>
+      <description>Iran hat laut BBC auf US-Vorschläge zur Beendigung des Kriegs geantwortet. Details der Antwort und der US-Vorschläge wurden zunächst nicht veröffentlicht.
+Quelle: BBC World
+Zeit: 2026-05-10T14:32:22Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC 'am Ende' und verweist auf mögliche Verhandlungen</title>
       <link>https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-05T16:16:20Z</description>
 Quelle: bbc.com
 Zeit: 2026-05-05T15:53:52Z</description>
       <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — internationale-ereignisse — Two killed and many injured after car driven into crowd in German city of Leipzig</title>
-      <link>https://www.bbc.com/news/articles/ckgpzgxgz58o</link>
-      <guid isPermaLink="false">0edb5d41d39f91a7</guid>
-      <pubDate>Mon, 04 May 2026 20:16:16 +0000</pubDate>
-      <description>In Leipzig sind laut BBC zwei Menschen getötet und viele weitere verletzt worden, nachdem ein Auto in eine Menschenmenge gefahren war; ein 33-jähriger Deutscher wurde festgenommen.
-Quelle: BBC World
-Zeit: 2026-05-04T20:16:16Z</description>
-      <category>internationale-ereignisse</category>
     </item>
   </channel>
 </rss>

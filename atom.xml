@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-10T14:25:34.666018Z</updated>
+  <updated>2026-05-10T14:40:33.185575Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — Iran sends response to US proposals to end war</title>
+    <id>91d7f2df0ed7f71a</id>
+    <updated>2026-05-10T14:32:22Z</updated>
+    <link href="https://www.bbc.com/news/articles/clypgz9e5pmo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Iran hat laut BBC auf US-Vorschläge zur Beendigung des Kriegs geantwortet. Details der Antwort und der US-Vorschläge wurden zunächst nicht veröffentlicht.
+Quelle: BBC World
+Zeit: 2026-05-10T14:32:22Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC 'am Ende' und verweist auf mögliche Verhandlungen</title>
     <id>a696c104d4006570</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-05T16:16:20Z</summary>
     <summary>Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow.
 Quelle: bbc.com
 Zeit: 2026-05-05T15:53:52Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — internationale-ereignisse — Two killed and many injured after car driven into crowd in German city of Leipzig</title>
-    <id>0edb5d41d39f91a7</id>
-    <updated>2026-05-04T20:16:16Z</updated>
-    <link href="https://www.bbc.com/news/articles/ckgpzgxgz58o" />
-    <summary>In Leipzig sind laut BBC zwei Menschen getötet und viele weitere verletzt worden, nachdem ein Auto in eine Menschenmenge gefahren war; ein 33-jähriger Deutscher wurde festgenommen.
-Quelle: BBC World
-Zeit: 2026-05-04T20:16:16Z</summary>
   </entry>
 </feed>
