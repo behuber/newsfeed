@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-10T16:25:34.249438Z</updated>
+  <updated>2026-05-10T16:40:36.303707Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — AI-News — TikTok scales back AI-generated video descriptions after absurd errors</title>
+    <id>9be3ea439cd9b99b</id>
+    <updated>2026-05-10T16:32:35Z</updated>
+    <link href="https://www.bbc.com/news/articles/c5yerd05n01o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>TikTok fährt laut BBC eine Funktion für KI-generierte Videobeschreibungen zurück, nachdem fehlerhafte und absurde Beschreibungen breite Kritik ausgelöst hatten.
+Quelle: BBC Technology RSS
+Zeit: 2026-05-10T16:32:35Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg — Putin says he thinks Ukraine conflict coming to an end</title>
+    <id>22027fb548da2f61</id>
+    <updated>2026-05-10T16:32:23Z</updated>
+    <link href="https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Laut BBC sieht Putin Potenzial für Verhandlungen im Ukraine-Krieg und erklärte, er halte ein Ende des Konflikts für möglich.
+Quelle: BBC World RSS
+Zeit: 2026-05-10T16:32:23Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Iran sends response to US proposals to end war</title>
     <id>91d7f2df0ed7f71a</id>
@@ -440,23 +458,5 @@ Zeit: 2026-05-05T18:16:35Z</summary>
     <summary>FTC verbietet dem Datenhändler Kochava laut The Record den Verkauf präziser Standortdaten ohne ausdrückliche Zustimmung. Betroffen sind sensible Bewegungsdaten etwa zu Gesundheits- und Religionsorten.
 Quelle: The Record RSS
 Zeit: 2026-05-05T18:16:24Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — Australia launches cyber review board modeled on version disbanded in US</title>
-    <id>7afa97d78bf3e75a</id>
-    <updated>2026-05-05T16:16:20Z</updated>
-    <link href="https://therecord.media/australia-launches-cyber-review-board" />
-    <summary>Australien startet ein Cyber Review Board für nachträgliche Analysen signifikanter Cyberangriffe ohne Schuldzuweisung, mit Fokus auf systemische Lehren.
-Quelle: The Record RSS
-Zeit: 2026-05-05T16:16:20Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Ukraine-Krieg — Russia and Ukraine announce rival ceasefires as deadly strikes continue</title>
-    <id>d0d188c640168f9d</id>
-    <updated>2026-05-05T15:53:52Z</updated>
-    <link href="https://www.bbc.com/news/articles/c1e2zjz22p9o?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow.
-Quelle: bbc.com
-Zeit: 2026-05-05T15:53:52Z</summary>
   </entry>
 </feed>
