@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "50464803d16721dc",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zum Kriegsende völlig inakzeptabel",
+      "content_text": "BBC berichtet, dass Trump Irans Antwort auf einen US-Vorschlag zur Beendigung des Kriegs als völlig inakzeptabel bezeichnet. Details der Vorschläge wurden nicht veröffentlicht.\nQuelle: BBC World RSS\nZeit: 2026-05-11T04:32:21Z",
+      "date_published": "2026-05-11T04:32:21Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "9e840f7a20a08ca0",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo",
       "title": "HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zur Beendigung des Kriegs völlig inakzeptabel",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "489523bca8b3191d",
-      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Ukraine-Krieg — Russische Angriffe töten vor konkurrierenden Feuerpausen mindestens 20 Menschen",
-      "content_text": "Vor konkurrierenden Feuerpausen-Vorschlägen aus Kyjiw und Moskau haben russische Angriffe laut BBC mindestens 20 Menschen getötet.\nQuelle: BBC World RSS\nZeit: 2026-05-05T18:16:35Z",
-      "date_published": "2026-05-05T18:16:35Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-11T04:26:20.497125Z"
+  "generated_at": "2026-05-11T04:41:20.064036Z"
 }

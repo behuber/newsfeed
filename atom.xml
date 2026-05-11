@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-11T04:26:20.497125Z</updated>
+  <updated>2026-05-11T04:41:20.064036Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zum Kriegsende völlig inakzeptabel</title>
+    <id>50464803d16721dc</id>
+    <updated>2026-05-11T04:32:21Z</updated>
+    <link href="https://www.bbc.com/news/articles/clypgz9e5pmo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>BBC berichtet, dass Trump Irans Antwort auf einen US-Vorschlag zur Beendigung des Kriegs als völlig inakzeptabel bezeichnet. Details der Vorschläge wurden nicht veröffentlicht.
+Quelle: BBC World RSS
+Zeit: 2026-05-11T04:32:21Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zur Beendigung des Kriegs völlig inakzeptabel</title>
     <id>9e840f7a20a08ca0</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-05T20:16:44Z</summary>
     <summary>BBC berichtet, dass russische Angriffe vor konkurrierenden Feuerpausen-Zusagen aus Kiew und Moskau mehr als 20 Menschen getötet haben; Kiew will ab 6. Mai symmetrisch auf Moskaus Parade-Waffenruhe reagieren.
 Quelle: BBC World
 Zeit: 2026-05-05T20:16:35Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Ukraine-Krieg — Russische Angriffe töten vor konkurrierenden Feuerpausen mindestens 20 Menschen</title>
-    <id>489523bca8b3191d</id>
-    <updated>2026-05-05T18:16:35Z</updated>
-    <link href="https://www.bbc.com/news/articles/c1e2zjz22p9o?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Vor konkurrierenden Feuerpausen-Vorschlägen aus Kyjiw und Moskau haben russische Angriffe laut BBC mindestens 20 Menschen getötet.
-Quelle: BBC World RSS
-Zeit: 2026-05-05T18:16:35Z</summary>
   </entry>
 </feed>
