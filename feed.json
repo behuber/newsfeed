@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "7b5260d6f3dc6ada",
+      "url": "https://therecord.media/eu-countries-export-surveillance-tech-to-countries-with-human-rights-issues",
+      "title": "MITTEL — IT-Sicherheit — European countries are exporting surveillance tech to countries with poor human rights records, report says",
+      "content_text": "A new report says EU member states continue exporting surveillance technology to countries with poor human-rights records despite tighter bloc-wide rules.\nQuelle: therecord.media\nZeit: 2026-05-13T04:00:39Z",
+      "date_published": "2026-05-13T04:00:39Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "therecord.media"
+        }
+      ]
+    },
+    {
       "id": "50464803d16721dc",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_campaign=rss&at_medium=RSS",
       "title": "HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zum Kriegsende völlig inakzeptabel",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "b1b4b36c404dc8db",
-      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o",
-      "title": "HOCH — ukraine-krieg — Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-      "content_text": "BBC berichtet, dass russische Angriffe vor konkurrierenden Feuerpausen-Zusagen aus Kiew und Moskau mehr als 20 Menschen getötet haben; Kiew will ab 6. Mai symmetrisch auf Moskaus Parade-Waffenruhe reagieren.\nQuelle: BBC World\nZeit: 2026-05-05T20:16:35Z",
-      "date_published": "2026-05-05T20:16:35Z",
-      "tags": [
-        "ukraine-krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-13T03:54:07.506505Z"
+  "generated_at": "2026-05-13T05:54:09.302637Z"
 }

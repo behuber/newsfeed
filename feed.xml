@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 13 May 2026 03:54:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 05:54:09 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-Sicherheit — European countries are exporting surveillance tech to countries with poor human rights records, report says</title>
+      <link>https://therecord.media/eu-countries-export-surveillance-tech-to-countries-with-human-rights-issues</link>
+      <guid isPermaLink="false">7b5260d6f3dc6ada</guid>
+      <pubDate>Wed, 13 May 2026 04:00:39 +0000</pubDate>
+      <description>A new report says EU member states continue exporting surveillance technology to countries with poor human-rights records despite tighter bloc-wide rules.
+Quelle: therecord.media
+Zeit: 2026-05-13T04:00:39Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zum Kriegsende völlig inakzeptabel</title>
       <link>https://www.bbc.com/news/articles/clypgz9e5pmo?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-05T20:16:44Z</description>
 Quelle: The Record
 Zeit: 2026-05-05T20:16:44Z</description>
       <category>it-news</category>
-    </item>
-    <item>
-      <title>HOCH — ukraine-krieg — Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow</title>
-      <link>https://www.bbc.com/news/articles/c1e2zjz22p9o</link>
-      <guid isPermaLink="false">b1b4b36c404dc8db</guid>
-      <pubDate>Tue, 05 May 2026 20:16:35 +0000</pubDate>
-      <description>BBC berichtet, dass russische Angriffe vor konkurrierenden Feuerpausen-Zusagen aus Kiew und Moskau mehr als 20 Menschen getötet haben; Kiew will ab 6. Mai symmetrisch auf Moskaus Parade-Waffenruhe reagieren.
-Quelle: BBC World
-Zeit: 2026-05-05T20:16:35Z</description>
-      <category>ukraine-krieg</category>
     </item>
   </channel>
 </rss>

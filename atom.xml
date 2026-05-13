@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-13T03:54:07.506505Z</updated>
+  <updated>2026-05-13T05:54:09.302637Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — European countries are exporting surveillance tech to countries with poor human rights records, report says</title>
+    <id>7b5260d6f3dc6ada</id>
+    <updated>2026-05-13T04:00:39Z</updated>
+    <link href="https://therecord.media/eu-countries-export-surveillance-tech-to-countries-with-human-rights-issues" />
+    <summary>A new report says EU member states continue exporting surveillance technology to countries with poor human-rights records despite tighter bloc-wide rules.
+Quelle: therecord.media
+Zeit: 2026-05-13T04:00:39Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zum Kriegsende völlig inakzeptabel</title>
     <id>50464803d16721dc</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-05T20:16:44Z</summary>
     <summary>The Record berichtet, dass deutsche Regierungsstellen Gesetze voranbringen, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger ausweiten würden.
 Quelle: The Record
 Zeit: 2026-05-05T20:16:44Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — ukraine-krieg — Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow</title>
-    <id>b1b4b36c404dc8db</id>
-    <updated>2026-05-05T20:16:35Z</updated>
-    <link href="https://www.bbc.com/news/articles/c1e2zjz22p9o" />
-    <summary>BBC berichtet, dass russische Angriffe vor konkurrierenden Feuerpausen-Zusagen aus Kiew und Moskau mehr als 20 Menschen getötet haben; Kiew will ab 6. Mai symmetrisch auf Moskaus Parade-Waffenruhe reagieren.
-Quelle: BBC World
-Zeit: 2026-05-05T20:16:35Z</summary>
   </entry>
 </feed>
