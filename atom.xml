@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-13T15:54:07.778373Z</updated>
+  <updated>2026-05-13T17:54:07.370285Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — internationale Ereignisse — Israeli strikes on cars in southern Lebanon kill 12, health ministry says</title>
+    <id>eca2d43a9c79659d</id>
+    <updated>2026-05-13T16:36:01Z</updated>
+    <link href="https://www.bbc.com/news/articles/c1k2zekj8y9o" />
+    <summary>Im Südlibanon sind laut Gesundheitsministerium bei Angriffen auf Fahrzeuge zwölf Menschen getötet worden, darunter zwei Kinder.
+Quelle: bbc.com
+Zeit: 2026-05-13T16:36:01Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — Microsoft on pace to break annual vulnerability record as AI-driven patch wave takes hold</title>
+    <id>bf23f292f2c04d42</id>
+    <updated>2026-05-13T16:35:52Z</updated>
+    <link href="https://therecord.media/microsoft-on-pace-to-break-annual-vulnerability-record-ai" />
+    <summary>Microsoft hat 2026 laut The Record bereits mehr als 500 Schwachstellen gepatcht und steuert damit auf ein Rekordjahr bei.
+Quelle: therecord.media
+Zeit: 2026-05-13T16:35:52Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — IT-Sicherheit — European countries are exporting surveillance tech to countries with poor human rights records, report says</title>
     <id>7b5260d6f3dc6ada</id>
@@ -440,23 +458,5 @@ Zeit: 2026-05-06T04:17:41Z</summary>
     <summary>Researchers attributed a campaign targeting ethnic Koreans in China to APT37, using Android backdoor malware distributed through a card-game software supply chain.
 Quelle: The Record RSS
 Zeit: 2026-05-06T04:17:41Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — internationale-ereignisse — Romanian PM ousted in no-confidence vote</title>
-    <id>0b639535f4b24a17</id>
-    <updated>2026-05-05T20:16:44Z</updated>
-    <link href="https://www.bbc.com/news/articles/cgkpjz2638ro" />
-    <summary>BBC meldet, dass Rumäniens Premier Ilie Bolojan per Misstrauensvotum gestürzt wurde, nachdem sich die größte Koalitionspartei mit der Rechtsaußen-Opposition zusammengeschlossen hatte.
-Quelle: BBC World
-Zeit: 2026-05-05T20:16:44Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — it-news — German officials advance legislation that would expand law enforcement use of surveillance technology</title>
-    <id>796fd0567d9025d3</id>
-    <updated>2026-05-05T20:16:44Z</updated>
-    <link href="https://therecord.media/german-officials-advance-laws-surveillance" />
-    <summary>The Record berichtet, dass deutsche Regierungsstellen Gesetze voranbringen, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger ausweiten würden.
-Quelle: The Record
-Zeit: 2026-05-05T20:16:44Z</summary>
   </entry>
 </feed>
