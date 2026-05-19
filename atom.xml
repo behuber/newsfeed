@@ -3,12 +3,39 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-19T19:44:39.911485Z</updated>
+  <updated>2026-05-19T21:44:38.150561Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — Trump says he called off new Iran attack at request of Gulf states</title>
+    <id>ec53ea8de22380c1</id>
+    <updated>2026-05-19T20:07:26Z</updated>
+    <link href="https://www.bbc.com/news/articles/c7079e55zjro" />
+    <summary>Trump says a planned new attack on Iran for Tuesday was called off after pressure from Gulf states, while he points to serious negotiations now taking place.
+Quelle: BBC World
+Zeit: 2026-05-19T20:07:26Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — IT-Sicherheit — Huawei zero-day attack behind last year’s crash of Luxembourg's entire telecoms network</title>
+    <id>f8e589d409fa462b</id>
+    <updated>2026-05-19T20:07:26Z</updated>
+    <link href="https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage" />
+    <summary>A reported Huawei zero-day was behind last year's nationwide telecom outage in Luxembourg, pointing to unresolved infrastructure risk.
+Quelle: The Record
+Zeit: 2026-05-19T20:07:26Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — Microsoft disrupts Fox Tempest malware-signing-as-a-service platform tied to ransomware gangs</title>
+    <id>14122302baafe198</id>
+    <updated>2026-05-19T20:07:26Z</updated>
+    <link href="https://therecord.media/microsoft-disrupts-fox-tempest-malware-signing-service" />
+    <summary>Microsoft says it disrupted Fox Tempest, a malware-signing service used by ransomware-linked actors to obtain code-signing capability for malicious tools.
+Quelle: The Record
+Zeit: 2026-05-19T20:07:26Z</summary>
+  </entry>
   <entry>
     <title>HOCH — internationale Ereignisse — Israeli strikes on cars in southern Lebanon kill 12, health ministry says</title>
     <id>eca2d43a9c79659d</id>
@@ -431,32 +458,5 @@ Zeit: 2026-05-06T08:16:42Z</summary>
     <summary>The Record berichtet, dass in Deutschland Gesetze vorangebracht werden, die den Einsatz automatisierter Datenanalyse und KI-gestützter Gesichtssuche durch Strafverfolger ausweiten würden.
 Quelle: The Record RSS
 Zeit: 2026-05-06T06:16:57Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran-Krieg — Oil prices ease as US pauses Project Freedom to seek deal with Iran</title>
-    <id>40f9edb3402e31ef</id>
-    <updated>2026-05-06T06:16:47Z</updated>
-    <link href="https://www.bbc.com/news/articles/c4g8zejyyr3o" />
-    <summary>BBC meldet, dass die USA Project Freedom vorerst pausieren, um eine Einigung mit Iran auszuloten; daraufhin gaben die Ölpreise nach. Das deutet auf eine vorläufige Entspannung im Hormus-Konflikt hin.
-Quelle: BBC World RSS
-Zeit: 2026-05-06T06:16:47Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran-Konflikt — Trump says US to pause operation to guide vessels through Strait of Hormuz</title>
-    <id>0b2d0bf156a0eb9d</id>
-    <updated>2026-05-06T04:17:41Z</updated>
-    <link href="https://www.bbc.com/news/articles/clypekl71gdo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Trump says the US will halt its vessel-guidance operation in the Strait of Hormuz because progress has been made toward a deal with Iran.
-Quelle: BBC World RSS
-Zeit: 2026-05-06T04:17:41Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — North Korean hackers targeted ethnic Koreans in China with Android BirdCall malware</title>
-    <id>ace37372a80083fc</id>
-    <updated>2026-05-06T04:17:41Z</updated>
-    <link href="https://therecord.media/north-korean-hackers-target-ethnic-koreans-in-china" />
-    <summary>Researchers attributed a campaign targeting ethnic Koreans in China to APT37, using Android backdoor malware distributed through a card-game software supply chain.
-Quelle: The Record RSS
-Zeit: 2026-05-06T04:17:41Z</summary>
   </entry>
 </feed>
