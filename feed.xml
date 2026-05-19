@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 19 May 2026 21:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 23:44:37 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — ukraine — Estonia says Nato jet shot down drone over its territory</title>
+      <link>https://www.bbc.com/news/articles/c302jy8z4vro</link>
+      <guid isPermaLink="false">e50341d28f237a6b</guid>
+      <pubDate>Tue, 19 May 2026 21:57:15 +0000</pubDate>
+      <description>Estonia says a Nato jet downed a drone over its territory, with suspicion the projectile was Ukrainian and knocked off course by Russian electronic jamming.
+Quelle: BBC World
+Zeit: 2026-05-19T21:57:15Z</description>
+      <category>ukraine</category>
+    </item>
+    <item>
+      <title>MITTEL — ai-news — Google to release first smart glasses since Google Glass flop</title>
+      <link>https://www.bbc.com/news/articles/cvgz1ynq1nqo</link>
+      <guid isPermaLink="false">4a9e096c5e47f332</guid>
+      <pubDate>Tue, 19 May 2026 21:57:15 +0000</pubDate>
+      <description>Google says it will release new AI-enabled smart glasses in autumn, marking its first major smart-glasses launch since Google Glass.
+Quelle: BBC Technology
+Zeit: 2026-05-19T21:57:15Z</description>
+      <category>ai-news</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — Trump says he called off new Iran attack at request of Gulf states</title>
       <link>https://www.bbc.com/news/articles/c7079e55zjro</link>
@@ -486,26 +506,6 @@ Zeit: 2026-05-06T10:16:49Z</description>
       <description>The Record berichtet, dass deutsche Politiker Gesetze vorantreiben, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger legalisieren und ausweiten würden.
 Quelle: The Record RSS
 Zeit: 2026-05-06T08:16:54Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Ukraine-Krieg — Russische Angriffe töten vor konkurrierenden Waffenruhen mehr als 20 Menschen</title>
-      <link>https://www.bbc.com/news/articles/c1e2zjz22p9o</link>
-      <guid isPermaLink="false">b9465c1a0fcb2f1f</guid>
-      <pubDate>Wed, 06 May 2026 08:16:42 +0000</pubDate>
-      <description>BBC berichtet, dass vor den von Kiew und Moskau vorgeschlagenen Feuerpausen mehr als 20 Menschen bei russischen Angriffen getötet wurden; Kiew will ab 6. Mai eine Waffenruhe beginnen und symmetrisch auf Moskaus Parade-Pause reagieren.
-Quelle: BBC World RSS
-Zeit: 2026-05-06T08:16:42Z</description>
-      <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — German officials advance legislation that would expand law enforcement use of surveillance technology</title>
-      <link>https://therecord.media/german-officials-advance-laws-surveillance</link>
-      <guid isPermaLink="false">79a49ace70155ae0</guid>
-      <pubDate>Wed, 06 May 2026 06:16:57 +0000</pubDate>
-      <description>The Record berichtet, dass in Deutschland Gesetze vorangebracht werden, die den Einsatz automatisierter Datenanalyse und KI-gestützter Gesichtssuche durch Strafverfolger ausweiten würden.
-Quelle: The Record RSS
-Zeit: 2026-05-06T06:16:57Z</description>
       <category>IT-Sicherheit</category>
     </item>
   </channel>
