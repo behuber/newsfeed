@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "9e1ace67665a686d",
+      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo",
+      "title": "MITTEL — AI-News — Google bringt erstmals seit Google Glass wieder smarte Brille auf den Markt",
+      "content_text": "BBC berichtet, dass Google im Herbst neue Smart Glasses starten will, die mit Googles KI interagieren können.\nQuelle: BBC Technology\nZeit: 2026-05-20T11:57:08Z",
+      "date_published": "2026-05-20T11:57:08Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology"
+        }
+      ]
+    },
+    {
+      "id": "0f40fdbefe9b0f3b",
+      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
+      "title": "HOCH — IT-Sicherheit — Huawei-Zero-Day soll 2025 kompletten Telekom-Ausfall in Luxemburg ausgelöst haben",
+      "content_text": "The Record berichtet, dass ein Huawei-Zero-Day hinter dem Ausfall des gesamten Telekomnetzes in Luxemburg im Vorjahr gestanden haben soll.\nQuelle: The Record\nZeit: 2026-05-20T11:57:08Z",
+      "date_published": "2026-05-20T11:57:08Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "0ae24b5d4128ca83",
       "url": "https://www.bbc.com/news/articles/c302jy8z4vro?at_campaign=rss&at_medium=RSS",
       "title": "HOCH — Ukraine-Krieg — Estland meldet Abschuss einer Drohne über eigenem Staatsgebiet durch Nato-Jet",
@@ -779,39 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "d6949aa3d37c86ce",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o",
-      "title": "HOCH — Iran-Krieg — Ölpreis fällt und Börsen steigen nach Berichten über Deal zum Ende des Iran-Kriegs",
-      "content_text": "BBC berichtet von neuen Hoffnungen auf eine Einigung zwischen den USA und Iran nach Tagen der Eskalation; Ölpreise fallen, Aktienmärkte steigen.\nQuelle: BBC World\nZeit: 2026-05-06T16:16:47Z",
-      "date_published": "2026-05-06T16:16:47Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "8c6cb8e5306f3637",
-      "url": "https://therecord.media/hackers-compromise-daemon-tools-global-supply-chain-attack",
-      "title": "HOCH — IT-Sicherheit — Hackers compromise Daemon Tools in global supply-chain attack, researchers say",
-      "content_text": "The Record reports attackers tampered with official Daemon Tools installers and distributed a backdoor via the vendor website in a global supply-chain attack.\nQuelle: The Record RSS\nZeit: 2026-05-06T14:16:49Z",
-      "date_published": "2026-05-06T14:16:49Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-20T11:44:39.178742Z"
+  "generated_at": "2026-05-20T13:44:38.461008Z"
 }
