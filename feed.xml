@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 20 May 2026 15:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 17:44:38 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Ukraine-Krieg / AI / IT-Sicherheit — Ukraine says Russia is deploying AI-powered malware on the battlefield</title>
+      <link>https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield</link>
+      <guid isPermaLink="false">a715088becf6e434</guid>
+      <pubDate>Wed, 20 May 2026 15:57:04 +0000</pubDate>
+      <description>Ein ukrainischer Regierungsbericht sagt, Russland setze im Krieg verstärkt KI-gestützte Malware und KI in Cyberoperationen ein. Das verbindet Ukraine-Krieg, KI und IT-Sicherheit in einer neuen Lageeinschätzung.
+Quelle: The Record
+Zeit: 2026-05-20T15:57:04Z</description>
+      <category>Ukraine-Krieg / AI / IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — IT-Sicherheit — GitHub bestätigt Hack interner Repositories, Kundendaten laut Firma nicht betroffen</title>
       <link>https://therecord.media/github-confirms-teampcp-hack-customers-unaffected</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-08T04:33:18Z</description>
 Quelle: The Record
 Zeit: 2026-05-07T20:32:22Z</description>
       <category>AI-News</category>
-    </item>
-    <item>
-      <title>MITTEL — Ukraine-Krieg — Vor Moskaus Siegesparade fahren erstmals seit Jahren keine Panzer</title>
-      <link>https://www.bbc.com/news/articles/cwy2gj2jlr8o</link>
-      <guid isPermaLink="false">0f9bef8c85c5f6d0</guid>
-      <pubDate>Thu, 07 May 2026 18:32:31 +0000</pubDate>
-      <description>Laut BBC ist für die Siegesparade in Moskau diesmal keine Militärtechnik vorgesehen; das wird als weiteres Signal gewertet, wie stark Russlands Ressourcen durch den Krieg gegen die Ukraine gebunden sind.
-Quelle: BBC World
-Zeit: 2026-05-07T18:32:31Z</description>
-      <category>Ukraine-Krieg</category>
     </item>
   </channel>
 </rss>

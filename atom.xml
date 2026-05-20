@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-20T15:44:37.668074Z</updated>
+  <updated>2026-05-20T17:44:38.057783Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg / AI / IT-Sicherheit — Ukraine says Russia is deploying AI-powered malware on the battlefield</title>
+    <id>a715088becf6e434</id>
+    <updated>2026-05-20T15:57:04Z</updated>
+    <link href="https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield" />
+    <summary>Ein ukrainischer Regierungsbericht sagt, Russland setze im Krieg verstärkt KI-gestützte Malware und KI in Cyberoperationen ein. Das verbindet Ukraine-Krieg, KI und IT-Sicherheit in einer neuen Lageeinschätzung.
+Quelle: The Record
+Zeit: 2026-05-20T15:57:04Z</summary>
+  </entry>
   <entry>
     <title>HOCH — IT-Sicherheit — GitHub bestätigt Hack interner Repositories, Kundendaten laut Firma nicht betroffen</title>
     <id>1f21eacf02d663d7</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-08T04:33:18Z</summary>
     <summary>Laut The Record sollen Regeln für Hochrisiko-KI teils bis Ende 2027 verschoben werden; zugleich ist ein Verbot von Nudification-Tools Teil des vorläufigen Deals.
 Quelle: The Record
 Zeit: 2026-05-07T20:32:22Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Ukraine-Krieg — Vor Moskaus Siegesparade fahren erstmals seit Jahren keine Panzer</title>
-    <id>0f9bef8c85c5f6d0</id>
-    <updated>2026-05-07T18:32:31Z</updated>
-    <link href="https://www.bbc.com/news/articles/cwy2gj2jlr8o" />
-    <summary>Laut BBC ist für die Siegesparade in Moskau diesmal keine Militärtechnik vorgesehen; das wird als weiteres Signal gewertet, wie stark Russlands Ressourcen durch den Krieg gegen die Ukraine gebunden sind.
-Quelle: BBC World
-Zeit: 2026-05-07T18:32:31Z</summary>
   </entry>
 </feed>

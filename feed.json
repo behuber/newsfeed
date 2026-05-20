@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "a715088becf6e434",
+      "url": "https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield",
+      "title": "MITTEL — Ukraine-Krieg / AI / IT-Sicherheit — Ukraine says Russia is deploying AI-powered malware on the battlefield",
+      "content_text": "Ein ukrainischer Regierungsbericht sagt, Russland setze im Krieg verstärkt KI-gestützte Malware und KI in Cyberoperationen ein. Das verbindet Ukraine-Krieg, KI und IT-Sicherheit in einer neuen Lageeinschätzung.\nQuelle: The Record\nZeit: 2026-05-20T15:57:04Z",
+      "date_published": "2026-05-20T15:57:04Z",
+      "tags": [
+        "Ukraine-Krieg / AI / IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "1f21eacf02d663d7",
       "url": "https://therecord.media/github-confirms-teampcp-hack-customers-unaffected",
       "title": "HOCH — IT-Sicherheit — GitHub bestätigt Hack interner Repositories, Kundendaten laut Firma nicht betroffen",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "0f9bef8c85c5f6d0",
-      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o",
-      "title": "MITTEL — Ukraine-Krieg — Vor Moskaus Siegesparade fahren erstmals seit Jahren keine Panzer",
-      "content_text": "Laut BBC ist für die Siegesparade in Moskau diesmal keine Militärtechnik vorgesehen; das wird als weiteres Signal gewertet, wie stark Russlands Ressourcen durch den Krieg gegen die Ukraine gebunden sind.\nQuelle: BBC World\nZeit: 2026-05-07T18:32:31Z",
-      "date_published": "2026-05-07T18:32:31Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-20T15:44:37.668074Z"
+  "generated_at": "2026-05-20T17:44:38.057783Z"
 }
