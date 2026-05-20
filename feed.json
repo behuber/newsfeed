@@ -13,6 +13,134 @@
   "expired": false,
   "items": [
     {
+      "id": "d77c55956da30ab3",
+      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?amp%3Bat_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI/IT — Musk loses OpenAI court battle after jury finds he waited too long to sue",
+      "content_text": "Jurors spent weeks hearing about Musk's claim that Altman had \\\"stolen a charity.\\\"\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
+      "date_published": "2026-05-20T21:58:02Z",
+      "tags": [
+        "AI/IT",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "feeds.bbci.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "29b193c23db3621b",
+      "url": "https://www.bbc.com/news/articles/c2023l60370o?amp%3Bat_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — International — Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+      "content_text": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \\\"dependence\\\" on AI.\\n\\n\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
+      "date_published": "2026-05-20T21:58:02Z",
+      "tags": [
+        "International",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "feeds.bbci.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "8cdd8dbddc4073c2",
+      "url": "https://www.bbc.com/news/articles/crlp991nw41o?amp%3Bat_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI/IT — Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
+      "content_text": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
+      "date_published": "2026-05-20T21:58:02Z",
+      "tags": [
+        "AI/IT",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "feeds.bbci.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "6aa6e7e83a69381b",
+      "url": "https://www.bbc.com/news/articles/c202g60qrlpo?amp%3Bat_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI/IT — Satellites and AI used to track UK hedgehogs in bid to slow decline",
+      "content_text": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.\\n\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
+      "date_published": "2026-05-20T21:58:02Z",
+      "tags": [
+        "AI/IT",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "feeds.bbci.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "0b21451c16eff8c7",
+      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?amp%3Bat_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI/IT — Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
+      "content_text": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
+      "date_published": "2026-05-20T21:58:02Z",
+      "tags": [
+        "AI/IT",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "feeds.bbci.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "12a54973b3d2132d",
+      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?amp%3Bat_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Politik — Ebola vaccine could take nine months as death toll rises further, WHO warns",
+      "content_text": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
+      "date_published": "2026-05-20T21:58:02Z",
+      "tags": [
+        "Politik",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "feeds.bbci.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "7f965a3ffe4ce9da",
+      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?amp%3Bat_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI/IT — Google to release first smart glasses since Google Glass flop",
+      "content_text": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
+      "date_published": "2026-05-20T21:58:02Z",
+      "tags": [
+        "AI/IT",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "feeds.bbci.co.uk"
+        }
+      ]
+    },
+    {
+      "id": "146ff36ffe199f9e",
+      "url": "https://www.bbc.com/news/articles/c072x1kml44o?amp%3Bat_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — IT-Sicherheit — Tesla Cybertruck driver arrested after driving into lake to use 'wade mode', police say",
+      "content_text": "Police said the vehicle was abandoned by the driver after it took on water near the shoreline of Grapevine Lake in north Texas.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
+      "date_published": "2026-05-20T21:58:02Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "feeds.bbci.co.uk"
+        }
+      ]
+    },
+    {
       "id": "b403e0c3d2ea7824",
       "url": "https://therecord.media/7-eleven-reports-data-breach-shinyhunters",
       "title": "MITTEL — IT-Sicherheit — 7-Eleven confirms breach after ShinyHunters claims",
@@ -683,135 +811,7 @@
           "name": "The Record RSS"
         }
       ]
-    },
-    {
-      "id": "99f72174ba983b97",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Iran-Krieg — Iran accuses US of 'reckless military adventure'",
-      "content_text": "Iranian Foreign Minister Abbas Araghchi says US attacks come despite a diplomatic solution being on the table, marking a fresh escalation in the Iran-US confrontation.\nQuelle: BBC World RSS\nZeit: 2026-05-08T16:32:21Z",
-      "date_published": "2026-05-08T16:32:21Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "b1856f93587f4374",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
-      "title": "HOCH — IT-Sicherheit — International cyber attack disrupts swathe of universities and schools",
-      "content_text": "Ein internationaler Cyberangriff auf Canvas-Software stört laut BBC zahlreiche Schulen und Hochschulen weltweit.\nQuelle: BBC World RSS\nZeit: 2026-05-08T14:32:26Z",
-      "date_published": "2026-05-08T14:32:26Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "5597a5cd6a90c77c",
-      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Ukraine-Krieg — Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-      "content_text": "BBC berichtet, dass beide Seiten nur Stunden nach Inkrafttreten der Waffenruhe Hunderte Drohnenangriffe meldeten und sich gegenseitig Verstöße vorwerfen.\nQuelle: BBC World RSS\nZeit: 2026-05-08T12:32:22Z",
-      "date_published": "2026-05-08T12:32:22Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "01e988fa53ec2e96",
-      "url": "https://www.bbc.com/news/articles/c626zyywxjno",
-      "title": "HOCH — Iran-Krieg — US und Iran melden Feuerwechsel in der Straße von Hormus trotz angeblicher Waffenruhe",
-      "content_text": "BBC World meldet neuen Feuerwechsel in der Straße von Hormus; Trump sagt, die Waffenruhe gelte weiter, während Iran den USA Verstöße vorwirft. Ölpreise legten laut BBC zu.\nQuelle: BBC World RSS\nZeit: 2026-05-08T10:32:28Z",
-      "date_published": "2026-05-08T10:32:28Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "4e1ceec6db2ca756",
-      "url": "https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment",
-      "title": "HOCH — it-sicherheit — Polish intelligence warns hackers attacked water treatment control systems",
-      "content_text": "Polens Nachrichtendienste warnen laut The Record vor Angriffen auf Steuerungssysteme von Wasseraufbereitungsanlagen; die Behörde verweist auf verschärfte feindliche Cyberaktivität mit Schwerpunkt Russland.\nQuelle: The Record RSS\nZeit: 2026-05-08T08:32:40Z",
-      "date_published": "2026-05-08T08:32:40Z",
-      "tags": [
-        "it-sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record RSS"
-        }
-      ]
-    },
-    {
-      "id": "4b056e7bd831fff3",
-      "url": "https://therecord.media/european-leaders-unveil-deal-ai-act-nudification",
-      "title": "MITTEL — ai-news — European leaders unveil tentative deal for AI Act simplification, including a ban on nudification tools",
-      "content_text": "Laut The Record gibt es eine vorläufige Einigung zur Vereinfachung des EU AI Act: Hochrisiko-Regeln würden teils bis Dezember 2027 verschoben, zugleich sollen Nudification-Tools verboten werden.\nQuelle: The Record RSS\nZeit: 2026-05-08T08:32:25Z",
-      "date_published": "2026-05-08T08:32:25Z",
-      "tags": [
-        "ai-news",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record RSS"
-        }
-      ]
-    },
-    {
-      "id": "cbdd66a32d5ab5e1",
-      "url": "https://www.bbc.com/news/articles/c626zyywxjno",
-      "title": "HOCH — Iran-Krieg — Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "content_text": "BBC berichtet über neuen Beschuss trotz Waffenruhe: Trump sagt, die US-Iran-Feuerpause halte weiter, während Iran den USA Verstöße in der Straße von Hormus vorwirft.\nQuelle: BBC World RSS\nZeit: 2026-05-08T06:32:22Z",
-      "date_published": "2026-05-08T06:32:22Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "18a1f75d94bf125e",
-      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo",
-      "title": "MITTEL — AI-News — Instagram privacy tech is turned off today - what does this mean for your DMs?",
-      "content_text": "BBC Technology meldet eine Kehrtwende bei Meta: Instagram entfernt laut Feed heute die Ende-zu-Ende-Verschlüsselung für Direktnachrichten.\nQuelle: BBC Technology RSS\nZeit: 2026-05-08T06:32:22Z",
-      "date_published": "2026-05-08T06:32:22Z",
-      "tags": [
-        "AI-News",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC Technology RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-20T21:44:39.541493Z"
+  "generated_at": "2026-05-20T23:44:37.947683Z"
 }
