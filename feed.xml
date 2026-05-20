@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 20 May 2026 09:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 11:44:39 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Estland meldet Abschuss einer Drohne über eigenem Staatsgebiet durch Nato-Jet</title>
+      <link>https://www.bbc.com/news/articles/c302jy8z4vro?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">0ae24b5d4128ca83</guid>
+      <pubDate>Wed, 20 May 2026 09:57:31 +0000</pubDate>
+      <description>Estland sagt, ein Nato-Kampfjet habe eine Drohne über estnischem Gebiet abgeschossen; vermutet wird ein ukrainisches Geschoss, das durch russisches Jamming vom Kurs abkam.
+Quelle: BBC World
+Zeit: 2026-05-20T09:57:31Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Huawei-Zero-Day hinter Ausfall des gesamten Luxemburger Telekomnetzes</title>
+      <link>https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage</link>
+      <guid isPermaLink="false">3506f131f4a7c015</guid>
+      <pubDate>Wed, 20 May 2026 09:57:31 +0000</pubDate>
+      <description>Neue Berichte führen den Netzausfall in Luxemburg im Vorjahr auf eine Huawei-Zero-Day-Schwachstelle zurück; laut Bericht ist die Ursache weiterhin nicht öffentlich erklärt.
+Quelle: The Record
+Zeit: 2026-05-20T09:57:31Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — AI-News — Google kündigt neue KI-Smartglasses für den Herbst an</title>
       <link>https://www.bbc.com/news/articles/cvgz1ynq1nqo</link>
@@ -487,26 +507,6 @@ Zeit: 2026-05-06T16:16:47Z</description>
 Quelle: The Record RSS
 Zeit: 2026-05-06T14:16:49Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Oil prices drop and stock markets rise after reports of deal to end Iran war</title>
-      <link>https://www.bbc.com/news/articles/c4g8zejyyr3o?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">48d7eef1ac22bcd6</guid>
-      <pubDate>Wed, 06 May 2026 14:16:39 +0000</pubDate>
-      <description>BBC reports new hopes of a US-Iran agreement after days of escalation; markets reacted immediately with falling oil prices and rising stocks.
-Quelle: BBC World RSS
-Zeit: 2026-05-06T14:16:39Z</description>
-      <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — Iran-Krieg — Berichte über mögliches Abkommen im Iran-Krieg drücken Ölpreis und stützen Börsen</title>
-      <link>https://www.bbc.com/news/articles/c4g8zejyyr3o</link>
-      <guid isPermaLink="false">a6a8d5e7f39966a3</guid>
-      <pubDate>Wed, 06 May 2026 12:16:39 +0000</pubDate>
-      <description>Laut BBC nähren Berichte über ein mögliches Abkommen zwischen den USA und Iran Hoffnungen auf ein Ende der jüngsten Eskalation; Öl fällt, Aktien steigen.
-Quelle: BBC World
-Zeit: 2026-05-06T12:16:39Z</description>
-      <category>Iran-Krieg</category>
     </item>
   </channel>
 </rss>

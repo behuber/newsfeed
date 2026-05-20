@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "0ae24b5d4128ca83",
+      "url": "https://www.bbc.com/news/articles/c302jy8z4vro?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Ukraine-Krieg — Estland meldet Abschuss einer Drohne über eigenem Staatsgebiet durch Nato-Jet",
+      "content_text": "Estland sagt, ein Nato-Kampfjet habe eine Drohne über estnischem Gebiet abgeschossen; vermutet wird ein ukrainisches Geschoss, das durch russisches Jamming vom Kurs abkam.\nQuelle: BBC World\nZeit: 2026-05-20T09:57:31Z",
+      "date_published": "2026-05-20T09:57:31Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "3506f131f4a7c015",
+      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
+      "title": "MITTEL — IT-Sicherheit — Huawei-Zero-Day hinter Ausfall des gesamten Luxemburger Telekomnetzes",
+      "content_text": "Neue Berichte führen den Netzausfall in Luxemburg im Vorjahr auf eine Huawei-Zero-Day-Schwachstelle zurück; laut Bericht ist die Ursache weiterhin nicht öffentlich erklärt.\nQuelle: The Record\nZeit: 2026-05-20T09:57:31Z",
+      "date_published": "2026-05-20T09:57:31Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "9146b01a5122b415",
       "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo",
       "title": "MITTEL — AI-News — Google kündigt neue KI-Smartglasses für den Herbst an",
@@ -779,39 +811,7 @@
           "name": "The Record RSS"
         }
       ]
-    },
-    {
-      "id": "48d7eef1ac22bcd6",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Iran-Krieg — Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "content_text": "BBC reports new hopes of a US-Iran agreement after days of escalation; markets reacted immediately with falling oil prices and rising stocks.\nQuelle: BBC World RSS\nZeit: 2026-05-06T14:16:39Z",
-      "date_published": "2026-05-06T14:16:39Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "a6a8d5e7f39966a3",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o",
-      "title": "MITTEL — Iran-Krieg — Berichte über mögliches Abkommen im Iran-Krieg drücken Ölpreis und stützen Börsen",
-      "content_text": "Laut BBC nähren Berichte über ein mögliches Abkommen zwischen den USA und Iran Hoffnungen auf ein Ende der jüngsten Eskalation; Öl fällt, Aktien steigen.\nQuelle: BBC World\nZeit: 2026-05-06T12:16:39Z",
-      "date_published": "2026-05-06T12:16:39Z",
-      "tags": [
-        "Iran-Krieg",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-20T09:44:38.064122Z"
+  "generated_at": "2026-05-20T11:44:39.178742Z"
 }
