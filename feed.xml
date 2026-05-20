@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 20 May 2026 19:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 21:44:39 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-Sicherheit — 7-Eleven confirms breach after ShinyHunters claims</title>
+      <link>https://therecord.media/7-eleven-reports-data-breach-shinyhunters</link>
+      <guid isPermaLink="false">b403e0c3d2ea7824</guid>
+      <pubDate>Wed, 20 May 2026 19:57:09 +0000</pubDate>
+      <description>7-Eleven confirmed a data breach affecting systems used to store franchisee documents after claims by ShinyHunters.
+Quelle: The Record
+Zeit: 2026-05-20T19:57:09Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — Internationale Ereignisse — Putin heads home from China without pipeline deal</title>
       <link>https://www.bbc.com/news/articles/c8r8me3nlllo?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-08T06:32:22Z</description>
 Quelle: BBC Technology RSS
 Zeit: 2026-05-08T06:32:22Z</description>
       <category>AI-News</category>
-    </item>
-    <item>
-      <title>MITTEL — allgemeine IT-News — Instagram privacy tech is turned off today- what does this mean for your DMs?</title>
-      <link>https://www.bbc.com/news/articles/clypzxl3lvqo</link>
-      <guid isPermaLink="false">e5f7cf4f318169f0</guid>
-      <pubDate>Fri, 08 May 2026 04:33:18 +0000</pubDate>
-      <description>BBC Technology berichtet, dass Instagram die Ende-zu-Ende-Verschlüsselung für Direktnachrichten abschaltet – ein deutlicher Kurswechsel bei Meta.
-Quelle: BBC Technology
-Zeit: 2026-05-08T04:33:18Z</description>
-      <category>allgemeine IT-News</category>
     </item>
   </channel>
 </rss>

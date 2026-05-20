@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "b403e0c3d2ea7824",
+      "url": "https://therecord.media/7-eleven-reports-data-breach-shinyhunters",
+      "title": "MITTEL — IT-Sicherheit — 7-Eleven confirms breach after ShinyHunters claims",
+      "content_text": "7-Eleven confirmed a data breach affecting systems used to store franchisee documents after claims by ShinyHunters.\nQuelle: The Record\nZeit: 2026-05-20T19:57:09Z",
+      "date_published": "2026-05-20T19:57:09Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "772b24797483868d",
       "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — Internationale Ereignisse — Putin heads home from China without pipeline deal",
@@ -795,23 +811,7 @@
           "name": "BBC Technology RSS"
         }
       ]
-    },
-    {
-      "id": "e5f7cf4f318169f0",
-      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo",
-      "title": "MITTEL — allgemeine IT-News — Instagram privacy tech is turned off today- what does this mean for your DMs?",
-      "content_text": "BBC Technology berichtet, dass Instagram die Ende-zu-Ende-Verschlüsselung für Direktnachrichten abschaltet – ein deutlicher Kurswechsel bei Meta.\nQuelle: BBC Technology\nZeit: 2026-05-08T04:33:18Z",
-      "date_published": "2026-05-08T04:33:18Z",
-      "tags": [
-        "allgemeine IT-News",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC Technology"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-20T19:44:38.700037Z"
+  "generated_at": "2026-05-20T21:44:39.541493Z"
 }

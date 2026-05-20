@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-20T19:44:38.700037Z</updated>
+  <updated>2026-05-20T21:44:39.541493Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — 7-Eleven confirms breach after ShinyHunters claims</title>
+    <id>b403e0c3d2ea7824</id>
+    <updated>2026-05-20T19:57:09Z</updated>
+    <link href="https://therecord.media/7-eleven-reports-data-breach-shinyhunters" />
+    <summary>7-Eleven confirmed a data breach affecting systems used to store franchisee documents after claims by ShinyHunters.
+Quelle: The Record
+Zeit: 2026-05-20T19:57:09Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — Internationale Ereignisse — Putin heads home from China without pipeline deal</title>
     <id>772b24797483868d</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-08T06:32:22Z</summary>
     <summary>BBC Technology meldet eine Kehrtwende bei Meta: Instagram entfernt laut Feed heute die Ende-zu-Ende-Verschlüsselung für Direktnachrichten.
 Quelle: BBC Technology RSS
 Zeit: 2026-05-08T06:32:22Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — allgemeine IT-News — Instagram privacy tech is turned off today- what does this mean for your DMs?</title>
-    <id>e5f7cf4f318169f0</id>
-    <updated>2026-05-08T04:33:18Z</updated>
-    <link href="https://www.bbc.com/news/articles/clypzxl3lvqo" />
-    <summary>BBC Technology berichtet, dass Instagram die Ende-zu-Ende-Verschlüsselung für Direktnachrichten abschaltet – ein deutlicher Kurswechsel bei Meta.
-Quelle: BBC Technology
-Zeit: 2026-05-08T04:33:18Z</summary>
   </entry>
 </feed>
