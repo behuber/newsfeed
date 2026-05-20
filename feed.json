@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "9146b01a5122b415",
+      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo",
+      "title": "MITTEL — AI-News — Google kündigt neue KI-Smartglasses für den Herbst an",
+      "content_text": "BBC Technology berichtet, dass Google erstmals seit dem Ende von Google Glass wieder Smartglasses auf den Markt bringen will. Das Gerät soll mit Googles KI interagieren.\nQuelle: BBC Technology\nZeit: 2026-05-20T07:57:16Z",
+      "date_published": "2026-05-20T07:57:16Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology"
+        }
+      ]
+    },
+    {
+      "id": "fa918db9527e7fc2",
+      "url": "https://www.bbc.com/news/articles/c302jy8z4vro",
+      "title": "HOCH — Ukraine/Internationale Ereignisse — Estland meldet Abschuss einer Drohne über eigenem Staatsgebiet durch Nato-Jet",
+      "content_text": "BBC World berichtet, Estland vermute bei der Drohne ein ukrainisches Projektil, das durch russische elektronische Störung vom Kurs abgekommen sei.\nQuelle: BBC World\nZeit: 2026-05-20T07:57:16Z",
+      "date_published": "2026-05-20T07:57:16Z",
+      "tags": [
+        "Ukraine/Internationale Ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "e50341d28f237a6b",
       "url": "https://www.bbc.com/news/articles/c302jy8z4vro",
       "title": "HOCH — ukraine — Estonia says Nato jet shot down drone over its territory",
@@ -779,39 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "af938f43eff696e4",
-      "url": "https://www.bbc.com/news/articles/c0m21mndm71o",
-      "title": "MITTEL — Iran-Krieg — China drängt in Gesprächen mit Iran auf schnelle Wiederöffnung der Straße von Hormus",
-      "content_text": "Chinas Außenminister Wang Yi fordert bei Gesprächen mit Irans Außenminister eine rasche Wiederöffnung der Straße von Hormus, während die Lage nach dem Krieg fragil bleibt.\nQuelle: BBC News World\nZeit: 2026-05-06T10:16:49Z",
-      "date_published": "2026-05-06T10:16:49Z",
-      "tags": [
-        "Iran-Krieg",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC News World"
-        }
-      ]
-    },
-    {
-      "id": "42c5c303f09f0e2e",
-      "url": "https://therecord.media/german-officials-advance-laws-surveillance",
-      "title": "MITTEL — IT-Sicherheit — Deutschland bringt Gesetz für ausgeweitete Polizeinutzung von KI-Überwachung voran",
-      "content_text": "The Record berichtet, dass deutsche Politiker Gesetze vorantreiben, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger legalisieren und ausweiten würden.\nQuelle: The Record RSS\nZeit: 2026-05-06T08:16:54Z",
-      "date_published": "2026-05-06T08:16:54Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-20T07:44:38.319725Z"
+  "generated_at": "2026-05-20T09:44:38.064122Z"
 }

@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 20 May 2026 07:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:44:38 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — AI-News — Google kündigt neue KI-Smartglasses für den Herbst an</title>
+      <link>https://www.bbc.com/news/articles/cvgz1ynq1nqo</link>
+      <guid isPermaLink="false">9146b01a5122b415</guid>
+      <pubDate>Wed, 20 May 2026 07:57:16 +0000</pubDate>
+      <description>BBC Technology berichtet, dass Google erstmals seit dem Ende von Google Glass wieder Smartglasses auf den Markt bringen will. Das Gerät soll mit Googles KI interagieren.
+Quelle: BBC Technology
+Zeit: 2026-05-20T07:57:16Z</description>
+      <category>AI-News</category>
+    </item>
+    <item>
+      <title>HOCH — Ukraine/Internationale Ereignisse — Estland meldet Abschuss einer Drohne über eigenem Staatsgebiet durch Nato-Jet</title>
+      <link>https://www.bbc.com/news/articles/c302jy8z4vro</link>
+      <guid isPermaLink="false">fa918db9527e7fc2</guid>
+      <pubDate>Wed, 20 May 2026 07:57:16 +0000</pubDate>
+      <description>BBC World berichtet, Estland vermute bei der Drohne ein ukrainisches Projektil, das durch russische elektronische Störung vom Kurs abgekommen sei.
+Quelle: BBC World
+Zeit: 2026-05-20T07:57:16Z</description>
+      <category>Ukraine/Internationale Ereignisse</category>
+    </item>
     <item>
       <title>HOCH — ukraine — Estonia says Nato jet shot down drone over its territory</title>
       <link>https://www.bbc.com/news/articles/c302jy8z4vro</link>
@@ -487,26 +507,6 @@ Zeit: 2026-05-06T14:16:39Z</description>
 Quelle: BBC World
 Zeit: 2026-05-06T12:16:39Z</description>
       <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — Iran-Krieg — China drängt in Gesprächen mit Iran auf schnelle Wiederöffnung der Straße von Hormus</title>
-      <link>https://www.bbc.com/news/articles/c0m21mndm71o</link>
-      <guid isPermaLink="false">af938f43eff696e4</guid>
-      <pubDate>Wed, 06 May 2026 10:16:49 +0000</pubDate>
-      <description>Chinas Außenminister Wang Yi fordert bei Gesprächen mit Irans Außenminister eine rasche Wiederöffnung der Straße von Hormus, während die Lage nach dem Krieg fragil bleibt.
-Quelle: BBC News World
-Zeit: 2026-05-06T10:16:49Z</description>
-      <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — Deutschland bringt Gesetz für ausgeweitete Polizeinutzung von KI-Überwachung voran</title>
-      <link>https://therecord.media/german-officials-advance-laws-surveillance</link>
-      <guid isPermaLink="false">42c5c303f09f0e2e</guid>
-      <pubDate>Wed, 06 May 2026 08:16:54 +0000</pubDate>
-      <description>The Record berichtet, dass deutsche Politiker Gesetze vorantreiben, die automatisierte Datenanalyse und KI-gestützte Gesichtssuche für Strafverfolger legalisieren und ausweiten würden.
-Quelle: The Record RSS
-Zeit: 2026-05-06T08:16:54Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
