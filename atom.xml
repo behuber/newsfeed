@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-20T13:44:38.461008Z</updated>
+  <updated>2026-05-20T15:44:37.668074Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — IT-Sicherheit — GitHub bestätigt Hack interner Repositories, Kundendaten laut Firma nicht betroffen</title>
+    <id>1f21eacf02d663d7</id>
+    <updated>2026-05-20T13:57:21Z</updated>
+    <link href="https://therecord.media/github-confirms-teampcp-hack-customers-unaffected" />
+    <summary>The Record berichtet, dass GitHub den von TeamPCP behaupteten Einbruch in interne Repositories bestätigt hat; betroffen sei interne Quellcode-Infrastruktur, Kundendaten seien laut Unternehmen nicht kompromittiert worden.
+Quelle: The Record
+Zeit: 2026-05-20T13:57:21Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg — Ukraine meldet russischen Einsatz KI-gestützter Malware im Krieg</title>
+    <id>4964806ed6fab742</id>
+    <updated>2026-05-20T13:57:21Z</updated>
+    <link href="https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield" />
+    <summary>Laut The Record warnt der ukrainische Sicherheitsrat, Russland nutze KI zunehmend in Cyberoperationen und Malware-Entwicklung auf dem Gefechtsfeld, was den Druck auf Verteidiger spürbar erhöhe.
+Quelle: The Record
+Zeit: 2026-05-20T13:57:21Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — AI-News — Google bringt erstmals seit Google Glass wieder smarte Brille auf den Markt</title>
     <id>9e1ace67665a686d</id>
@@ -440,23 +458,5 @@ Zeit: 2026-05-07T20:32:22Z</summary>
     <summary>Laut BBC ist für die Siegesparade in Moskau diesmal keine Militärtechnik vorgesehen; das wird als weiteres Signal gewertet, wie stark Russlands Ressourcen durch den Krieg gegen die Ukraine gebunden sind.
 Quelle: BBC World
 Zeit: 2026-05-07T18:32:31Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — IT-Sicherheit — Polnischer Geheimdienst meldet Hackerangriffe auf Steuerungen von Wasseraufbereitungsanlagen</title>
-    <id>54e1484e92ec70ee</id>
-    <updated>2026-05-07T18:32:23Z</updated>
-    <link href="https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment" />
-    <summary>Polens Nachrichtendienst warnt vor Angriffen auf Kontrollsysteme von Wasseraufbereitungsanlagen und verweist auf verstärkte feindliche Cyberaktivität mit besonderem Fokus auf russische Dienste.
-Quelle: The Record
-Zeit: 2026-05-07T18:32:23Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — IT-Sicherheit — Polnischer Geheimdienst meldet Hackerangriffe auf Wasseraufbereitungs-Steuerungen</title>
-    <id>afabbeac135d7d58</id>
-    <updated>2026-05-07T16:40:44Z</updated>
-    <link href="https://therecord.media/polish-intelligence-warns-hackers-attacked-water-treatment" />
-    <summary>Polens Nachrichtendienst warnt vor Angriffen auf Steuerungssysteme von Wasseraufbereitungsanlagen und verweist auf verstärkte feindliche Cyberaktivität mit Fokus auf russische Dienste.
-Quelle: The Record
-Zeit: 2026-05-07T16:40:44Z</summary>
   </entry>
 </feed>
