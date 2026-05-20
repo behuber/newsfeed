@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 20 May 2026 17:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 19:44:38 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Internationale Ereignisse — Putin heads home from China without pipeline deal</title>
+      <link>https://www.bbc.com/news/articles/c8r8me3nlllo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">772b24797483868d</guid>
+      <pubDate>Wed, 20 May 2026 17:57:04 +0000</pubDate>
+      <description>BBC reports Moscow and Beijing showed political alignment, but Putin left without the sought-after pipeline agreement.
+Quelle: BBC
+Zeit: 2026-05-20T17:57:04Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
     <item>
       <title>MITTEL — Ukraine-Krieg / AI / IT-Sicherheit — Ukraine says Russia is deploying AI-powered malware on the battlefield</title>
       <link>https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-08T06:32:22Z</description>
 Quelle: BBC Technology
 Zeit: 2026-05-08T04:33:18Z</description>
       <category>allgemeine IT-News</category>
-    </item>
-    <item>
-      <title>MITTEL — AI-News — EU-Spitzen einigen sich vorläufig auf Vereinfachung des AI Act</title>
-      <link>https://therecord.media/european-leaders-unveil-deal-ai-act-nudification</link>
-      <guid isPermaLink="false">c633f86bbfd79a30</guid>
-      <pubDate>Thu, 07 May 2026 20:32:22 +0000</pubDate>
-      <description>Laut The Record sollen Regeln für Hochrisiko-KI teils bis Ende 2027 verschoben werden; zugleich ist ein Verbot von Nudification-Tools Teil des vorläufigen Deals.
-Quelle: The Record
-Zeit: 2026-05-07T20:32:22Z</description>
-      <category>AI-News</category>
     </item>
   </channel>
 </rss>
