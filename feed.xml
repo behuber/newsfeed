@@ -5,9 +5,39 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 21 May 2026 19:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 21:44:38 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-Sicherheit — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
+      <link>https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections</link>
+      <guid isPermaLink="false">a6ec7d8ffa600d16</guid>
+      <pubDate>Thu, 21 May 2026 19:57:41 +0000</pubDate>
+      <description>The Record berichtet, dass britische Reformpläne zum Cybercrime-Recht Sicherheitsforscher laut Experten kaum schützen würden und sogar die Bewertung realer Schwachstellen erschweren könnten.
+Quelle: The Record
+Zeit: 2026-05-21T19:57:41Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
+    <item>
+      <title>MITTEL — AI-News — Xi and Putin pledge closer cooperation on AI, cyberspace and satellite systems</title>
+      <link>https://therecord.media/russia-and-china-pledge-cooperation-2026</link>
+      <guid isPermaLink="false">1b133f08410e681e</guid>
+      <pubDate>Thu, 21 May 2026 19:57:41 +0000</pubDate>
+      <description>The Record berichtet, dass China und Russland in einer gemeinsamen Erklärung engere Zusammenarbeit bei KI, Cyberspace und Satellitensystemen zusagen, um ihre technologische Abhängigkeit vom Westen zu verringern.
+Quelle: The Record
+Zeit: 2026-05-21T19:57:41Z</description>
+      <category>AI-News</category>
+    </item>
+    <item>
+      <title>HOCH — Iran-Krieg — Iran steps up claim to control Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/cq5py64gvwzo</link>
+      <guid isPermaLink="false">d095bada1c183cc6</guid>
+      <pubDate>Thu, 21 May 2026 19:57:28 +0000</pubDate>
+      <description>BBC berichtet, dass Iran eine Karte veröffentlicht hat, die eine militärische Aufsicht über weite Teile der Straße von Hormus beansprucht. Das verschärft die Lage an einer zentralen globalen Öl- und Handelsroute.
+Quelle: BBC World
+Zeit: 2026-05-21T19:57:28Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — VPN service used by ransomware actors dismantled — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks</title>
       <link>https://therecord.media/europe-dismantles-first-vpn</link>
@@ -476,36 +506,6 @@ Zeit: 2026-05-10T08:32:35Z</description>
       <description>Russlands Präsident Putin sagte laut BBC, der Ukraine-Konflikt komme aus seiner Sicht zu einem Ende und verwies auf mögliche Verhandlungen; zugleich kritisierte er die westliche Unterstützung für Selenskyj.
 Quelle: BBC World RSS
 Zeit: 2026-05-10T08:32:26Z</description>
-      <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — Ukraine-Krieg — Pro-Ukraine BO Team and Head Mare hackers appear to team up in attacks against Russia</title>
-      <link>https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky</link>
-      <guid isPermaLink="false">00f414c3e7ea0fe4</guid>
-      <pubDate>Sun, 10 May 2026 06:32:25 +0000</pubDate>
-      <description>Kaspersky researchers say the pro-Ukraine groups BO Team and Head Mare appear to share infrastructure and tools, suggesting coordination in cyberattacks against Russian targets.
-Quelle: The Record RSS
-Zeit: 2026-05-10T06:32:25Z</description>
-      <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — Multiple universities forced to reschedule final exams after Canvas cyber incident</title>
-      <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
-      <guid isPermaLink="false">ec65b2922f6a372a</guid>
-      <pubDate>Sun, 10 May 2026 06:32:20 +0000</pubDate>
-      <description>A cyber incident involving Instructure's Canvas platform forced multiple universities to reschedule exams after students reported seeing a cybercriminal message in the service.
-Quelle: The Record RSS
-Zeit: 2026-05-10T06:32:20Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Ukraine-Krieg — Putin says he thinks Ukraine conflict 'coming to an end'</title>
-      <link>https://www.bbc.com/news/articles/cn8p4j2jzwwo</link>
-      <guid isPermaLink="false">22027fb548da2f61</guid>
-      <pubDate>Sun, 10 May 2026 04:32:23 +0000</pubDate>
-      <description>Putin said he sees potential for negotiations and suggested the Ukraine conflict is nearing an end, while criticizing Western backing for Zelensky.
-Quelle: BBC World RSS
-Zeit: 2026-05-10T04:32:23Z</description>
       <category>Ukraine-Krieg</category>
     </item>
   </channel>
