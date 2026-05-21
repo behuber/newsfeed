@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-21T21:44:38.624337Z</updated>
+  <updated>2026-05-21T23:44:39.899039Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks</title>
+    <id>0826209d0a9d527f</id>
+    <updated>2026-05-21T21:57:20Z</updated>
+    <link href="https://therecord.media/europe-dismantles-first-vpn" />
+    <summary>The Record berichtet, dass europäische Behörden den Dienst First VPN zerschlagen haben, der in Ransomware- und Datendiebstahlangriffen zur Verschleierung genutzt wurde.
+Quelle: The Record
+Zeit: 2026-05-21T21:57:20Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — IT-Sicherheit — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
     <id>a6ec7d8ffa600d16</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-10T10:32:20Z</summary>
     <summary>Nach einem Cybervorfall bei der Lernplattform Canvas mussten mehrere Universitäten laut The Record Abschlussprüfungen verschieben, nachdem auf Login-Seiten eine Nachricht einer Cybercrime-Gruppe erschien.
 Quelle: The Record
 Zeit: 2026-05-10T08:32:35Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC vor einem Ende</title>
-    <id>35b82a3dc9184f2c</id>
-    <updated>2026-05-10T08:32:26Z</updated>
-    <link href="https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Russlands Präsident Putin sagte laut BBC, der Ukraine-Konflikt komme aus seiner Sicht zu einem Ende und verwies auf mögliche Verhandlungen; zugleich kritisierte er die westliche Unterstützung für Selenskyj.
-Quelle: BBC World RSS
-Zeit: 2026-05-10T08:32:26Z</summary>
   </entry>
 </feed>

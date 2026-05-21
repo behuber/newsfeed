@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "0826209d0a9d527f",
+      "url": "https://therecord.media/europe-dismantles-first-vpn",
+      "title": "MITTEL — IT-Sicherheit — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks",
+      "content_text": "The Record berichtet, dass europäische Behörden den Dienst First VPN zerschlagen haben, der in Ransomware- und Datendiebstahlangriffen zur Verschleierung genutzt wurde.\nQuelle: The Record\nZeit: 2026-05-21T21:57:20Z",
+      "date_published": "2026-05-21T21:57:20Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "a6ec7d8ffa600d16",
       "url": "https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections",
       "title": "MITTEL — IT-Sicherheit — UK plans for cybercrime law reform would protect almost no one, experts warn",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "35b82a3dc9184f2c",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC vor einem Ende",
-      "content_text": "Russlands Präsident Putin sagte laut BBC, der Ukraine-Konflikt komme aus seiner Sicht zu einem Ende und verwies auf mögliche Verhandlungen; zugleich kritisierte er die westliche Unterstützung für Selenskyj.\nQuelle: BBC World RSS\nZeit: 2026-05-10T08:32:26Z",
-      "date_published": "2026-05-10T08:32:26Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-21T21:44:38.624337Z"
+  "generated_at": "2026-05-21T23:44:39.899039Z"
 }

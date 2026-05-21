@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 21 May 2026 21:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 23:44:39 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks</title>
+      <link>https://therecord.media/europe-dismantles-first-vpn</link>
+      <guid isPermaLink="false">0826209d0a9d527f</guid>
+      <pubDate>Thu, 21 May 2026 21:57:20 +0000</pubDate>
+      <description>The Record berichtet, dass europäische Behörden den Dienst First VPN zerschlagen haben, der in Ransomware- und Datendiebstahlangriffen zur Verschleierung genutzt wurde.
+Quelle: The Record
+Zeit: 2026-05-21T21:57:20Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — IT-Sicherheit — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
       <link>https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-10T10:32:20Z</description>
 Quelle: The Record
 Zeit: 2026-05-10T08:32:35Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC vor einem Ende</title>
-      <link>https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">35b82a3dc9184f2c</guid>
-      <pubDate>Sun, 10 May 2026 08:32:26 +0000</pubDate>
-      <description>Russlands Präsident Putin sagte laut BBC, der Ukraine-Konflikt komme aus seiner Sicht zu einem Ende und verwies auf mögliche Verhandlungen; zugleich kritisierte er die westliche Unterstützung für Selenskyj.
-Quelle: BBC World RSS
-Zeit: 2026-05-10T08:32:26Z</description>
-      <category>Ukraine-Krieg</category>
     </item>
   </channel>
 </rss>
