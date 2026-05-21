@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-21T17:44:38.806112Z</updated>
+  <updated>2026-05-21T19:44:38.551036Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — VPN service used by ransomware actors dismantled — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks</title>
+    <id>7c3c64d6c819eecf</id>
+    <updated>2026-05-21T17:57:21Z</updated>
+    <link href="https://therecord.media/europe-dismantles-first-vpn" />
+    <summary>European authorities dismantled First VPN, a service long marketed on Russian-speaking cybercrime forums and used to shield ransomware and data-theft operations.
+Quelle: The Record
+Zeit: 2026-05-21T17:57:21Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — UK cybercrime law reform — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
     <id>a7218ed862a569f4</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-10T06:32:20Z</summary>
     <summary>Putin said he sees potential for negotiations and suggested the Ukraine conflict is nearing an end, while criticizing Western backing for Zelensky.
 Quelle: BBC World RSS
 Zeit: 2026-05-10T04:32:23Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — AI-News — TikTok fährt KI-generierte Videobeschreibungen nach groben Fehlern zurück</title>
-    <id>e215c3e0003ee5fe</id>
-    <updated>2026-05-09T20:32:33Z</updated>
-    <link href="https://www.bbc.com/news/articles/c5yerd05n01o" />
-    <summary>BBC Technology berichtet, dass TikTok eine nur teils ausgerollte Funktion für KI-generierte Videobeschreibungen nach weithin geteilten Fehlbeschreibungen zurücknimmt.
-Quelle: BBC Technology
-Zeit: 2026-05-09T20:32:33Z</summary>
   </entry>
 </feed>

@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "7c3c64d6c819eecf",
+      "url": "https://therecord.media/europe-dismantles-first-vpn",
+      "title": "MITTEL — VPN service used by ransomware actors dismantled — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks",
+      "content_text": "European authorities dismantled First VPN, a service long marketed on Russian-speaking cybercrime forums and used to shield ransomware and data-theft operations.\nQuelle: The Record\nZeit: 2026-05-21T17:57:21Z",
+      "date_published": "2026-05-21T17:57:21Z",
+      "tags": [
+        "VPN service used by ransomware actors dismantled",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "a7218ed862a569f4",
       "url": "https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections",
       "title": "MITTEL — UK cybercrime law reform — UK plans for cybercrime law reform would protect almost no one, experts warn",
@@ -795,23 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "e215c3e0003ee5fe",
-      "url": "https://www.bbc.com/news/articles/c5yerd05n01o",
-      "title": "MITTEL — AI-News — TikTok fährt KI-generierte Videobeschreibungen nach groben Fehlern zurück",
-      "content_text": "BBC Technology berichtet, dass TikTok eine nur teils ausgerollte Funktion für KI-generierte Videobeschreibungen nach weithin geteilten Fehlbeschreibungen zurücknimmt.\nQuelle: BBC Technology\nZeit: 2026-05-09T20:32:33Z",
-      "date_published": "2026-05-09T20:32:33Z",
-      "tags": [
-        "AI-News",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC Technology"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-21T17:44:38.806112Z"
+  "generated_at": "2026-05-21T19:44:38.551036Z"
 }

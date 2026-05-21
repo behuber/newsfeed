@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 21 May 2026 17:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 19:44:38 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — VPN service used by ransomware actors dismantled — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks</title>
+      <link>https://therecord.media/europe-dismantles-first-vpn</link>
+      <guid isPermaLink="false">7c3c64d6c819eecf</guid>
+      <pubDate>Thu, 21 May 2026 17:57:21 +0000</pubDate>
+      <description>European authorities dismantled First VPN, a service long marketed on Russian-speaking cybercrime forums and used to shield ransomware and data-theft operations.
+Quelle: The Record
+Zeit: 2026-05-21T17:57:21Z</description>
+      <category>VPN service used by ransomware actors dismantled</category>
+    </item>
     <item>
       <title>MITTEL — UK cybercrime law reform — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
       <link>https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-10T06:32:20Z</description>
 Quelle: BBC World RSS
 Zeit: 2026-05-10T04:32:23Z</description>
       <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — AI-News — TikTok fährt KI-generierte Videobeschreibungen nach groben Fehlern zurück</title>
-      <link>https://www.bbc.com/news/articles/c5yerd05n01o</link>
-      <guid isPermaLink="false">e215c3e0003ee5fe</guid>
-      <pubDate>Sat, 09 May 2026 20:32:33 +0000</pubDate>
-      <description>BBC Technology berichtet, dass TikTok eine nur teils ausgerollte Funktion für KI-generierte Videobeschreibungen nach weithin geteilten Fehlbeschreibungen zurücknimmt.
-Quelle: BBC Technology
-Zeit: 2026-05-09T20:32:33Z</description>
-      <category>AI-News</category>
     </item>
   </channel>
 </rss>
