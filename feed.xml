@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 21 May 2026 09:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:44:37 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Allgemeine IT-News — Discord stellt End-to-End-Verschlüsselung standardmäßig für alle Nutzer um</title>
+      <link>https://therecord.media/discord-migrates-users-to-end-to-end-encryption</link>
+      <guid isPermaLink="false">f70be1dc61cc8752</guid>
+      <pubDate>Thu, 21 May 2026 09:57:13 +0000</pubDate>
+      <description>Laut The Record migriert Discord alle Nutzer standardmäßig auf Ende-zu-Ende-verschlüsselte Nachrichten.
+Quelle: The Record
+Zeit: 2026-05-21T09:57:13Z</description>
+      <category>Allgemeine IT-News</category>
+    </item>
     <item>
       <title>MITTEL — IT-News — Ofcom hält TikTok und YouTube für nicht sicher genug für Kinder</title>
       <link>https://www.bbc.com/news/articles/cn0pky4zpxxo?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-09T08:32:28Z</description>
 Quelle: BBC World RSS
 Zeit: 2026-05-09T06:32:37Z</description>
       <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — Canvas-Hack stört Hochschulen und Schulen international</title>
-      <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>
-      <guid isPermaLink="false">3acc73a887b4c93f</guid>
-      <pubDate>Sat, 09 May 2026 06:32:37 +0000</pubDate>
-      <description>Ein Cyberangriff auf die Lernplattform Canvas beeinträchtigt weltweit Schulen und Universitäten; teils mussten Prüfungen verschoben werden.
-Quelle: BBC World RSS
-Zeit: 2026-05-09T06:32:37Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>

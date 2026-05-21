@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-21T09:44:38.128009Z</updated>
+  <updated>2026-05-21T11:44:37.973632Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Allgemeine IT-News — Discord stellt End-to-End-Verschlüsselung standardmäßig für alle Nutzer um</title>
+    <id>f70be1dc61cc8752</id>
+    <updated>2026-05-21T09:57:13Z</updated>
+    <link href="https://therecord.media/discord-migrates-users-to-end-to-end-encryption" />
+    <summary>Laut The Record migriert Discord alle Nutzer standardmäßig auf Ende-zu-Ende-verschlüsselte Nachrichten.
+Quelle: The Record
+Zeit: 2026-05-21T09:57:13Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — IT-News — Ofcom hält TikTok und YouTube für nicht sicher genug für Kinder</title>
     <id>f51355ae0aaf6889</id>
@@ -447,15 +456,6 @@ Zeit: 2026-05-09T08:32:28Z</summary>
     <updated>2026-05-09T06:32:37Z</updated>
     <link href="https://www.bbc.com/news/articles/c99lpn9ze8ro" />
     <summary>Irans Außenminister wirft den USA nach den jüngsten Angriffen vor, diplomatische Lösungen zu torpedieren; der Streit eskaliert weiter.
-Quelle: BBC World RSS
-Zeit: 2026-05-09T06:32:37Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — IT-Sicherheit — Canvas-Hack stört Hochschulen und Schulen international</title>
-    <id>3acc73a887b4c93f</id>
-    <updated>2026-05-09T06:32:37Z</updated>
-    <link href="https://www.bbc.com/news/articles/ce3pq0136eqo" />
-    <summary>Ein Cyberangriff auf die Lernplattform Canvas beeinträchtigt weltweit Schulen und Universitäten; teils mussten Prüfungen verschoben werden.
 Quelle: BBC World RSS
 Zeit: 2026-05-09T06:32:37Z</summary>
   </entry>

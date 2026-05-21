@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "f70be1dc61cc8752",
+      "url": "https://therecord.media/discord-migrates-users-to-end-to-end-encryption",
+      "title": "MITTEL — Allgemeine IT-News — Discord stellt End-to-End-Verschlüsselung standardmäßig für alle Nutzer um",
+      "content_text": "Laut The Record migriert Discord alle Nutzer standardmäßig auf Ende-zu-Ende-verschlüsselte Nachrichten.\nQuelle: The Record\nZeit: 2026-05-21T09:57:13Z",
+      "date_published": "2026-05-21T09:57:13Z",
+      "tags": [
+        "Allgemeine IT-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "f51355ae0aaf6889",
       "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — IT-News — Ofcom hält TikTok und YouTube für nicht sicher genug für Kinder",
@@ -795,23 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "3acc73a887b4c93f",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
-      "title": "HOCH — IT-Sicherheit — Canvas-Hack stört Hochschulen und Schulen international",
-      "content_text": "Ein Cyberangriff auf die Lernplattform Canvas beeinträchtigt weltweit Schulen und Universitäten; teils mussten Prüfungen verschoben werden.\nQuelle: BBC World RSS\nZeit: 2026-05-09T06:32:37Z",
-      "date_published": "2026-05-09T06:32:37Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-21T09:44:38.128009Z"
+  "generated_at": "2026-05-21T11:44:37.973632Z"
 }
