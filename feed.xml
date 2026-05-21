@@ -5,9 +5,39 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 21 May 2026 07:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:44:38 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-News — Ofcom hält TikTok und YouTube für nicht sicher genug für Kinder</title>
+      <link>https://www.bbc.com/news/articles/cn0pky4zpxxo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">f51355ae0aaf6889</guid>
+      <pubDate>Thu, 21 May 2026 07:57:24 +0000</pubDate>
+      <description>Die britische Medienaufsicht Ofcom wirft TikTok und YouTube laut BBC unzureichende Schutzmaßnahmen für Minderjährige vor.
+Quelle: BBC Technology
+Zeit: 2026-05-21T07:57:24Z</description>
+      <category>IT-News</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-News — Discord stellt Nutzer standardmäßig auf Ende-zu-Ende-Verschlüsselung um</title>
+      <link>https://therecord.media/discord-migrates-users-to-end-to-end-encryption</link>
+      <guid isPermaLink="false">f9efaa9bdf0b6214</guid>
+      <pubDate>Thu, 21 May 2026 07:57:24 +0000</pubDate>
+      <description>The Record berichtet, dass Discord alle Nutzer auf standardmäßig aktivierte Ende-zu-Ende-Verschlüsselung für Messaging migriert.
+Quelle: The Record
+Zeit: 2026-05-21T07:57:24Z</description>
+      <category>IT-News</category>
+    </item>
+    <item>
+      <title>MITTEL — AI-News — Google will erstmals seit Google Glass wieder smarte Brillen veröffentlichen</title>
+      <link>https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">8b43837bcf1f9f72</guid>
+      <pubDate>Thu, 21 May 2026 07:57:11 +0000</pubDate>
+      <description>BBC berichtet, dass Google im Herbst neue Smart Glasses mit KI-Interaktion auf den Markt bringen will.
+Quelle: BBC Technology
+Zeit: 2026-05-21T07:57:11Z</description>
+      <category>AI-News</category>
+    </item>
     <item>
       <title>MITTEL — AI/IT — Musk loses OpenAI court battle after jury finds he waited too long to sue</title>
       <link>https://www.bbc.com/news/articles/cewpyv79pw1o?amp%3Bat_campaign=rss&amp;at_medium=RSS</link>
@@ -476,36 +506,6 @@ Zeit: 2026-05-09T06:32:37Z</description>
       <description>Ein Cyberangriff auf die Lernplattform Canvas beeinträchtigt weltweit Schulen und Universitäten; teils mussten Prüfungen verschoben werden.
 Quelle: BBC World RSS
 Zeit: 2026-05-09T06:32:37Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Iran accuses US of reckless military adventure</title>
-      <link>https://www.bbc.com/news/articles/c99lpn9ze8ro</link>
-      <guid isPermaLink="false">99f72174ba983b97</guid>
-      <pubDate>Sat, 09 May 2026 04:32:21 +0000</pubDate>
-      <description>Iranian Foreign Minister Abbas Araghchi accused the US of a reckless military adventure and said Washington strikes whenever a diplomatic solution is on the table.
-Quelle: BBC World RSS
-Zeit: 2026-05-09T04:32:21Z</description>
-      <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — Canvas cyber incident forces universities to reschedule exams</title>
-      <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
-      <guid isPermaLink="false">50ff6447077419c6</guid>
-      <pubDate>Fri, 08 May 2026 20:32:21 +0000</pubDate>
-      <description>After a cyber incident affecting the Canvas education platform, multiple universities have had to reschedule final exams, turning the breach into a direct operational disruption.
-Quelle: The Record
-Zeit: 2026-05-08T20:32:21Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — Multiple universities forced to reschedule final exams after Canvas cyber incident</title>
-      <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
-      <guid isPermaLink="false">ec65b2922f6a372a</guid>
-      <pubDate>Fri, 08 May 2026 18:32:32 +0000</pubDate>
-      <description>Nach einem Cybervorfall bei Canvas müssen mehrere Hochschulen Abschlussprüfungen verschieben; Studierende sahen Erpresserhinweise im Lernsystem.
-Quelle: The Record RSS
-Zeit: 2026-05-08T18:32:32Z</description>
       <category>IT-Sicherheit</category>
     </item>
   </channel>

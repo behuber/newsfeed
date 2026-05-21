@@ -13,6 +13,54 @@
   "expired": false,
   "items": [
     {
+      "id": "f51355ae0aaf6889",
+      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — IT-News — Ofcom hält TikTok und YouTube für nicht sicher genug für Kinder",
+      "content_text": "Die britische Medienaufsicht Ofcom wirft TikTok und YouTube laut BBC unzureichende Schutzmaßnahmen für Minderjährige vor.\nQuelle: BBC Technology\nZeit: 2026-05-21T07:57:24Z",
+      "date_published": "2026-05-21T07:57:24Z",
+      "tags": [
+        "IT-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology"
+        }
+      ]
+    },
+    {
+      "id": "f9efaa9bdf0b6214",
+      "url": "https://therecord.media/discord-migrates-users-to-end-to-end-encryption",
+      "title": "MITTEL — IT-News — Discord stellt Nutzer standardmäßig auf Ende-zu-Ende-Verschlüsselung um",
+      "content_text": "The Record berichtet, dass Discord alle Nutzer auf standardmäßig aktivierte Ende-zu-Ende-Verschlüsselung für Messaging migriert.\nQuelle: The Record\nZeit: 2026-05-21T07:57:24Z",
+      "date_published": "2026-05-21T07:57:24Z",
+      "tags": [
+        "IT-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
+      "id": "8b43837bcf1f9f72",
+      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI-News — Google will erstmals seit Google Glass wieder smarte Brillen veröffentlichen",
+      "content_text": "BBC berichtet, dass Google im Herbst neue Smart Glasses mit KI-Interaktion auf den Markt bringen will.\nQuelle: BBC Technology\nZeit: 2026-05-21T07:57:11Z",
+      "date_published": "2026-05-21T07:57:11Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology"
+        }
+      ]
+    },
+    {
       "id": "d77c55956da30ab3",
       "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?amp%3Bat_campaign=rss&at_medium=RSS",
       "title": "MITTEL — AI/IT — Musk loses OpenAI court battle after jury finds he waited too long to sue",
@@ -763,55 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "99f72174ba983b97",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
-      "title": "HOCH — Iran-Krieg — Iran accuses US of reckless military adventure",
-      "content_text": "Iranian Foreign Minister Abbas Araghchi accused the US of a reckless military adventure and said Washington strikes whenever a diplomatic solution is on the table.\nQuelle: BBC World RSS\nZeit: 2026-05-09T04:32:21Z",
-      "date_published": "2026-05-09T04:32:21Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "50ff6447077419c6",
-      "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
-      "title": "MITTEL — IT-Sicherheit — Canvas cyber incident forces universities to reschedule exams",
-      "content_text": "After a cyber incident affecting the Canvas education platform, multiple universities have had to reschedule final exams, turning the breach into a direct operational disruption.\nQuelle: The Record\nZeit: 2026-05-08T20:32:21Z",
-      "date_published": "2026-05-08T20:32:21Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "ec65b2922f6a372a",
-      "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
-      "title": "HOCH — IT-Sicherheit — Multiple universities forced to reschedule final exams after Canvas cyber incident",
-      "content_text": "Nach einem Cybervorfall bei Canvas müssen mehrere Hochschulen Abschlussprüfungen verschieben; Studierende sahen Erpresserhinweise im Lernsystem.\nQuelle: The Record RSS\nZeit: 2026-05-08T18:32:32Z",
-      "date_published": "2026-05-08T18:32:32Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-21T07:44:38.446079Z"
+  "generated_at": "2026-05-21T09:44:38.128009Z"
 }
