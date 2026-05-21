@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "09f26eae72d56949",
+      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo",
+      "title": "MITTEL — AI-News — Nvidia's latest record result fails to impress investors",
+      "content_text": "Nvidia meldet erneut Rekordzahlen, doch die Aktie gibt nachbörslich nach, weil Anleger Zweifel am weiteren Wachstumstempo haben.\nQuelle: BBC\nZeit: 2026-05-21T11:57:16Z",
+      "date_published": "2026-05-21T11:57:16Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC"
+        }
+      ]
+    },
+    {
+      "id": "e0830dd99f54b7bc",
+      "url": "https://therecord.media/russia-and-china-pledge-cooperation-2026",
+      "title": "MITTEL — Internationale Ereignisse — Xi and Putin pledge closer cooperation on AI, cyberspace and satellite systems",
+      "content_text": "Russland und China vereinbaren laut gemeinsamer Erklärung engere Zusammenarbeit bei KI, Cyberspace und Satellitensystemen, um technologische Abhängigkeiten vom Westen zu verringern.\nQuelle: The Record\nZeit: 2026-05-21T11:57:16Z",
+      "date_published": "2026-05-21T11:57:16Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "f70be1dc61cc8752",
       "url": "https://therecord.media/discord-migrates-users-to-end-to-end-encryption",
       "title": "MITTEL — Allgemeine IT-News — Discord stellt End-to-End-Verschlüsselung standardmäßig für alle Nutzer um",
@@ -779,39 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "82fae59def71e077",
-      "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
-      "title": "HOCH — IT-Sicherheit — Canvas-Cyberangriff stört Hochschulen und Schulen weltweit",
-      "content_text": "BBC und The Record berichten über einen Cyberangriff auf Canvas, der zahlreiche Schulen und Universitäten trifft; teils mussten Abschlussprüfungen verschoben werden.\nQuelle: The Record RSS\nZeit: 2026-05-09T08:32:28Z",
-      "date_published": "2026-05-09T08:32:28Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record RSS"
-        }
-      ]
-    },
-    {
-      "id": "bd15e9d580788b53",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
-      "title": "HOCH — Iran-Krieg — Iran wirft den USA ein \"reckless military adventure\" vor",
-      "content_text": "Irans Außenminister wirft den USA nach den jüngsten Angriffen vor, diplomatische Lösungen zu torpedieren; der Streit eskaliert weiter.\nQuelle: BBC World RSS\nZeit: 2026-05-09T06:32:37Z",
-      "date_published": "2026-05-09T06:32:37Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-21T11:44:37.973632Z"
+  "generated_at": "2026-05-21T13:44:39.457478Z"
 }

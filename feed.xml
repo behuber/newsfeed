@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 21 May 2026 11:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:44:39 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — AI-News — Nvidia's latest record result fails to impress investors</title>
+      <link>https://www.bbc.com/news/articles/c759x9pq3dpo</link>
+      <guid isPermaLink="false">09f26eae72d56949</guid>
+      <pubDate>Thu, 21 May 2026 11:57:16 +0000</pubDate>
+      <description>Nvidia meldet erneut Rekordzahlen, doch die Aktie gibt nachbörslich nach, weil Anleger Zweifel am weiteren Wachstumstempo haben.
+Quelle: BBC
+Zeit: 2026-05-21T11:57:16Z</description>
+      <category>AI-News</category>
+    </item>
+    <item>
+      <title>MITTEL — Internationale Ereignisse — Xi and Putin pledge closer cooperation on AI, cyberspace and satellite systems</title>
+      <link>https://therecord.media/russia-and-china-pledge-cooperation-2026</link>
+      <guid isPermaLink="false">e0830dd99f54b7bc</guid>
+      <pubDate>Thu, 21 May 2026 11:57:16 +0000</pubDate>
+      <description>Russland und China vereinbaren laut gemeinsamer Erklärung engere Zusammenarbeit bei KI, Cyberspace und Satellitensystemen, um technologische Abhängigkeiten vom Westen zu verringern.
+Quelle: The Record
+Zeit: 2026-05-21T11:57:16Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
     <item>
       <title>MITTEL — Allgemeine IT-News — Discord stellt End-to-End-Verschlüsselung standardmäßig für alle Nutzer um</title>
       <link>https://therecord.media/discord-migrates-users-to-end-to-end-encryption</link>
@@ -487,26 +507,6 @@ Zeit: 2026-05-09T12:32:36Z</description>
 Quelle: BBC World RSS
 Zeit: 2026-05-09T10:32:34Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — Canvas-Cyberangriff stört Hochschulen und Schulen weltweit</title>
-      <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
-      <guid isPermaLink="false">82fae59def71e077</guid>
-      <pubDate>Sat, 09 May 2026 08:32:28 +0000</pubDate>
-      <description>BBC und The Record berichten über einen Cyberangriff auf Canvas, der zahlreiche Schulen und Universitäten trifft; teils mussten Abschlussprüfungen verschoben werden.
-Quelle: The Record RSS
-Zeit: 2026-05-09T08:32:28Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Iran wirft den USA ein "reckless military adventure" vor</title>
-      <link>https://www.bbc.com/news/articles/c99lpn9ze8ro</link>
-      <guid isPermaLink="false">bd15e9d580788b53</guid>
-      <pubDate>Sat, 09 May 2026 06:32:37 +0000</pubDate>
-      <description>Irans Außenminister wirft den USA nach den jüngsten Angriffen vor, diplomatische Lösungen zu torpedieren; der Streit eskaliert weiter.
-Quelle: BBC World RSS
-Zeit: 2026-05-09T06:32:37Z</description>
-      <category>Iran-Krieg</category>
     </item>
   </channel>
 </rss>
