@@ -13,6 +13,70 @@
   "expired": false,
   "items": [
     {
+      "id": "a7218ed862a569f4",
+      "url": "https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections",
+      "title": "MITTEL — UK cybercrime law reform — UK plans for cybercrime law reform would protect almost no one, experts warn",
+      "content_text": "Experts warn the UK's planned cybercrime-law reform would force researchers to stop once they spot a bug, limiting verification, severity assessment and exploitability checks.\nQuelle: The Record\nZeit: 2026-05-21T15:57:27Z",
+      "date_published": "2026-05-21T15:57:27Z",
+      "tags": [
+        "UK cybercrime law reform",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
+      "id": "0bc911622aed7a6a",
+      "url": "https://therecord.media/russia-and-china-pledge-cooperation-2026",
+      "title": "MITTEL — China-Russia AI cooperation — Xi and Putin pledge closer cooperation on AI, cyberspace and satellite systems",
+      "content_text": "China and Russia pledged closer cooperation on AI, cyberspace, satellite internet and open-source software to reduce reliance on Western technology.\nQuelle: The Record\nZeit: 2026-05-21T15:57:27Z",
+      "date_published": "2026-05-21T15:57:27Z",
+      "tags": [
+        "China-Russia AI cooperation",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
+      "id": "7c4c6f50c1c932c8",
+      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo",
+      "title": "MITTEL — Nvidia earnings — Nvidia's latest record earnings fail to impress investors",
+      "content_text": "Nvidia reported another set of record results, but the market reaction was muted as investors questioned whether its growth pace can continue amid rising competition.\nQuelle: BBC World\nZeit: 2026-05-21T15:57:27Z",
+      "date_published": "2026-05-21T15:57:27Z",
+      "tags": [
+        "Nvidia earnings",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "36e11fdb8613e7f4",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo",
+      "title": "HOCH — Iran/Strait of Hormuz — Iran steps up claim to control Strait of Hormuz",
+      "content_text": "Iran published a map claiming armed-forces oversight across more than 22,000 square kilometres of the Strait of Hormuz waterway.\nQuelle: BBC World\nZeit: 2026-05-21T15:57:14Z",
+      "date_published": "2026-05-21T15:57:14Z",
+      "tags": [
+        "Iran/Strait of Hormuz",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "09f26eae72d56949",
       "url": "https://www.bbc.com/news/articles/c759x9pq3dpo",
       "title": "MITTEL — AI-News — Nvidia's latest record result fails to impress investors",
@@ -747,71 +811,7 @@
           "name": "BBC Technology"
         }
       ]
-    },
-    {
-      "id": "594c9e4dd643977a",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Iran-Konflikt — Iran wirft den USA ein 'rücksichtsloses Militärabenteuer' vor",
-      "content_text": "Irans Außenminister sagt laut BBC, die US-Angriffe kämen trotz diplomatischer Lösungsmöglichkeiten; das deutet auf eine weitere Eskalation im Iran-Konflikt hin.\nQuelle: BBC World RSS\nZeit: 2026-05-09T16:32:27Z",
-      "date_published": "2026-05-09T16:32:27Z",
-      "tags": [
-        "Iran-Konflikt",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "a4ee403ad8b28b15",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
-      "title": "HOCH — IT-Sicherheit — Cyberangriff auf Canvas stört Schulen und Universitäten weltweit",
-      "content_text": "Ein Hackerangriff auf die Lernplattform Canvas beeinträchtigt Schulen und Hochschulen international; Login-Portale wurden kompromittiert und Prüfungen teils verschoben.\nQuelle: BBC\nZeit: 2026-05-09T14:32:22Z",
-      "date_published": "2026-05-09T14:32:22Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC"
-        }
-      ]
-    },
-    {
-      "id": "336c3694e72583af",
-      "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — Ukraine-Krieg — Putin kritisiert NATO bei Moskauer Siegesparade",
-      "content_text": "Bei der Siegesparade in Moskau rechtfertigte Putin den Krieg gegen die Ukraine erneut und griff die NATO scharf an.\nQuelle: BBC World RSS\nZeit: 2026-05-09T12:32:36Z",
-      "date_published": "2026-05-09T12:32:36Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "938e0cc9e20aadbb",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
-      "title": "HOCH — IT-Sicherheit — International cyber attack disrupts universities and schools via Canvas",
-      "content_text": "BBC, BleepingComputer and The Record all report a broad cyber incident affecting Canvas, with hacked login portals and exam disruptions across universities and schools.\nQuelle: BBC World RSS\nZeit: 2026-05-09T10:32:34Z",
-      "date_published": "2026-05-09T10:32:34Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-21T15:44:37.858916Z"
+  "generated_at": "2026-05-21T17:44:38.806112Z"
 }

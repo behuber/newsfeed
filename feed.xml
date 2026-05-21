@@ -5,9 +5,49 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 21 May 2026 15:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:44:38 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — UK cybercrime law reform — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
+      <link>https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections</link>
+      <guid isPermaLink="false">a7218ed862a569f4</guid>
+      <pubDate>Thu, 21 May 2026 15:57:27 +0000</pubDate>
+      <description>Experts warn the UK's planned cybercrime-law reform would force researchers to stop once they spot a bug, limiting verification, severity assessment and exploitability checks.
+Quelle: The Record
+Zeit: 2026-05-21T15:57:27Z</description>
+      <category>UK cybercrime law reform</category>
+    </item>
+    <item>
+      <title>MITTEL — China-Russia AI cooperation — Xi and Putin pledge closer cooperation on AI, cyberspace and satellite systems</title>
+      <link>https://therecord.media/russia-and-china-pledge-cooperation-2026</link>
+      <guid isPermaLink="false">0bc911622aed7a6a</guid>
+      <pubDate>Thu, 21 May 2026 15:57:27 +0000</pubDate>
+      <description>China and Russia pledged closer cooperation on AI, cyberspace, satellite internet and open-source software to reduce reliance on Western technology.
+Quelle: The Record
+Zeit: 2026-05-21T15:57:27Z</description>
+      <category>China-Russia AI cooperation</category>
+    </item>
+    <item>
+      <title>MITTEL — Nvidia earnings — Nvidia's latest record earnings fail to impress investors</title>
+      <link>https://www.bbc.com/news/articles/c759x9pq3dpo</link>
+      <guid isPermaLink="false">7c4c6f50c1c932c8</guid>
+      <pubDate>Thu, 21 May 2026 15:57:27 +0000</pubDate>
+      <description>Nvidia reported another set of record results, but the market reaction was muted as investors questioned whether its growth pace can continue amid rising competition.
+Quelle: BBC World
+Zeit: 2026-05-21T15:57:27Z</description>
+      <category>Nvidia earnings</category>
+    </item>
+    <item>
+      <title>HOCH — Iran/Strait of Hormuz — Iran steps up claim to control Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/cq5py64gvwzo</link>
+      <guid isPermaLink="false">36e11fdb8613e7f4</guid>
+      <pubDate>Thu, 21 May 2026 15:57:14 +0000</pubDate>
+      <description>Iran published a map claiming armed-forces oversight across more than 22,000 square kilometres of the Strait of Hormuz waterway.
+Quelle: BBC World
+Zeit: 2026-05-21T15:57:14Z</description>
+      <category>Iran/Strait of Hormuz</category>
+    </item>
     <item>
       <title>MITTEL — AI-News — Nvidia's latest record result fails to impress investors</title>
       <link>https://www.bbc.com/news/articles/c759x9pq3dpo</link>
@@ -467,46 +507,6 @@ Zeit: 2026-05-10T04:32:23Z</description>
 Quelle: BBC Technology
 Zeit: 2026-05-09T20:32:33Z</description>
       <category>AI-News</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Konflikt — Iran wirft den USA ein 'rücksichtsloses Militärabenteuer' vor</title>
-      <link>https://www.bbc.com/news/articles/c99lpn9ze8ro?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">594c9e4dd643977a</guid>
-      <pubDate>Sat, 09 May 2026 16:32:27 +0000</pubDate>
-      <description>Irans Außenminister sagt laut BBC, die US-Angriffe kämen trotz diplomatischer Lösungsmöglichkeiten; das deutet auf eine weitere Eskalation im Iran-Konflikt hin.
-Quelle: BBC World RSS
-Zeit: 2026-05-09T16:32:27Z</description>
-      <category>Iran-Konflikt</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — Cyberangriff auf Canvas stört Schulen und Universitäten weltweit</title>
-      <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>
-      <guid isPermaLink="false">a4ee403ad8b28b15</guid>
-      <pubDate>Sat, 09 May 2026 14:32:22 +0000</pubDate>
-      <description>Ein Hackerangriff auf die Lernplattform Canvas beeinträchtigt Schulen und Hochschulen international; Login-Portale wurden kompromittiert und Prüfungen teils verschoben.
-Quelle: BBC
-Zeit: 2026-05-09T14:32:22Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — Ukraine-Krieg — Putin kritisiert NATO bei Moskauer Siegesparade</title>
-      <link>https://www.bbc.com/news/articles/c626xjq0q0vo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">336c3694e72583af</guid>
-      <pubDate>Sat, 09 May 2026 12:32:36 +0000</pubDate>
-      <description>Bei der Siegesparade in Moskau rechtfertigte Putin den Krieg gegen die Ukraine erneut und griff die NATO scharf an.
-Quelle: BBC World RSS
-Zeit: 2026-05-09T12:32:36Z</description>
-      <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — International cyber attack disrupts universities and schools via Canvas</title>
-      <link>https://www.bbc.com/news/articles/ce3pq0136eqo</link>
-      <guid isPermaLink="false">938e0cc9e20aadbb</guid>
-      <pubDate>Sat, 09 May 2026 10:32:34 +0000</pubDate>
-      <description>BBC, BleepingComputer and The Record all report a broad cyber incident affecting Canvas, with hacked login portals and exam disruptions across universities and schools.
-Quelle: BBC World RSS
-Zeit: 2026-05-09T10:32:34Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
