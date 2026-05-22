@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-22T07:44:39.133243Z</updated>
+  <updated>2026-05-22T09:44:39.795885Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg / Taiwan — US pauses $14bn weapons sale to Taiwan due to Iran war</title>
+    <id>37c401b95d84afe9</id>
+    <updated>2026-05-22T07:57:07Z</updated>
+    <link href="https://www.bbc.com/news/articles/c232z4yk437o" />
+    <summary>Die USA setzen laut BBC einen geplanten Waffenverkauf an Taiwan im Wert von 14 Milliarden Dollar aus, um Munition für den Iran-Krieg vorzuhalten.
+Quelle: BBC World
+Zeit: 2026-05-22T07:57:07Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran — Iran steps up claim to control Strait of Hormuz</title>
     <id>923576a39dd3274c</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-10T14:32:22Z</summary>
     <summary>Putin sagte laut BBC, der Ukraine-Krieg komme aus seiner Sicht an ein Ende; zugleich sprach er von Verhandlungschancen und kritisierte die westliche Unterstützung für Selenskyj.
 Quelle: BBC World
 Zeit: 2026-05-10T12:32:21Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Ukraine-Krieg/IT-Sicherheit — Kaspersky sieht Zusammenarbeit pro-ukrainischer Hackergruppen gegen Russland</title>
-    <id>3b420798af64a891</id>
-    <updated>2026-05-10T10:32:20Z</updated>
-    <link href="https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky" />
-    <summary>Laut The Record/Kaspersky deuten gemeinsame Infrastruktur und Werkzeuge auf koordinierte Angriffe der Gruppen BO Team und Head Mare gegen russische Ziele hin.
-Quelle: The Record
-Zeit: 2026-05-10T10:32:20Z</summary>
   </entry>
 </feed>

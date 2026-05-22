@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "37c401b95d84afe9",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o",
+      "title": "HOCH — Iran-Krieg / Taiwan — US pauses $14bn weapons sale to Taiwan due to Iran war",
+      "content_text": "Die USA setzen laut BBC einen geplanten Waffenverkauf an Taiwan im Wert von 14 Milliarden Dollar aus, um Munition für den Iran-Krieg vorzuhalten.\nQuelle: BBC World\nZeit: 2026-05-22T07:57:07Z",
+      "date_published": "2026-05-22T07:57:07Z",
+      "tags": [
+        "Iran-Krieg / Taiwan",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "923576a39dd3274c",
       "url": "https://www.bbc.com/news/articles/cq5py64gvwzo",
       "title": "HOCH — Iran — Iran steps up claim to control Strait of Hormuz",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "3b420798af64a891",
-      "url": "https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky",
-      "title": "MITTEL — Ukraine-Krieg/IT-Sicherheit — Kaspersky sieht Zusammenarbeit pro-ukrainischer Hackergruppen gegen Russland",
-      "content_text": "Laut The Record/Kaspersky deuten gemeinsame Infrastruktur und Werkzeuge auf koordinierte Angriffe der Gruppen BO Team und Head Mare gegen russische Ziele hin.\nQuelle: The Record\nZeit: 2026-05-10T10:32:20Z",
-      "date_published": "2026-05-10T10:32:20Z",
-      "tags": [
-        "Ukraine-Krieg/IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-22T07:44:39.133243Z"
+  "generated_at": "2026-05-22T09:44:39.795885Z"
 }

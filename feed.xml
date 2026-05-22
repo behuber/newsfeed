@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 22 May 2026 07:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:44:39 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg / Taiwan — US pauses $14bn weapons sale to Taiwan due to Iran war</title>
+      <link>https://www.bbc.com/news/articles/c232z4yk437o</link>
+      <guid isPermaLink="false">37c401b95d84afe9</guid>
+      <pubDate>Fri, 22 May 2026 07:57:07 +0000</pubDate>
+      <description>Die USA setzen laut BBC einen geplanten Waffenverkauf an Taiwan im Wert von 14 Milliarden Dollar aus, um Munition für den Iran-Krieg vorzuhalten.
+Quelle: BBC World
+Zeit: 2026-05-22T07:57:07Z</description>
+      <category>Iran-Krieg / Taiwan</category>
+    </item>
     <item>
       <title>HOCH — Iran — Iran steps up claim to control Strait of Hormuz</title>
       <link>https://www.bbc.com/news/articles/cq5py64gvwzo</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-10T14:32:22Z</description>
 Quelle: BBC World
 Zeit: 2026-05-10T12:32:21Z</description>
       <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — Ukraine-Krieg/IT-Sicherheit — Kaspersky sieht Zusammenarbeit pro-ukrainischer Hackergruppen gegen Russland</title>
-      <link>https://therecord.media/ukraine-bo-team-head-mare-hacktivists-team-up-kaspersky</link>
-      <guid isPermaLink="false">3b420798af64a891</guid>
-      <pubDate>Sun, 10 May 2026 10:32:20 +0000</pubDate>
-      <description>Laut The Record/Kaspersky deuten gemeinsame Infrastruktur und Werkzeuge auf koordinierte Angriffe der Gruppen BO Team und Head Mare gegen russische Ziele hin.
-Quelle: The Record
-Zeit: 2026-05-10T10:32:20Z</description>
-      <category>Ukraine-Krieg/IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
