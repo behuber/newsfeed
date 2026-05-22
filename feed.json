@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "923576a39dd3274c",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo",
+      "title": "HOCH — Iran — Iran steps up claim to control Strait of Hormuz",
+      "content_text": "BBC reports Iran published a map claiming armed forces oversight across more than 22,000 square kilometers of the Strait of Hormuz waterway.\nQuelle: BBC\nZeit: 2026-05-22T05:57:23Z",
+      "date_published": "2026-05-22T05:57:23Z",
+      "tags": [
+        "Iran",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC"
+        }
+      ]
+    },
+    {
       "id": "0826209d0a9d527f",
       "url": "https://therecord.media/europe-dismantles-first-vpn",
       "title": "MITTEL — IT-Sicherheit — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "285b244ecb45c034",
-      "url": "https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident",
-      "title": "MITTEL — IT-Sicherheit — Canvas-Cybervorfall zwingt Hochschulen zur Verschiebung von Prüfungen",
-      "content_text": "Nach einem Cybervorfall bei der Lernplattform Canvas mussten mehrere Universitäten laut The Record Abschlussprüfungen verschieben, nachdem auf Login-Seiten eine Nachricht einer Cybercrime-Gruppe erschien.\nQuelle: The Record\nZeit: 2026-05-10T08:32:35Z",
-      "date_published": "2026-05-10T08:32:35Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-22T05:44:37.914491Z"
+  "generated_at": "2026-05-22T07:44:39.133243Z"
 }

@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 22 May 2026 05:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 07:44:39 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran — Iran steps up claim to control Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/cq5py64gvwzo</link>
+      <guid isPermaLink="false">923576a39dd3274c</guid>
+      <pubDate>Fri, 22 May 2026 05:57:23 +0000</pubDate>
+      <description>BBC reports Iran published a map claiming armed forces oversight across more than 22,000 square kilometers of the Strait of Hormuz waterway.
+Quelle: BBC
+Zeit: 2026-05-22T05:57:23Z</description>
+      <category>Iran</category>
+    </item>
     <item>
       <title>MITTEL — IT-Sicherheit — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks</title>
       <link>https://therecord.media/europe-dismantles-first-vpn</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-10T12:32:21Z</description>
 Quelle: The Record
 Zeit: 2026-05-10T10:32:20Z</description>
       <category>Ukraine-Krieg/IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — Canvas-Cybervorfall zwingt Hochschulen zur Verschiebung von Prüfungen</title>
-      <link>https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident</link>
-      <guid isPermaLink="false">285b244ecb45c034</guid>
-      <pubDate>Sun, 10 May 2026 08:32:35 +0000</pubDate>
-      <description>Nach einem Cybervorfall bei der Lernplattform Canvas mussten mehrere Universitäten laut The Record Abschlussprüfungen verschieben, nachdem auf Login-Seiten eine Nachricht einer Cybercrime-Gruppe erschien.
-Quelle: The Record
-Zeit: 2026-05-10T08:32:35Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>

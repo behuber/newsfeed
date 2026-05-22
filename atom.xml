@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-22T05:44:37.914491Z</updated>
+  <updated>2026-05-22T07:44:39.133243Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran — Iran steps up claim to control Strait of Hormuz</title>
+    <id>923576a39dd3274c</id>
+    <updated>2026-05-22T05:57:23Z</updated>
+    <link href="https://www.bbc.com/news/articles/cq5py64gvwzo" />
+    <summary>BBC reports Iran published a map claiming armed forces oversight across more than 22,000 square kilometers of the Strait of Hormuz waterway.
+Quelle: BBC
+Zeit: 2026-05-22T05:57:23Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — IT-Sicherheit — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks</title>
     <id>0826209d0a9d527f</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-10T12:32:21Z</summary>
     <summary>Laut The Record/Kaspersky deuten gemeinsame Infrastruktur und Werkzeuge auf koordinierte Angriffe der Gruppen BO Team und Head Mare gegen russische Ziele hin.
 Quelle: The Record
 Zeit: 2026-05-10T10:32:20Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — Canvas-Cybervorfall zwingt Hochschulen zur Verschiebung von Prüfungen</title>
-    <id>285b244ecb45c034</id>
-    <updated>2026-05-10T08:32:35Z</updated>
-    <link href="https://therecord.media/universities-forced-to-reschedule-exams-canvas-incident" />
-    <summary>Nach einem Cybervorfall bei der Lernplattform Canvas mussten mehrere Universitäten laut The Record Abschlussprüfungen verschieben, nachdem auf Login-Seiten eine Nachricht einer Cybercrime-Gruppe erschien.
-Quelle: The Record
-Zeit: 2026-05-10T08:32:35Z</summary>
   </entry>
 </feed>
