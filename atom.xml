@@ -3,12 +3,39 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-22T09:44:39.795885Z</updated>
+  <updated>2026-05-22T11:44:38.730040Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — US navy chief says bn arms sale to Taiwan paused due to Iran war</title>
+    <id>080abcbd6f5cb135</id>
+    <updated>2026-05-22T09:58:09Z</updated>
+    <link href="https://www.bbc.com/news/articles/c232z4yk437o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Die USA setzen laut BBC einen 14-Milliarden-Dollar-Waffendeal mit Taiwan vorerst aus, um Munition für den Iran-Krieg vorzuhalten.
+Quelle: bbc.com
+Zeit: 2026-05-22T09:58:09Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg — Nato chief welcomes US sending 5,000 troops to Poland</title>
+    <id>7281faa5c61fd229</id>
+    <updated>2026-05-22T09:58:09Z</updated>
+    <link href="https://www.bbc.com/news/articles/cedpz9669deo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Die NATO begrüßt die angekündigte Verlegung von 5.000 US-Soldaten nach Polen vor dem Außenministertreffen; das stärkt die Ostflanke.
+Quelle: bbc.com
+Zeit: 2026-05-22T09:58:09Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
+    <id>a6ec7d8ffa600d16</id>
+    <updated>2026-05-22T09:58:09Z</updated>
+    <link href="https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections" />
+    <summary>Experten warnen, dass die britischen Reformpläne Forschende faktisch ausbremsen und kaum Schutz für legitime Sicherheitsarbeit schaffen.
+Quelle: therecord.media
+Zeit: 2026-05-22T09:58:09Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg / Taiwan — US pauses $14bn weapons sale to Taiwan due to Iran war</title>
     <id>37c401b95d84afe9</id>
@@ -431,32 +458,5 @@ Zeit: 2026-05-10T20:32:19Z</summary>
     <summary>TikTok fährt laut BBC eine Funktion für KI-generierte Videobeschreibungen zurück, nachdem fehlerhafte und absurde Beschreibungen breite Kritik ausgelöst hatten.
 Quelle: BBC Technology RSS
 Zeit: 2026-05-10T16:32:35Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Ukraine-Krieg — Putin says he thinks Ukraine conflict coming to an end</title>
-    <id>22027fb548da2f61</id>
-    <updated>2026-05-10T16:32:23Z</updated>
-    <link href="https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Laut BBC sieht Putin Potenzial für Verhandlungen im Ukraine-Krieg und erklärte, er halte ein Ende des Konflikts für möglich.
-Quelle: BBC World RSS
-Zeit: 2026-05-10T16:32:23Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran-Krieg — Iran sends response to US proposals to end war</title>
-    <id>91d7f2df0ed7f71a</id>
-    <updated>2026-05-10T14:32:22Z</updated>
-    <link href="https://www.bbc.com/news/articles/clypgz9e5pmo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Iran hat laut BBC auf US-Vorschläge zur Beendigung des Kriegs geantwortet. Details der Antwort und der US-Vorschläge wurden zunächst nicht veröffentlicht.
-Quelle: BBC World
-Zeit: 2026-05-10T14:32:22Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Ukraine-Krieg — Putin sieht Ukraine-Konflikt laut BBC 'am Ende' und verweist auf mögliche Verhandlungen</title>
-    <id>a696c104d4006570</id>
-    <updated>2026-05-10T12:32:21Z</updated>
-    <link href="https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Putin sagte laut BBC, der Ukraine-Krieg komme aus seiner Sicht an ein Ende; zugleich sprach er von Verhandlungschancen und kritisierte die westliche Unterstützung für Selenskyj.
-Quelle: BBC World
-Zeit: 2026-05-10T12:32:21Z</summary>
   </entry>
 </feed>
