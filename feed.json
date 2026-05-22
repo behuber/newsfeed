@@ -13,6 +13,54 @@
   "expired": false,
   "items": [
     {
+      "id": "4b212e422de2e314",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o",
+      "title": "HOCH — Iran-Krieg / Internationale Ereignisse — USA pausieren laut Marineführung Waffenverkauf an Taiwan wegen Iran-Krieg",
+      "content_text": "Die US-Marineführung sagt, ein 14-Milliarden-Dollar-Rüstungsgeschäft mit Taiwan werde pausiert, um Munition für den Iran-Krieg verfügbar zu halten.\nQuelle: BBC World\nZeit: 2026-05-22T17:57:25Z",
+      "date_published": "2026-05-22T17:57:25Z",
+      "tags": [
+        "Iran-Krieg / Internationale Ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "4068cdf352e3034c",
+      "url": "https://www.bbc.com/news/articles/cp8p1l7gp1po",
+      "title": "MITTEL — Internationale Ereignisse — Afrika-Gipfel in Indien wegen Ebola-Sorgen verschoben",
+      "content_text": "Der India-Africa-Gipfel wurde kurzfristig verschoben, nachdem die Sorge vor einer Ausweitung des Ebola-Ausbruchs zugenommen hat.\nQuelle: BBC World\nZeit: 2026-05-22T17:57:25Z",
+      "date_published": "2026-05-22T17:57:25Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "62e99bfce411ab4f",
+      "url": "https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine",
+      "title": "MITTEL — Ukraine-Krieg / IT-Sicherheit — Belarus-nahe Hacker greifen ukrainische Behörden mit Fake-Zertifikaten an",
+      "content_text": "Die GhostWriter-Gruppe verschickt gefälschte Schulungszertifikate, um ukrainische Regierungsmitarbeiter mit Malware zu kompromittieren.\nQuelle: The Record\nZeit: 2026-05-22T17:57:13Z",
+      "date_published": "2026-05-22T17:57:13Z",
+      "tags": [
+        "Ukraine-Krieg / IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "04fe3de8aa5c8288",
       "url": "https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine",
       "title": "MITTEL — Ukraine-Krieg — Belarus-nahe Hacker greifen ukrainische Regierungsbeamte mit gefälschten Zertifikats-Mails an",
@@ -763,55 +811,7 @@
           "name": "BBC Technology"
         }
       ]
-    },
-    {
-      "id": "ec53ea8de22380c1",
-      "url": "https://www.bbc.com/news/articles/c7079e55zjro",
-      "title": "HOCH — Iran-Krieg — Trump says he called off new Iran attack at request of Gulf states",
-      "content_text": "Trump says a planned new attack on Iran for Tuesday was called off after pressure from Gulf states, while he points to serious negotiations now taking place.\nQuelle: BBC World\nZeit: 2026-05-19T20:07:26Z",
-      "date_published": "2026-05-19T20:07:26Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "f8e589d409fa462b",
-      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
-      "title": "HOCH — IT-Sicherheit — Huawei zero-day attack behind last year’s crash of Luxembourg's entire telecoms network",
-      "content_text": "A reported Huawei zero-day was behind last year's nationwide telecom outage in Luxembourg, pointing to unresolved infrastructure risk.\nQuelle: The Record\nZeit: 2026-05-19T20:07:26Z",
-      "date_published": "2026-05-19T20:07:26Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "14122302baafe198",
-      "url": "https://therecord.media/microsoft-disrupts-fox-tempest-malware-signing-service",
-      "title": "MITTEL — IT-Sicherheit — Microsoft disrupts Fox Tempest malware-signing-as-a-service platform tied to ransomware gangs",
-      "content_text": "Microsoft says it disrupted Fox Tempest, a malware-signing service used by ransomware-linked actors to obtain code-signing capability for malicious tools.\nQuelle: The Record\nZeit: 2026-05-19T20:07:26Z",
-      "date_published": "2026-05-19T20:07:26Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-22T17:44:39.822824Z"
+  "generated_at": "2026-05-22T19:44:39.300293Z"
 }

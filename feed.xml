@@ -5,9 +5,39 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 22 May 2026 17:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:44:39 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg / Internationale Ereignisse — USA pausieren laut Marineführung Waffenverkauf an Taiwan wegen Iran-Krieg</title>
+      <link>https://www.bbc.com/news/articles/c232z4yk437o</link>
+      <guid isPermaLink="false">4b212e422de2e314</guid>
+      <pubDate>Fri, 22 May 2026 17:57:25 +0000</pubDate>
+      <description>Die US-Marineführung sagt, ein 14-Milliarden-Dollar-Rüstungsgeschäft mit Taiwan werde pausiert, um Munition für den Iran-Krieg verfügbar zu halten.
+Quelle: BBC World
+Zeit: 2026-05-22T17:57:25Z</description>
+      <category>Iran-Krieg / Internationale Ereignisse</category>
+    </item>
+    <item>
+      <title>MITTEL — Internationale Ereignisse — Afrika-Gipfel in Indien wegen Ebola-Sorgen verschoben</title>
+      <link>https://www.bbc.com/news/articles/cp8p1l7gp1po</link>
+      <guid isPermaLink="false">4068cdf352e3034c</guid>
+      <pubDate>Fri, 22 May 2026 17:57:25 +0000</pubDate>
+      <description>Der India-Africa-Gipfel wurde kurzfristig verschoben, nachdem die Sorge vor einer Ausweitung des Ebola-Ausbruchs zugenommen hat.
+Quelle: BBC World
+Zeit: 2026-05-22T17:57:25Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
+    <item>
+      <title>MITTEL — Ukraine-Krieg / IT-Sicherheit — Belarus-nahe Hacker greifen ukrainische Behörden mit Fake-Zertifikaten an</title>
+      <link>https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine</link>
+      <guid isPermaLink="false">62e99bfce411ab4f</guid>
+      <pubDate>Fri, 22 May 2026 17:57:13 +0000</pubDate>
+      <description>Die GhostWriter-Gruppe verschickt gefälschte Schulungszertifikate, um ukrainische Regierungsmitarbeiter mit Malware zu kompromittieren.
+Quelle: The Record
+Zeit: 2026-05-22T17:57:13Z</description>
+      <category>Ukraine-Krieg / IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — Ukraine-Krieg — Belarus-nahe Hacker greifen ukrainische Regierungsbeamte mit gefälschten Zertifikats-Mails an</title>
       <link>https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine</link>
@@ -477,36 +507,6 @@ Zeit: 2026-05-19T21:57:15Z</description>
 Quelle: BBC Technology
 Zeit: 2026-05-19T21:57:15Z</description>
       <category>ai-news</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Trump says he called off new Iran attack at request of Gulf states</title>
-      <link>https://www.bbc.com/news/articles/c7079e55zjro</link>
-      <guid isPermaLink="false">ec53ea8de22380c1</guid>
-      <pubDate>Tue, 19 May 2026 20:07:26 +0000</pubDate>
-      <description>Trump says a planned new attack on Iran for Tuesday was called off after pressure from Gulf states, while he points to serious negotiations now taking place.
-Quelle: BBC World
-Zeit: 2026-05-19T20:07:26Z</description>
-      <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — Huawei zero-day attack behind last year’s crash of Luxembourg's entire telecoms network</title>
-      <link>https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage</link>
-      <guid isPermaLink="false">f8e589d409fa462b</guid>
-      <pubDate>Tue, 19 May 2026 20:07:26 +0000</pubDate>
-      <description>A reported Huawei zero-day was behind last year's nationwide telecom outage in Luxembourg, pointing to unresolved infrastructure risk.
-Quelle: The Record
-Zeit: 2026-05-19T20:07:26Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — Microsoft disrupts Fox Tempest malware-signing-as-a-service platform tied to ransomware gangs</title>
-      <link>https://therecord.media/microsoft-disrupts-fox-tempest-malware-signing-service</link>
-      <guid isPermaLink="false">14122302baafe198</guid>
-      <pubDate>Tue, 19 May 2026 20:07:26 +0000</pubDate>
-      <description>Microsoft says it disrupted Fox Tempest, a malware-signing service used by ransomware-linked actors to obtain code-signing capability for malicious tools.
-Quelle: The Record
-Zeit: 2026-05-19T20:07:26Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
