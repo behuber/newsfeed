@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "a0be641e89f5da0c",
+      "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
+      "title": "HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks",
+      "content_text": "Das FBI warnt vor Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und damit breite Zugriffe auf Microsoft-365-Umgebungen ermöglicht.\nQuelle: The Record\nZeit: 2026-05-22T21:57:08Z",
+      "date_published": "2026-05-22T21:57:08Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "a9b6f1b1ac2758aa",
       "url": "https://www.bbc.com/news/articles/c5y74lwx395o",
       "title": "HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory",
@@ -795,23 +811,7 @@
           "name": "BBC Technology"
         }
       ]
-    },
-    {
-      "id": "fa918db9527e7fc2",
-      "url": "https://www.bbc.com/news/articles/c302jy8z4vro",
-      "title": "HOCH — Ukraine/Internationale Ereignisse — Estland meldet Abschuss einer Drohne über eigenem Staatsgebiet durch Nato-Jet",
-      "content_text": "BBC World berichtet, Estland vermute bei der Drohne ein ukrainisches Projektil, das durch russische elektronische Störung vom Kurs abgekommen sei.\nQuelle: BBC World\nZeit: 2026-05-20T07:57:16Z",
-      "date_published": "2026-05-20T07:57:16Z",
-      "tags": [
-        "Ukraine/Internationale Ereignisse",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-22T21:44:38.484461Z"
+  "generated_at": "2026-05-22T23:44:38.240063Z"
 }

@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-22T21:44:38.484461Z</updated>
+  <updated>2026-05-22T23:44:38.240063Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks</title>
+    <id>a0be641e89f5da0c</id>
+    <updated>2026-05-22T21:57:08Z</updated>
+    <link href="https://therecord.media/fbi-warns-of-kali365-phishing-attacks" />
+    <summary>Das FBI warnt vor Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und damit breite Zugriffe auf Microsoft-365-Umgebungen ermöglicht.
+Quelle: The Record
+Zeit: 2026-05-22T21:57:08Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory</title>
     <id>a9b6f1b1ac2758aa</id>
@@ -448,15 +457,6 @@ Zeit: 2026-05-20T09:57:31Z</summary>
     <link href="https://www.bbc.com/news/articles/cvgz1ynq1nqo" />
     <summary>BBC Technology berichtet, dass Google erstmals seit dem Ende von Google Glass wieder Smartglasses auf den Markt bringen will. Das Gerät soll mit Googles KI interagieren.
 Quelle: BBC Technology
-Zeit: 2026-05-20T07:57:16Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Ukraine/Internationale Ereignisse — Estland meldet Abschuss einer Drohne über eigenem Staatsgebiet durch Nato-Jet</title>
-    <id>fa918db9527e7fc2</id>
-    <updated>2026-05-20T07:57:16Z</updated>
-    <link href="https://www.bbc.com/news/articles/c302jy8z4vro" />
-    <summary>BBC World berichtet, Estland vermute bei der Drohne ein ukrainisches Projektil, das durch russische elektronische Störung vom Kurs abgekommen sei.
-Quelle: BBC World
 Zeit: 2026-05-20T07:57:16Z</summary>
   </entry>
 </feed>
