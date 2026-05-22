@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-22T19:44:39.300293Z</updated>
+  <updated>2026-05-22T21:44:38.484461Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory</title>
+    <id>a9b6f1b1ac2758aa</id>
+    <updated>2026-05-22T19:57:16Z</updated>
+    <link href="https://www.bbc.com/news/articles/c5y74lwx395o" />
+    <summary>Russlands Präsident Putin kündigt Vergeltung an, nachdem Moskau der Ukraine einen Angriff auf ein Studentenwohnheim vorwirft; Kiew erklärte laut BBC, eine Elite-Drohneneinheit im besetzten Osten getroffen zu haben.
+Quelle: BBC World
+Zeit: 2026-05-22T19:57:16Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
+    <id>c1805361ec690598</id>
+    <updated>2026-05-22T19:57:16Z</updated>
+    <link href="https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev" />
+    <summary>CISA führt laut The Record ein Meldeformular ein, über das Forscher und Hersteller Schwachstellen für den Known Exploited Vulnerabilities-Katalog einreichen können.
+Quelle: The Record
+Zeit: 2026-05-22T19:57:16Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg / Internationale Ereignisse — USA pausieren laut Marineführung Waffenverkauf an Taiwan wegen Iran-Krieg</title>
     <id>4b212e422de2e314</id>
@@ -440,23 +458,5 @@ Zeit: 2026-05-20T07:57:16Z</summary>
     <summary>BBC World berichtet, Estland vermute bei der Drohne ein ukrainisches Projektil, das durch russische elektronische Störung vom Kurs abgekommen sei.
 Quelle: BBC World
 Zeit: 2026-05-20T07:57:16Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — ukraine — Estonia says Nato jet shot down drone over its territory</title>
-    <id>e50341d28f237a6b</id>
-    <updated>2026-05-19T21:57:15Z</updated>
-    <link href="https://www.bbc.com/news/articles/c302jy8z4vro" />
-    <summary>Estonia says a Nato jet downed a drone over its territory, with suspicion the projectile was Ukrainian and knocked off course by Russian electronic jamming.
-Quelle: BBC World
-Zeit: 2026-05-19T21:57:15Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — ai-news — Google to release first smart glasses since Google Glass flop</title>
-    <id>4a9e096c5e47f332</id>
-    <updated>2026-05-19T21:57:15Z</updated>
-    <link href="https://www.bbc.com/news/articles/cvgz1ynq1nqo" />
-    <summary>Google says it will release new AI-enabled smart glasses in autumn, marking its first major smart-glasses launch since Google Glass.
-Quelle: BBC Technology
-Zeit: 2026-05-19T21:57:15Z</summary>
   </entry>
 </feed>

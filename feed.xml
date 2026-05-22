@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 22 May 2026 19:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:44:38 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory</title>
+      <link>https://www.bbc.com/news/articles/c5y74lwx395o</link>
+      <guid isPermaLink="false">a9b6f1b1ac2758aa</guid>
+      <pubDate>Fri, 22 May 2026 19:57:16 +0000</pubDate>
+      <description>Russlands Präsident Putin kündigt Vergeltung an, nachdem Moskau der Ukraine einen Angriff auf ein Studentenwohnheim vorwirft; Kiew erklärte laut BBC, eine Elite-Drohneneinheit im besetzten Osten getroffen zu haben.
+Quelle: BBC World
+Zeit: 2026-05-22T19:57:16Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
+      <link>https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev</link>
+      <guid isPermaLink="false">c1805361ec690598</guid>
+      <pubDate>Fri, 22 May 2026 19:57:16 +0000</pubDate>
+      <description>CISA führt laut The Record ein Meldeformular ein, über das Forscher und Hersteller Schwachstellen für den Known Exploited Vulnerabilities-Katalog einreichen können.
+Quelle: The Record
+Zeit: 2026-05-22T19:57:16Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg / Internationale Ereignisse — USA pausieren laut Marineführung Waffenverkauf an Taiwan wegen Iran-Krieg</title>
       <link>https://www.bbc.com/news/articles/c232z4yk437o</link>
@@ -487,26 +507,6 @@ Zeit: 2026-05-20T07:57:16Z</description>
 Quelle: BBC World
 Zeit: 2026-05-20T07:57:16Z</description>
       <category>Ukraine/Internationale Ereignisse</category>
-    </item>
-    <item>
-      <title>HOCH — ukraine — Estonia says Nato jet shot down drone over its territory</title>
-      <link>https://www.bbc.com/news/articles/c302jy8z4vro</link>
-      <guid isPermaLink="false">e50341d28f237a6b</guid>
-      <pubDate>Tue, 19 May 2026 21:57:15 +0000</pubDate>
-      <description>Estonia says a Nato jet downed a drone over its territory, with suspicion the projectile was Ukrainian and knocked off course by Russian electronic jamming.
-Quelle: BBC World
-Zeit: 2026-05-19T21:57:15Z</description>
-      <category>ukraine</category>
-    </item>
-    <item>
-      <title>MITTEL — ai-news — Google to release first smart glasses since Google Glass flop</title>
-      <link>https://www.bbc.com/news/articles/cvgz1ynq1nqo</link>
-      <guid isPermaLink="false">4a9e096c5e47f332</guid>
-      <pubDate>Tue, 19 May 2026 21:57:15 +0000</pubDate>
-      <description>Google says it will release new AI-enabled smart glasses in autumn, marking its first major smart-glasses launch since Google Glass.
-Quelle: BBC Technology
-Zeit: 2026-05-19T21:57:15Z</description>
-      <category>ai-news</category>
     </item>
   </channel>
 </rss>
