@@ -5,9 +5,39 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 22 May 2026 13:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:44:39 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Ukraine-Krieg — Belarus-nahe Hacker greifen ukrainische Regierungsbeamte mit gefälschten Zertifikats-Mails an</title>
+      <link>https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine</link>
+      <guid isPermaLink="false">04fe3de8aa5c8288</guid>
+      <pubDate>Fri, 22 May 2026 13:57:10 +0000</pubDate>
+      <description>The Record berichtet über eine neue GhostWriter-Spionagekampagne gegen ukrainische Behörden mit Malware in täuschend echten Trainingszertifikat-Mails.
+Quelle: The Record
+Zeit: 2026-05-22T13:57:10Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — Internationale Ereignisse — Nato begrüßt Entsendung von 5.000 US-Soldaten nach Polen</title>
+      <link>https://www.bbc.com/news/articles/cedpz9669deo</link>
+      <guid isPermaLink="false">30373a9e9178e984</guid>
+      <pubDate>Fri, 22 May 2026 13:57:10 +0000</pubDate>
+      <description>BBC berichtet, dass Nato-Generalsekretär die von Präsident Trump angekündigte Verlegung von 5.000 US-Soldaten nach Polen vor dem Außenministertreffen begrüßt.
+Quelle: BBC World
+Zeit: 2026-05-22T13:57:10Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
+    <item>
+      <title>HOCH — Iran-Krieg — US stoppt laut BBC vorerst 14-Milliarden-Dollar-Waffenverkauf an Taiwan wegen Iran-Krieg</title>
+      <link>https://www.bbc.com/news/articles/c232z4yk437o</link>
+      <guid isPermaLink="false">8c6b89ecdd7fc362</guid>
+      <pubDate>Fri, 22 May 2026 13:57:09 +0000</pubDate>
+      <description>Der US-Marinechef sagte laut BBC, der bereits angekündigte Waffenverkauf an Taiwan werde pausiert, um Munition für den Iran-Krieg vorzuhalten.
+Quelle: BBC World
+Zeit: 2026-05-22T13:57:09Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — IT-Sicherheit / Ukraine — Belarus-linked hackers use fake training certificates to target Ukrainian officials</title>
       <link>https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine</link>
@@ -476,36 +506,6 @@ Zeit: 2026-05-19T20:07:26Z</description>
       <description>Microsoft says it disrupted Fox Tempest, a malware-signing service used by ransomware-linked actors to obtain code-signing capability for malicious tools.
 Quelle: The Record
 Zeit: 2026-05-19T20:07:26Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — internationale Ereignisse — Israeli strikes on cars in southern Lebanon kill 12, health ministry says</title>
-      <link>https://www.bbc.com/news/articles/c1k2zekj8y9o</link>
-      <guid isPermaLink="false">eca2d43a9c79659d</guid>
-      <pubDate>Wed, 13 May 2026 16:36:01 +0000</pubDate>
-      <description>Im Südlibanon sind laut Gesundheitsministerium bei Angriffen auf Fahrzeuge zwölf Menschen getötet worden, darunter zwei Kinder.
-Quelle: bbc.com
-Zeit: 2026-05-13T16:36:01Z</description>
-      <category>internationale Ereignisse</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — Microsoft on pace to break annual vulnerability record as AI-driven patch wave takes hold</title>
-      <link>https://therecord.media/microsoft-on-pace-to-break-annual-vulnerability-record-ai</link>
-      <guid isPermaLink="false">bf23f292f2c04d42</guid>
-      <pubDate>Wed, 13 May 2026 16:35:52 +0000</pubDate>
-      <description>Microsoft hat 2026 laut The Record bereits mehr als 500 Schwachstellen gepatcht und steuert damit auf ein Rekordjahr bei.
-Quelle: therecord.media
-Zeit: 2026-05-13T16:35:52Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — European countries are exporting surveillance tech to countries with poor human rights records, report says</title>
-      <link>https://therecord.media/eu-countries-export-surveillance-tech-to-countries-with-human-rights-issues</link>
-      <guid isPermaLink="false">7b5260d6f3dc6ada</guid>
-      <pubDate>Wed, 13 May 2026 04:00:39 +0000</pubDate>
-      <description>A new report says EU member states continue exporting surveillance technology to countries with poor human-rights records despite tighter bloc-wide rules.
-Quelle: therecord.media
-Zeit: 2026-05-13T04:00:39Z</description>
       <category>IT-Sicherheit</category>
     </item>
   </channel>

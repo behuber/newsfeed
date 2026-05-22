@@ -3,12 +3,39 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-22T13:44:37.817001Z</updated>
+  <updated>2026-05-22T15:44:39.115877Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Ukraine-Krieg — Belarus-nahe Hacker greifen ukrainische Regierungsbeamte mit gefälschten Zertifikats-Mails an</title>
+    <id>04fe3de8aa5c8288</id>
+    <updated>2026-05-22T13:57:10Z</updated>
+    <link href="https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine" />
+    <summary>The Record berichtet über eine neue GhostWriter-Spionagekampagne gegen ukrainische Behörden mit Malware in täuschend echten Trainingszertifikat-Mails.
+Quelle: The Record
+Zeit: 2026-05-22T13:57:10Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Internationale Ereignisse — Nato begrüßt Entsendung von 5.000 US-Soldaten nach Polen</title>
+    <id>30373a9e9178e984</id>
+    <updated>2026-05-22T13:57:10Z</updated>
+    <link href="https://www.bbc.com/news/articles/cedpz9669deo" />
+    <summary>BBC berichtet, dass Nato-Generalsekretär die von Präsident Trump angekündigte Verlegung von 5.000 US-Soldaten nach Polen vor dem Außenministertreffen begrüßt.
+Quelle: BBC World
+Zeit: 2026-05-22T13:57:10Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Iran-Krieg — US stoppt laut BBC vorerst 14-Milliarden-Dollar-Waffenverkauf an Taiwan wegen Iran-Krieg</title>
+    <id>8c6b89ecdd7fc362</id>
+    <updated>2026-05-22T13:57:09Z</updated>
+    <link href="https://www.bbc.com/news/articles/c232z4yk437o" />
+    <summary>Der US-Marinechef sagte laut BBC, der bereits angekündigte Waffenverkauf an Taiwan werde pausiert, um Munition für den Iran-Krieg vorzuhalten.
+Quelle: BBC World
+Zeit: 2026-05-22T13:57:09Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — IT-Sicherheit / Ukraine — Belarus-linked hackers use fake training certificates to target Ukrainian officials</title>
     <id>c12e10d271ab7763</id>
@@ -431,32 +458,5 @@ Zeit: 2026-05-19T20:07:26Z</summary>
     <summary>Microsoft says it disrupted Fox Tempest, a malware-signing service used by ransomware-linked actors to obtain code-signing capability for malicious tools.
 Quelle: The Record
 Zeit: 2026-05-19T20:07:26Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — internationale Ereignisse — Israeli strikes on cars in southern Lebanon kill 12, health ministry says</title>
-    <id>eca2d43a9c79659d</id>
-    <updated>2026-05-13T16:36:01Z</updated>
-    <link href="https://www.bbc.com/news/articles/c1k2zekj8y9o" />
-    <summary>Im Südlibanon sind laut Gesundheitsministerium bei Angriffen auf Fahrzeuge zwölf Menschen getötet worden, darunter zwei Kinder.
-Quelle: bbc.com
-Zeit: 2026-05-13T16:36:01Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — Microsoft on pace to break annual vulnerability record as AI-driven patch wave takes hold</title>
-    <id>bf23f292f2c04d42</id>
-    <updated>2026-05-13T16:35:52Z</updated>
-    <link href="https://therecord.media/microsoft-on-pace-to-break-annual-vulnerability-record-ai" />
-    <summary>Microsoft hat 2026 laut The Record bereits mehr als 500 Schwachstellen gepatcht und steuert damit auf ein Rekordjahr bei.
-Quelle: therecord.media
-Zeit: 2026-05-13T16:35:52Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — European countries are exporting surveillance tech to countries with poor human rights records, report says</title>
-    <id>7b5260d6f3dc6ada</id>
-    <updated>2026-05-13T04:00:39Z</updated>
-    <link href="https://therecord.media/eu-countries-export-surveillance-tech-to-countries-with-human-rights-issues" />
-    <summary>A new report says EU member states continue exporting surveillance technology to countries with poor human-rights records despite tighter bloc-wide rules.
-Quelle: therecord.media
-Zeit: 2026-05-13T04:00:39Z</summary>
   </entry>
 </feed>
