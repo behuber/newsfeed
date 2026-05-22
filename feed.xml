@@ -5,9 +5,39 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 22 May 2026 11:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:44:37 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-Sicherheit / Ukraine — Belarus-linked hackers use fake training certificates to target Ukrainian officials</title>
+      <link>https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine</link>
+      <guid isPermaLink="false">c12e10d271ab7763</guid>
+      <pubDate>Fri, 22 May 2026 11:57:06 +0000</pubDate>
+      <description>The Record berichtet über eine neue GhostWriter-Kampagne: Belarus-nahe Angreifer verschicken gefälschte Schulungszertifikate, um ukrainische Regierungsmitarbeiter mit Malware zu infizieren.
+Quelle: The Record
+Zeit: 2026-05-22T11:57:06Z</description>
+      <category>IT-Sicherheit / Ukraine</category>
+    </item>
+    <item>
+      <title>HOCH — Iran-Krieg / internationale Sicherheit — US navy chief says bn arms sale to Taiwan paused due to Iran war</title>
+      <link>https://www.bbc.com/news/articles/c232z4yk437o?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">0165abe4c9cc8d7d</guid>
+      <pubDate>Fri, 22 May 2026 11:57:05 +0000</pubDate>
+      <description>US-Marinechef Hung Cao sagte laut BBC, der geplante Waffenverkauf an Taiwan im Wert von 14 Milliarden Dollar werde pausiert, damit Munition für den Iran-Krieg verfügbar bleibt.
+Quelle: BBC World
+Zeit: 2026-05-22T11:57:05Z</description>
+      <category>Iran-Krieg / internationale Sicherheit</category>
+    </item>
+    <item>
+      <title>HOCH — Europa / Sicherheitspolitik — Nato chief welcomes US sending 5,000 troops to Poland</title>
+      <link>https://www.bbc.com/news/articles/cedpz9669deo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">fc341d2278b2dc29</guid>
+      <pubDate>Fri, 22 May 2026 11:57:05 +0000</pubDate>
+      <description>Laut BBC begrüßt der Nato-Generalsekretär die angekündigte Entsendung von 5.000 US-Soldaten nach Polen vor einem Treffen der Nato-Außenminister.
+Quelle: BBC World
+Zeit: 2026-05-22T11:57:05Z</description>
+      <category>Europa / Sicherheitspolitik</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — US navy chief says bn arms sale to Taiwan paused due to Iran war</title>
       <link>https://www.bbc.com/news/articles/c232z4yk437o?at_campaign=rss&amp;at_medium=RSS</link>
@@ -477,36 +507,6 @@ Zeit: 2026-05-13T16:35:52Z</description>
 Quelle: therecord.media
 Zeit: 2026-05-13T04:00:39Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zum Kriegsende völlig inakzeptabel</title>
-      <link>https://www.bbc.com/news/articles/clypgz9e5pmo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">50464803d16721dc</guid>
-      <pubDate>Mon, 11 May 2026 04:32:21 +0000</pubDate>
-      <description>BBC berichtet, dass Trump Irans Antwort auf einen US-Vorschlag zur Beendigung des Kriegs als völlig inakzeptabel bezeichnet. Details der Vorschläge wurden nicht veröffentlicht.
-Quelle: BBC World RSS
-Zeit: 2026-05-11T04:32:21Z</description>
-      <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Trump nennt Irans Antwort auf US-Vorschlag zur Beendigung des Kriegs völlig inakzeptabel</title>
-      <link>https://www.bbc.com/news/articles/clypgz9e5pmo</link>
-      <guid isPermaLink="false">9e840f7a20a08ca0</guid>
-      <pubDate>Sun, 10 May 2026 20:32:19 +0000</pubDate>
-      <description>BBC meldet, dass Trump Irans Reaktion auf einen US-Vorschlag zur Beendigung des Kriegs als völlig inakzeptabel bezeichnet. Details der Antwort und des Vorschlags wurden zunächst nicht veröffentlicht.
-Quelle: BBC World RSS
-Zeit: 2026-05-10T20:32:19Z</description>
-      <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — AI-News — TikTok scales back AI-generated video descriptions after absurd errors</title>
-      <link>https://www.bbc.com/news/articles/c5yerd05n01o?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">9be3ea439cd9b99b</guid>
-      <pubDate>Sun, 10 May 2026 16:32:35 +0000</pubDate>
-      <description>TikTok fährt laut BBC eine Funktion für KI-generierte Videobeschreibungen zurück, nachdem fehlerhafte und absurde Beschreibungen breite Kritik ausgelöst hatten.
-Quelle: BBC Technology RSS
-Zeit: 2026-05-10T16:32:35Z</description>
-      <category>AI-News</category>
     </item>
   </channel>
 </rss>
