@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "a9b6f1b1ac2758aa",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o",
+      "title": "HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "content_text": "Russlands Präsident kündigt Vergeltung an, nachdem Moskau der Ukraine einen Angriff auf ein Studentenwohnheim vorwirft; Kiew meldet stattdessen einen Schlag gegen eine Elite-Drohneneinheit in besetztem Gebiet.\nQuelle: BBC World\nZeit: 2026-05-23T07:57:22Z",
+      "date_published": "2026-05-23T07:57:22Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "c1805361ec690598",
+      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
+      "title": "MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
+      "content_text": "CISA öffnet den Meldeweg für Forscher und Anbieter, damit neu beobachtete aktiv ausgenutzte Schwachstellen schneller in den KEV-Katalog aufgenommen werden können.\nQuelle: The Record\nZeit: 2026-05-23T07:57:22Z",
+      "date_published": "2026-05-23T07:57:22Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "d4807960b1e86c5e",
       "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — AI-News — AI may speed up search for drugs to treat brain conditions",
@@ -779,39 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "0ae24b5d4128ca83",
-      "url": "https://www.bbc.com/news/articles/c302jy8z4vro?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Ukraine-Krieg — Estland meldet Abschuss einer Drohne über eigenem Staatsgebiet durch Nato-Jet",
-      "content_text": "Estland sagt, ein Nato-Kampfjet habe eine Drohne über estnischem Gebiet abgeschossen; vermutet wird ein ukrainisches Geschoss, das durch russisches Jamming vom Kurs abkam.\nQuelle: BBC World\nZeit: 2026-05-20T09:57:31Z",
-      "date_published": "2026-05-20T09:57:31Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "3506f131f4a7c015",
-      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
-      "title": "MITTEL — IT-Sicherheit — Huawei-Zero-Day hinter Ausfall des gesamten Luxemburger Telekomnetzes",
-      "content_text": "Neue Berichte führen den Netzausfall in Luxemburg im Vorjahr auf eine Huawei-Zero-Day-Schwachstelle zurück; laut Bericht ist die Ursache weiterhin nicht öffentlich erklärt.\nQuelle: The Record\nZeit: 2026-05-20T09:57:31Z",
-      "date_published": "2026-05-20T09:57:31Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-23T07:44:38.151610Z"
+  "generated_at": "2026-05-23T09:44:39.753256Z"
 }
