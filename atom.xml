@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-23T05:44:38.474862Z</updated>
+  <updated>2026-05-23T07:44:38.151610Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — AI-News — AI may speed up search for drugs to treat brain conditions</title>
+    <id>d4807960b1e86c5e</id>
+    <updated>2026-05-23T05:57:28Z</updated>
+    <link href="https://www.bbc.com/news/articles/cdrp3zzzp71o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Forscher berichten, dass KI die Suche nach bezahlbaren Medikamenten gegen neurologische Erkrankungen wie MND beschleunigen könnte.
+Quelle: BBC Technology
+Zeit: 2026-05-23T05:57:28Z</summary>
+  </entry>
   <entry>
     <title>HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks</title>
     <id>a0be641e89f5da0c</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-20T09:57:31Z</summary>
     <summary>Neue Berichte führen den Netzausfall in Luxemburg im Vorjahr auf eine Huawei-Zero-Day-Schwachstelle zurück; laut Bericht ist die Ursache weiterhin nicht öffentlich erklärt.
 Quelle: The Record
 Zeit: 2026-05-20T09:57:31Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — AI-News — Google kündigt neue KI-Smartglasses für den Herbst an</title>
-    <id>9146b01a5122b415</id>
-    <updated>2026-05-20T07:57:16Z</updated>
-    <link href="https://www.bbc.com/news/articles/cvgz1ynq1nqo" />
-    <summary>BBC Technology berichtet, dass Google erstmals seit dem Ende von Google Glass wieder Smartglasses auf den Markt bringen will. Das Gerät soll mit Googles KI interagieren.
-Quelle: BBC Technology
-Zeit: 2026-05-20T07:57:16Z</summary>
   </entry>
 </feed>

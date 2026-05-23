@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "d4807960b1e86c5e",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI-News — AI may speed up search for drugs to treat brain conditions",
+      "content_text": "Forscher berichten, dass KI die Suche nach bezahlbaren Medikamenten gegen neurologische Erkrankungen wie MND beschleunigen könnte.\nQuelle: BBC Technology\nZeit: 2026-05-23T05:57:28Z",
+      "date_published": "2026-05-23T05:57:28Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology"
+        }
+      ]
+    },
+    {
       "id": "a0be641e89f5da0c",
       "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
       "title": "HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "9146b01a5122b415",
-      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo",
-      "title": "MITTEL — AI-News — Google kündigt neue KI-Smartglasses für den Herbst an",
-      "content_text": "BBC Technology berichtet, dass Google erstmals seit dem Ende von Google Glass wieder Smartglasses auf den Markt bringen will. Das Gerät soll mit Googles KI interagieren.\nQuelle: BBC Technology\nZeit: 2026-05-20T07:57:16Z",
-      "date_published": "2026-05-20T07:57:16Z",
-      "tags": [
-        "AI-News",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC Technology"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-23T05:44:38.474862Z"
+  "generated_at": "2026-05-23T07:44:38.151610Z"
 }
