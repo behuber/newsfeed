@@ -5,9 +5,39 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 23 May 2026 11:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 13:44:52 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Internationale Ereignisse — At least 90 killed in Chinese coal mine explosion, state media reports</title>
+      <link>https://www.bbc.com/news/articles/c5y0ve18qlko</link>
+      <guid isPermaLink="false">a03006b58556f01e</guid>
+      <pubDate>Sat, 23 May 2026 11:57:40 +0000</pubDate>
+      <description>BBC berichtet, dass bei einer Explosion in einem Kohlebergwerk in der chinesischen Provinz Shanxi mindestens 90 Menschen getötet wurden. Es wäre das schwerste Grubenunglück des Landes seit 16 Jahren.
+Quelle: BBC World
+Zeit: 2026-05-23T11:57:40Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
+    <item>
+      <title>MITTEL — Iran-Krieg — Rubio meets Modi during India visit with energy high on agenda</title>
+      <link>https://www.bbc.com/news/articles/c87qrwyyrn2o</link>
+      <guid isPermaLink="false">6e4d3ac7a9c7ef61</guid>
+      <pubDate>Sat, 23 May 2026 11:57:40 +0000</pubDate>
+      <description>BBC berichtet, dass bei Rubios Indien-Besuch Energieversorgung im Mittelpunkt steht, weil der Iran-Krieg Ausfälle verursacht. Washington will zusätzliche US-Energie nach Indien verkaufen.
+Quelle: BBC World
+Zeit: 2026-05-23T11:57:40Z</description>
+      <category>Iran-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks</title>
+      <link>https://therecord.media/fbi-warns-of-kali365-phishing-attacks</link>
+      <guid isPermaLink="false">a0be641e89f5da0c</guid>
+      <pubDate>Sat, 23 May 2026 11:57:40 +0000</pubDate>
+      <description>The Record berichtet, dass das FBI vor Kali365 warnt, einem Telegram-basierten Phishing-as-a-Service, der OAuth-Tokens abgreift und so breiten Zugriff auf Microsoft-365-Umgebungen ermöglicht.
+Quelle: The Record
+Zeit: 2026-05-23T11:57:40Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory</title>
       <link>https://www.bbc.com/news/articles/c5y74lwx395o</link>
@@ -476,36 +506,6 @@ Zeit: 2026-05-20T15:57:04Z</description>
       <description>The Record berichtet, dass GitHub den von TeamPCP behaupteten Einbruch in interne Repositories bestätigt hat; betroffen sei interne Quellcode-Infrastruktur, Kundendaten seien laut Unternehmen nicht kompromittiert worden.
 Quelle: The Record
 Zeit: 2026-05-20T13:57:21Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — Ukraine-Krieg — Ukraine meldet russischen Einsatz KI-gestützter Malware im Krieg</title>
-      <link>https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield</link>
-      <guid isPermaLink="false">4964806ed6fab742</guid>
-      <pubDate>Wed, 20 May 2026 13:57:21 +0000</pubDate>
-      <description>Laut The Record warnt der ukrainische Sicherheitsrat, Russland nutze KI zunehmend in Cyberoperationen und Malware-Entwicklung auf dem Gefechtsfeld, was den Druck auf Verteidiger spürbar erhöhe.
-Quelle: The Record
-Zeit: 2026-05-20T13:57:21Z</description>
-      <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — AI-News — Google bringt erstmals seit Google Glass wieder smarte Brille auf den Markt</title>
-      <link>https://www.bbc.com/news/articles/cvgz1ynq1nqo</link>
-      <guid isPermaLink="false">9e1ace67665a686d</guid>
-      <pubDate>Wed, 20 May 2026 11:57:08 +0000</pubDate>
-      <description>BBC berichtet, dass Google im Herbst neue Smart Glasses starten will, die mit Googles KI interagieren können.
-Quelle: BBC Technology
-Zeit: 2026-05-20T11:57:08Z</description>
-      <category>AI-News</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — Huawei-Zero-Day soll 2025 kompletten Telekom-Ausfall in Luxemburg ausgelöst haben</title>
-      <link>https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage</link>
-      <guid isPermaLink="false">0f40fdbefe9b0f3b</guid>
-      <pubDate>Wed, 20 May 2026 11:57:08 +0000</pubDate>
-      <description>The Record berichtet, dass ein Huawei-Zero-Day hinter dem Ausfall des gesamten Telekomnetzes in Luxemburg im Vorjahr gestanden haben soll.
-Quelle: The Record
-Zeit: 2026-05-20T11:57:08Z</description>
       <category>IT-Sicherheit</category>
     </item>
   </channel>

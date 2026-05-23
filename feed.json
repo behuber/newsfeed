@@ -13,6 +13,54 @@
   "expired": false,
   "items": [
     {
+      "id": "a03006b58556f01e",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko",
+      "title": "HOCH — Internationale Ereignisse — At least 90 killed in Chinese coal mine explosion, state media reports",
+      "content_text": "BBC berichtet, dass bei einer Explosion in einem Kohlebergwerk in der chinesischen Provinz Shanxi mindestens 90 Menschen getötet wurden. Es wäre das schwerste Grubenunglück des Landes seit 16 Jahren.\nQuelle: BBC World\nZeit: 2026-05-23T11:57:40Z",
+      "date_published": "2026-05-23T11:57:40Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "6e4d3ac7a9c7ef61",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o",
+      "title": "MITTEL — Iran-Krieg — Rubio meets Modi during India visit with energy high on agenda",
+      "content_text": "BBC berichtet, dass bei Rubios Indien-Besuch Energieversorgung im Mittelpunkt steht, weil der Iran-Krieg Ausfälle verursacht. Washington will zusätzliche US-Energie nach Indien verkaufen.\nQuelle: BBC World\nZeit: 2026-05-23T11:57:40Z",
+      "date_published": "2026-05-23T11:57:40Z",
+      "tags": [
+        "Iran-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "a0be641e89f5da0c",
+      "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
+      "title": "HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks",
+      "content_text": "The Record berichtet, dass das FBI vor Kali365 warnt, einem Telegram-basierten Phishing-as-a-Service, der OAuth-Tokens abgreift und so breiten Zugriff auf Microsoft-365-Umgebungen ermöglicht.\nQuelle: The Record\nZeit: 2026-05-23T11:57:40Z",
+      "date_published": "2026-05-23T11:57:40Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "a9b6f1b1ac2758aa",
       "url": "https://www.bbc.com/news/articles/c5y74lwx395o",
       "title": "HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory",
@@ -763,55 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "4964806ed6fab742",
-      "url": "https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield",
-      "title": "MITTEL — Ukraine-Krieg — Ukraine meldet russischen Einsatz KI-gestützter Malware im Krieg",
-      "content_text": "Laut The Record warnt der ukrainische Sicherheitsrat, Russland nutze KI zunehmend in Cyberoperationen und Malware-Entwicklung auf dem Gefechtsfeld, was den Druck auf Verteidiger spürbar erhöhe.\nQuelle: The Record\nZeit: 2026-05-20T13:57:21Z",
-      "date_published": "2026-05-20T13:57:21Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "9e1ace67665a686d",
-      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo",
-      "title": "MITTEL — AI-News — Google bringt erstmals seit Google Glass wieder smarte Brille auf den Markt",
-      "content_text": "BBC berichtet, dass Google im Herbst neue Smart Glasses starten will, die mit Googles KI interagieren können.\nQuelle: BBC Technology\nZeit: 2026-05-20T11:57:08Z",
-      "date_published": "2026-05-20T11:57:08Z",
-      "tags": [
-        "AI-News",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC Technology"
-        }
-      ]
-    },
-    {
-      "id": "0f40fdbefe9b0f3b",
-      "url": "https://therecord.media/huawei-zero-day-behind-last-year-luxembourg-telecom-outage",
-      "title": "HOCH — IT-Sicherheit — Huawei-Zero-Day soll 2025 kompletten Telekom-Ausfall in Luxemburg ausgelöst haben",
-      "content_text": "The Record berichtet, dass ein Huawei-Zero-Day hinter dem Ausfall des gesamten Telekomnetzes in Luxemburg im Vorjahr gestanden haben soll.\nQuelle: The Record\nZeit: 2026-05-20T11:57:08Z",
-      "date_published": "2026-05-20T11:57:08Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-23T11:44:38.802140Z"
+  "generated_at": "2026-05-23T13:44:52.909795Z"
 }
