@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 23 May 2026 13:44:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 15:44:38 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Internationale Ereignisse — Rubio meets Modi during India visit with energy high on agenda</title>
+      <link>https://www.bbc.com/news/articles/c87qrwyyrn2o</link>
+      <guid isPermaLink="false">72f7ec1be01fa04b</guid>
+      <pubDate>Sat, 23 May 2026 13:57:25 +0000</pubDate>
+      <description>Bei Rubios Indien-Besuch steht laut BBC Energie im Zentrum; Hintergrund sind Engpässe infolge des Iran-Kriegs.
+Quelle: BBC World
+Zeit: 2026-05-23T13:57:25Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
     <item>
       <title>HOCH — Internationale Ereignisse — At least 90 killed in Chinese coal mine explosion, state media reports</title>
       <link>https://www.bbc.com/news/articles/c5y0ve18qlko</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-20T17:57:04Z</description>
 Quelle: The Record
 Zeit: 2026-05-20T15:57:04Z</description>
       <category>Ukraine-Krieg / AI / IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — GitHub bestätigt Hack interner Repositories, Kundendaten laut Firma nicht betroffen</title>
-      <link>https://therecord.media/github-confirms-teampcp-hack-customers-unaffected</link>
-      <guid isPermaLink="false">1f21eacf02d663d7</guid>
-      <pubDate>Wed, 20 May 2026 13:57:21 +0000</pubDate>
-      <description>The Record berichtet, dass GitHub den von TeamPCP behaupteten Einbruch in interne Repositories bestätigt hat; betroffen sei interne Quellcode-Infrastruktur, Kundendaten seien laut Unternehmen nicht kompromittiert worden.
-Quelle: The Record
-Zeit: 2026-05-20T13:57:21Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>

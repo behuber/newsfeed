@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "72f7ec1be01fa04b",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o",
+      "title": "MITTEL — Internationale Ereignisse — Rubio meets Modi during India visit with energy high on agenda",
+      "content_text": "Bei Rubios Indien-Besuch steht laut BBC Energie im Zentrum; Hintergrund sind Engpässe infolge des Iran-Kriegs.\nQuelle: BBC World\nZeit: 2026-05-23T13:57:25Z",
+      "date_published": "2026-05-23T13:57:25Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "a03006b58556f01e",
       "url": "https://www.bbc.com/news/articles/c5y0ve18qlko",
       "title": "HOCH — Internationale Ereignisse — At least 90 killed in Chinese coal mine explosion, state media reports",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "1f21eacf02d663d7",
-      "url": "https://therecord.media/github-confirms-teampcp-hack-customers-unaffected",
-      "title": "HOCH — IT-Sicherheit — GitHub bestätigt Hack interner Repositories, Kundendaten laut Firma nicht betroffen",
-      "content_text": "The Record berichtet, dass GitHub den von TeamPCP behaupteten Einbruch in interne Repositories bestätigt hat; betroffen sei interne Quellcode-Infrastruktur, Kundendaten seien laut Unternehmen nicht kompromittiert worden.\nQuelle: The Record\nZeit: 2026-05-20T13:57:21Z",
-      "date_published": "2026-05-20T13:57:21Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-23T13:44:52.909795Z"
+  "generated_at": "2026-05-23T15:44:38.625009Z"
 }

@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-23T13:44:52.909795Z</updated>
+  <updated>2026-05-23T15:44:38.625009Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Internationale Ereignisse — Rubio meets Modi during India visit with energy high on agenda</title>
+    <id>72f7ec1be01fa04b</id>
+    <updated>2026-05-23T13:57:25Z</updated>
+    <link href="https://www.bbc.com/news/articles/c87qrwyyrn2o" />
+    <summary>Bei Rubios Indien-Besuch steht laut BBC Energie im Zentrum; Hintergrund sind Engpässe infolge des Iran-Kriegs.
+Quelle: BBC World
+Zeit: 2026-05-23T13:57:25Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Internationale Ereignisse — At least 90 killed in Chinese coal mine explosion, state media reports</title>
     <id>a03006b58556f01e</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-20T17:57:04Z</summary>
     <summary>Ein ukrainischer Regierungsbericht sagt, Russland setze im Krieg verstärkt KI-gestützte Malware und KI in Cyberoperationen ein. Das verbindet Ukraine-Krieg, KI und IT-Sicherheit in einer neuen Lageeinschätzung.
 Quelle: The Record
 Zeit: 2026-05-20T15:57:04Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — IT-Sicherheit — GitHub bestätigt Hack interner Repositories, Kundendaten laut Firma nicht betroffen</title>
-    <id>1f21eacf02d663d7</id>
-    <updated>2026-05-20T13:57:21Z</updated>
-    <link href="https://therecord.media/github-confirms-teampcp-hack-customers-unaffected" />
-    <summary>The Record berichtet, dass GitHub den von TeamPCP behaupteten Einbruch in interne Repositories bestätigt hat; betroffen sei interne Quellcode-Infrastruktur, Kundendaten seien laut Unternehmen nicht kompromittiert worden.
-Quelle: The Record
-Zeit: 2026-05-20T13:57:21Z</summary>
   </entry>
 </feed>
