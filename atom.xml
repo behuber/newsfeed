@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-24T09:44:40.799134Z</updated>
+  <updated>2026-05-24T11:44:39.246007Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured</title>
+    <id>6faa1d8553f96b03</id>
+    <updated>2026-05-24T09:57:16Z</updated>
+    <link href="https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>BBC meldet einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; Russland habe dabei auch den Oreshnik-Hyperschallflugkörper eingesetzt.
+Quelle: BBC World
+Zeit: 2026-05-24T09:57:16Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks</title>
+    <id>a0be641e89f5da0c</id>
+    <updated>2026-05-24T09:57:16Z</updated>
+    <link href="https://therecord.media/fbi-warns-of-kali365-phishing-attacks" />
+    <summary>The Record meldet eine FBI-Warnung zu Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und so breiten Zugriff auf Microsoft-365-Umgebungen ermöglicht.
+Quelle: The Record
+Zeit: 2026-05-24T09:57:16Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Trump says Iran deal largely negotiated including reopening Strait of Hormuz</title>
     <id>b9b82a2bed87ec0c</id>
@@ -438,24 +456,6 @@ Zeit: 2026-05-20T21:58:02Z</summary>
     <updated>2026-05-20T21:58:02Z</updated>
     <link href="https://www.bbc.com/news/articles/crlp991nw41o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
     <summary>The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — AI/IT — Satellites and AI used to track UK hedgehogs in bid to slow decline</title>
-    <id>6aa6e7e83a69381b</id>
-    <updated>2026-05-20T21:58:02Z</updated>
-    <link href="https://www.bbc.com/news/articles/c202g60qrlpo?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
-    <summary>Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.\n
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — AI/IT — Elon Musk has lost yet another legal battle. Why he'll still keep fighting</title>
-    <id>0b21451c16eff8c7</id>
-    <updated>2026-05-20T21:58:02Z</updated>
-    <link href="https://www.bbc.com/news/articles/cqlpz4w6v13o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
-    <summary>Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.
 Quelle: feeds.bbci.co.uk
 Zeit: 2026-05-20T21:58:02Z</summary>
   </entry>

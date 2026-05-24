@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "6faa1d8553f96b03",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "content_text": "BBC meldet einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; Russland habe dabei auch den Oreshnik-Hyperschallflugkörper eingesetzt.\nQuelle: BBC World\nZeit: 2026-05-24T09:57:16Z",
+      "date_published": "2026-05-24T09:57:16Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "a0be641e89f5da0c",
+      "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
+      "title": "MITTEL — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks",
+      "content_text": "The Record meldet eine FBI-Warnung zu Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und so breiten Zugriff auf Microsoft-365-Umgebungen ermöglicht.\nQuelle: The Record\nZeit: 2026-05-24T09:57:16Z",
+      "date_published": "2026-05-24T09:57:16Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "b9b82a2bed87ec0c",
       "url": "https://www.bbc.com/news/articles/crmp121z3z8o",
       "title": "HOCH — Iran-Krieg — Trump says Iran deal largely negotiated including reopening Strait of Hormuz",
@@ -779,39 +811,7 @@
           "name": "feeds.bbci.co.uk"
         }
       ]
-    },
-    {
-      "id": "6aa6e7e83a69381b",
-      "url": "https://www.bbc.com/news/articles/c202g60qrlpo?amp%3Bat_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — AI/IT — Satellites and AI used to track UK hedgehogs in bid to slow decline",
-      "content_text": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.\\n\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
-      "date_published": "2026-05-20T21:58:02Z",
-      "tags": [
-        "AI/IT",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "feeds.bbci.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "0b21451c16eff8c7",
-      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?amp%3Bat_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — AI/IT — Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
-      "content_text": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
-      "date_published": "2026-05-20T21:58:02Z",
-      "tags": [
-        "AI/IT",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "feeds.bbci.co.uk"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-24T09:44:40.799134Z"
+  "generated_at": "2026-05-24T11:44:39.246007Z"
 }
