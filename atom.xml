@@ -3,12 +3,39 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-24T07:44:39.545007Z</updated>
+  <updated>2026-05-24T09:44:40.799134Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — Trump says Iran deal largely negotiated including reopening Strait of Hormuz</title>
+    <id>b9b82a2bed87ec0c</id>
+    <updated>2026-05-24T07:57:14Z</updated>
+    <link href="https://www.bbc.com/news/articles/crmp121z3z8o" />
+    <summary>BBC meldet deutliche Fortschritte bei Verhandlungen mit Iran; genannt werden ein weitgehend ausverhandelter Deal und die Wiederöffnung der Straße von Hormus.
+Quelle: BBC World RSS
+Zeit: 2026-05-24T07:57:14Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
+    <id>c1805361ec690598</id>
+    <updated>2026-05-24T07:57:14Z</updated>
+    <link href="https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev" />
+    <summary>The Record meldet, dass CISA ein Meldeformular eingeführt hat, damit Forschende und Anbieter Schwachstellen für den KEV-Katalog einreichen können.
+Quelle: The Record RSS
+Zeit: 2026-05-24T07:57:14Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Four dead and dozens injured in wave of Russian strikes on Kyiv</title>
+    <id>869fecab0d3fde2e</id>
+    <updated>2026-05-24T07:57:13Z</updated>
+    <link href="https://www.bbc.com/news/articles/clyp6831yp5o" />
+    <summary>BBC berichtet über eine neue Welle russischer Angriffe auf Kyjiw und Umgebung mit mindestens vier Toten und über 50 Verletzten, darunter Kinder.
+Quelle: BBC World RSS
+Zeit: 2026-05-24T07:57:13Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Russland greift Ukraine in mehreren Wellen an, Schäden in ganz Kyjiw</title>
     <id>8345964e0bd60651</id>
@@ -429,33 +456,6 @@ Zeit: 2026-05-20T21:58:02Z</summary>
     <updated>2026-05-20T21:58:02Z</updated>
     <link href="https://www.bbc.com/news/articles/cqlpz4w6v13o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
     <summary>Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Politik — Ebola vaccine could take nine months as death toll rises further, WHO warns</title>
-    <id>12a54973b3d2132d</id>
-    <updated>2026-05-20T21:58:02Z</updated>
-    <link href="https://www.bbc.com/news/articles/cwy2g197dp8o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
-    <summary>In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — AI/IT — Google to release first smart glasses since Google Glass flop</title>
-    <id>7f965a3ffe4ce9da</id>
-    <updated>2026-05-20T21:58:02Z</updated>
-    <link href="https://www.bbc.com/news/articles/cvgz1ynq1nqo?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
-    <summary>The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — Tesla Cybertruck driver arrested after driving into lake to use 'wade mode', police say</title>
-    <id>146ff36ffe199f9e</id>
-    <updated>2026-05-20T21:58:02Z</updated>
-    <link href="https://www.bbc.com/news/articles/c072x1kml44o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
-    <summary>Police said the vehicle was abandoned by the driver after it took on water near the shoreline of Grapevine Lake in north Texas.
 Quelle: feeds.bbci.co.uk
 Zeit: 2026-05-20T21:58:02Z</summary>
   </entry>

@@ -13,6 +13,54 @@
   "expired": false,
   "items": [
     {
+      "id": "b9b82a2bed87ec0c",
+      "url": "https://www.bbc.com/news/articles/crmp121z3z8o",
+      "title": "HOCH — Iran-Krieg — Trump says Iran deal largely negotiated including reopening Strait of Hormuz",
+      "content_text": "BBC meldet deutliche Fortschritte bei Verhandlungen mit Iran; genannt werden ein weitgehend ausverhandelter Deal und die Wiederöffnung der Straße von Hormus.\nQuelle: BBC World RSS\nZeit: 2026-05-24T07:57:14Z",
+      "date_published": "2026-05-24T07:57:14Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "c1805361ec690598",
+      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
+      "title": "MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
+      "content_text": "The Record meldet, dass CISA ein Meldeformular eingeführt hat, damit Forschende und Anbieter Schwachstellen für den KEV-Katalog einreichen können.\nQuelle: The Record RSS\nZeit: 2026-05-24T07:57:14Z",
+      "date_published": "2026-05-24T07:57:14Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
+      "id": "869fecab0d3fde2e",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o",
+      "title": "HOCH — Ukraine-Krieg — Four dead and dozens injured in wave of Russian strikes on Kyiv",
+      "content_text": "BBC berichtet über eine neue Welle russischer Angriffe auf Kyjiw und Umgebung mit mindestens vier Toten und über 50 Verletzten, darunter Kinder.\nQuelle: BBC World RSS\nZeit: 2026-05-24T07:57:13Z",
+      "date_published": "2026-05-24T07:57:13Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "8345964e0bd60651",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o",
       "title": "HOCH — Ukraine-Krieg — Russland greift Ukraine in mehreren Wellen an, Schäden in ganz Kyjiw",
@@ -763,55 +811,7 @@
           "name": "feeds.bbci.co.uk"
         }
       ]
-    },
-    {
-      "id": "12a54973b3d2132d",
-      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?amp%3Bat_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — Politik — Ebola vaccine could take nine months as death toll rises further, WHO warns",
-      "content_text": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
-      "date_published": "2026-05-20T21:58:02Z",
-      "tags": [
-        "Politik",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "feeds.bbci.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "7f965a3ffe4ce9da",
-      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?amp%3Bat_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — AI/IT — Google to release first smart glasses since Google Glass flop",
-      "content_text": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
-      "date_published": "2026-05-20T21:58:02Z",
-      "tags": [
-        "AI/IT",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "feeds.bbci.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "146ff36ffe199f9e",
-      "url": "https://www.bbc.com/news/articles/c072x1kml44o?amp%3Bat_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — IT-Sicherheit — Tesla Cybertruck driver arrested after driving into lake to use 'wade mode', police say",
-      "content_text": "Police said the vehicle was abandoned by the driver after it took on water near the shoreline of Grapevine Lake in north Texas.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
-      "date_published": "2026-05-20T21:58:02Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "feeds.bbci.co.uk"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-24T07:44:39.545007Z"
+  "generated_at": "2026-05-24T09:44:40.799134Z"
 }

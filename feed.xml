@@ -5,9 +5,39 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 24 May 2026 07:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 09:44:40 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Trump says Iran deal largely negotiated including reopening Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/crmp121z3z8o</link>
+      <guid isPermaLink="false">b9b82a2bed87ec0c</guid>
+      <pubDate>Sun, 24 May 2026 07:57:14 +0000</pubDate>
+      <description>BBC meldet deutliche Fortschritte bei Verhandlungen mit Iran; genannt werden ein weitgehend ausverhandelter Deal und die Wiederöffnung der Straße von Hormus.
+Quelle: BBC World RSS
+Zeit: 2026-05-24T07:57:14Z</description>
+      <category>Iran-Krieg</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
+      <link>https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev</link>
+      <guid isPermaLink="false">c1805361ec690598</guid>
+      <pubDate>Sun, 24 May 2026 07:57:14 +0000</pubDate>
+      <description>The Record meldet, dass CISA ein Meldeformular eingeführt hat, damit Forschende und Anbieter Schwachstellen für den KEV-Katalog einreichen können.
+Quelle: The Record RSS
+Zeit: 2026-05-24T07:57:14Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Four dead and dozens injured in wave of Russian strikes on Kyiv</title>
+      <link>https://www.bbc.com/news/articles/clyp6831yp5o</link>
+      <guid isPermaLink="false">869fecab0d3fde2e</guid>
+      <pubDate>Sun, 24 May 2026 07:57:13 +0000</pubDate>
+      <description>BBC berichtet über eine neue Welle russischer Angriffe auf Kyjiw und Umgebung mit mindestens vier Toten und über 50 Verletzten, darunter Kinder.
+Quelle: BBC World RSS
+Zeit: 2026-05-24T07:57:13Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>HOCH — Ukraine-Krieg — Russland greift Ukraine in mehreren Wellen an, Schäden in ganz Kyjiw</title>
       <link>https://www.bbc.com/news/articles/clyp6831yp5o</link>
@@ -477,36 +507,6 @@ Zeit: 2026-05-20T21:58:02Z</description>
 Quelle: feeds.bbci.co.uk
 Zeit: 2026-05-20T21:58:02Z</description>
       <category>AI/IT</category>
-    </item>
-    <item>
-      <title>MITTEL — Politik — Ebola vaccine could take nine months as death toll rises further, WHO warns</title>
-      <link>https://www.bbc.com/news/articles/cwy2g197dp8o?amp%3Bat_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">12a54973b3d2132d</guid>
-      <pubDate>Wed, 20 May 2026 21:58:02 +0000</pubDate>
-      <description>In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</description>
-      <category>Politik</category>
-    </item>
-    <item>
-      <title>MITTEL — AI/IT — Google to release first smart glasses since Google Glass flop</title>
-      <link>https://www.bbc.com/news/articles/cvgz1ynq1nqo?amp%3Bat_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">7f965a3ffe4ce9da</guid>
-      <pubDate>Wed, 20 May 2026 21:58:02 +0000</pubDate>
-      <description>The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</description>
-      <category>AI/IT</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — Tesla Cybertruck driver arrested after driving into lake to use 'wade mode', police say</title>
-      <link>https://www.bbc.com/news/articles/c072x1kml44o?amp%3Bat_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">146ff36ffe199f9e</guid>
-      <pubDate>Wed, 20 May 2026 21:58:02 +0000</pubDate>
-      <description>Police said the vehicle was abandoned by the driver after it took on water near the shoreline of Grapevine Lake in north Texas.
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
