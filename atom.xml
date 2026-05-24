@@ -3,12 +3,39 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-24T05:44:40.016014Z</updated>
+  <updated>2026-05-24T07:44:39.545007Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Russland greift Ukraine in mehreren Wellen an, Schäden in ganz Kyjiw</title>
+    <id>8345964e0bd60651</id>
+    <updated>2026-05-24T05:57:09Z</updated>
+    <link href="https://www.bbc.com/news/articles/clyp6831yp5o" />
+    <summary>BBC meldet neue russische Angriffe auf die Ukraine mit mindestens einem Toten und 21 Verletzten; Schäden wurden aus allen Bezirken Kyjiws gemeldet.
+Quelle: BBC World
+Zeit: 2026-05-24T05:57:09Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Iran-Krieg — Trump meldet weit fortgeschrittenen Iran-Deal inklusive Straße von Hormus</title>
+    <id>09bcb6fe577c2583</id>
+    <updated>2026-05-24T05:57:09Z</updated>
+    <link href="https://www.bbc.com/news/articles/crmp121z3z8o" />
+    <summary>Laut BBC spricht Trump von einem weitgehend ausgehandelten Abkommen mit Iran; Teheran signalisiert Fortschritte, zentrale Nuklearfragen seien aber noch nicht Teil des ersten Rahmens.
+Quelle: BBC World
+Zeit: 2026-05-24T05:57:09Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — CISA öffnet KEV-Meldungen für externe Sicherheitsforscher</title>
+    <id>592eade41cd10f7d</id>
+    <updated>2026-05-24T05:57:09Z</updated>
+    <link href="https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev" />
+    <summary>The Record berichtet, dass CISA ein Nominierungsformular gestartet hat, über das Forscher und Anbieter aktiv ausgenutzte Schwachstellen für den KEV-Katalog melden können.
+Quelle: The Record
+Zeit: 2026-05-24T05:57:09Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — Internationale Ereignisse — Rubio meets Modi during India visit with energy high on agenda</title>
     <id>72f7ec1be01fa04b</id>
@@ -431,32 +458,5 @@ Zeit: 2026-05-20T21:58:02Z</summary>
     <summary>Police said the vehicle was abandoned by the driver after it took on water near the shoreline of Grapevine Lake in north Texas.
 Quelle: feeds.bbci.co.uk
 Zeit: 2026-05-20T21:58:02Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — 7-Eleven confirms breach after ShinyHunters claims</title>
-    <id>b403e0c3d2ea7824</id>
-    <updated>2026-05-20T19:57:09Z</updated>
-    <link href="https://therecord.media/7-eleven-reports-data-breach-shinyhunters" />
-    <summary>7-Eleven confirmed a data breach affecting systems used to store franchisee documents after claims by ShinyHunters.
-Quelle: The Record
-Zeit: 2026-05-20T19:57:09Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Internationale Ereignisse — Putin heads home from China without pipeline deal</title>
-    <id>772b24797483868d</id>
-    <updated>2026-05-20T17:57:04Z</updated>
-    <link href="https://www.bbc.com/news/articles/c8r8me3nlllo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>BBC reports Moscow and Beijing showed political alignment, but Putin left without the sought-after pipeline agreement.
-Quelle: BBC
-Zeit: 2026-05-20T17:57:04Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Ukraine-Krieg / AI / IT-Sicherheit — Ukraine says Russia is deploying AI-powered malware on the battlefield</title>
-    <id>a715088becf6e434</id>
-    <updated>2026-05-20T15:57:04Z</updated>
-    <link href="https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield" />
-    <summary>Ein ukrainischer Regierungsbericht sagt, Russland setze im Krieg verstärkt KI-gestützte Malware und KI in Cyberoperationen ein. Das verbindet Ukraine-Krieg, KI und IT-Sicherheit in einer neuen Lageeinschätzung.
-Quelle: The Record
-Zeit: 2026-05-20T15:57:04Z</summary>
   </entry>
 </feed>

@@ -13,6 +13,54 @@
   "expired": false,
   "items": [
     {
+      "id": "8345964e0bd60651",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o",
+      "title": "HOCH — Ukraine-Krieg — Russland greift Ukraine in mehreren Wellen an, Schäden in ganz Kyjiw",
+      "content_text": "BBC meldet neue russische Angriffe auf die Ukraine mit mindestens einem Toten und 21 Verletzten; Schäden wurden aus allen Bezirken Kyjiws gemeldet.\nQuelle: BBC World\nZeit: 2026-05-24T05:57:09Z",
+      "date_published": "2026-05-24T05:57:09Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "09bcb6fe577c2583",
+      "url": "https://www.bbc.com/news/articles/crmp121z3z8o",
+      "title": "HOCH — Iran-Krieg — Trump meldet weit fortgeschrittenen Iran-Deal inklusive Straße von Hormus",
+      "content_text": "Laut BBC spricht Trump von einem weitgehend ausgehandelten Abkommen mit Iran; Teheran signalisiert Fortschritte, zentrale Nuklearfragen seien aber noch nicht Teil des ersten Rahmens.\nQuelle: BBC World\nZeit: 2026-05-24T05:57:09Z",
+      "date_published": "2026-05-24T05:57:09Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "592eade41cd10f7d",
+      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
+      "title": "MITTEL — IT-Sicherheit — CISA öffnet KEV-Meldungen für externe Sicherheitsforscher",
+      "content_text": "The Record berichtet, dass CISA ein Nominierungsformular gestartet hat, über das Forscher und Anbieter aktiv ausgenutzte Schwachstellen für den KEV-Katalog melden können.\nQuelle: The Record\nZeit: 2026-05-24T05:57:09Z",
+      "date_published": "2026-05-24T05:57:09Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "72f7ec1be01fa04b",
       "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o",
       "title": "MITTEL — Internationale Ereignisse — Rubio meets Modi during India visit with energy high on agenda",
@@ -763,55 +811,7 @@
           "name": "feeds.bbci.co.uk"
         }
       ]
-    },
-    {
-      "id": "b403e0c3d2ea7824",
-      "url": "https://therecord.media/7-eleven-reports-data-breach-shinyhunters",
-      "title": "MITTEL — IT-Sicherheit — 7-Eleven confirms breach after ShinyHunters claims",
-      "content_text": "7-Eleven confirmed a data breach affecting systems used to store franchisee documents after claims by ShinyHunters.\nQuelle: The Record\nZeit: 2026-05-20T19:57:09Z",
-      "date_published": "2026-05-20T19:57:09Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "772b24797483868d",
-      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — Internationale Ereignisse — Putin heads home from China without pipeline deal",
-      "content_text": "BBC reports Moscow and Beijing showed political alignment, but Putin left without the sought-after pipeline agreement.\nQuelle: BBC\nZeit: 2026-05-20T17:57:04Z",
-      "date_published": "2026-05-20T17:57:04Z",
-      "tags": [
-        "Internationale Ereignisse",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC"
-        }
-      ]
-    },
-    {
-      "id": "a715088becf6e434",
-      "url": "https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield",
-      "title": "MITTEL — Ukraine-Krieg / AI / IT-Sicherheit — Ukraine says Russia is deploying AI-powered malware on the battlefield",
-      "content_text": "Ein ukrainischer Regierungsbericht sagt, Russland setze im Krieg verstärkt KI-gestützte Malware und KI in Cyberoperationen ein. Das verbindet Ukraine-Krieg, KI und IT-Sicherheit in einer neuen Lageeinschätzung.\nQuelle: The Record\nZeit: 2026-05-20T15:57:04Z",
-      "date_published": "2026-05-20T15:57:04Z",
-      "tags": [
-        "Ukraine-Krieg / AI / IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-24T05:44:40.016014Z"
+  "generated_at": "2026-05-24T07:44:39.545007Z"
 }

@@ -5,9 +5,39 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 24 May 2026 05:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 07:44:39 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russland greift Ukraine in mehreren Wellen an, Schäden in ganz Kyjiw</title>
+      <link>https://www.bbc.com/news/articles/clyp6831yp5o</link>
+      <guid isPermaLink="false">8345964e0bd60651</guid>
+      <pubDate>Sun, 24 May 2026 05:57:09 +0000</pubDate>
+      <description>BBC meldet neue russische Angriffe auf die Ukraine mit mindestens einem Toten und 21 Verletzten; Schäden wurden aus allen Bezirken Kyjiws gemeldet.
+Quelle: BBC World
+Zeit: 2026-05-24T05:57:09Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — Iran-Krieg — Trump meldet weit fortgeschrittenen Iran-Deal inklusive Straße von Hormus</title>
+      <link>https://www.bbc.com/news/articles/crmp121z3z8o</link>
+      <guid isPermaLink="false">09bcb6fe577c2583</guid>
+      <pubDate>Sun, 24 May 2026 05:57:09 +0000</pubDate>
+      <description>Laut BBC spricht Trump von einem weitgehend ausgehandelten Abkommen mit Iran; Teheran signalisiert Fortschritte, zentrale Nuklearfragen seien aber noch nicht Teil des ersten Rahmens.
+Quelle: BBC World
+Zeit: 2026-05-24T05:57:09Z</description>
+      <category>Iran-Krieg</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — CISA öffnet KEV-Meldungen für externe Sicherheitsforscher</title>
+      <link>https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev</link>
+      <guid isPermaLink="false">592eade41cd10f7d</guid>
+      <pubDate>Sun, 24 May 2026 05:57:09 +0000</pubDate>
+      <description>The Record berichtet, dass CISA ein Nominierungsformular gestartet hat, über das Forscher und Anbieter aktiv ausgenutzte Schwachstellen für den KEV-Katalog melden können.
+Quelle: The Record
+Zeit: 2026-05-24T05:57:09Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — Internationale Ereignisse — Rubio meets Modi during India visit with energy high on agenda</title>
       <link>https://www.bbc.com/news/articles/c87qrwyyrn2o</link>
@@ -477,36 +507,6 @@ Zeit: 2026-05-20T21:58:02Z</description>
 Quelle: feeds.bbci.co.uk
 Zeit: 2026-05-20T21:58:02Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — 7-Eleven confirms breach after ShinyHunters claims</title>
-      <link>https://therecord.media/7-eleven-reports-data-breach-shinyhunters</link>
-      <guid isPermaLink="false">b403e0c3d2ea7824</guid>
-      <pubDate>Wed, 20 May 2026 19:57:09 +0000</pubDate>
-      <description>7-Eleven confirmed a data breach affecting systems used to store franchisee documents after claims by ShinyHunters.
-Quelle: The Record
-Zeit: 2026-05-20T19:57:09Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>MITTEL — Internationale Ereignisse — Putin heads home from China without pipeline deal</title>
-      <link>https://www.bbc.com/news/articles/c8r8me3nlllo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">772b24797483868d</guid>
-      <pubDate>Wed, 20 May 2026 17:57:04 +0000</pubDate>
-      <description>BBC reports Moscow and Beijing showed political alignment, but Putin left without the sought-after pipeline agreement.
-Quelle: BBC
-Zeit: 2026-05-20T17:57:04Z</description>
-      <category>Internationale Ereignisse</category>
-    </item>
-    <item>
-      <title>MITTEL — Ukraine-Krieg / AI / IT-Sicherheit — Ukraine says Russia is deploying AI-powered malware on the battlefield</title>
-      <link>https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield</link>
-      <guid isPermaLink="false">a715088becf6e434</guid>
-      <pubDate>Wed, 20 May 2026 15:57:04 +0000</pubDate>
-      <description>Ein ukrainischer Regierungsbericht sagt, Russland setze im Krieg verstärkt KI-gestützte Malware und KI in Cyberoperationen ein. Das verbindet Ukraine-Krieg, KI und IT-Sicherheit in einer neuen Lageeinschätzung.
-Quelle: The Record
-Zeit: 2026-05-20T15:57:04Z</description>
-      <category>Ukraine-Krieg / AI / IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
