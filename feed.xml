@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 24 May 2026 19:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 21:40:12 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Konflikt — Trump tells US negotiators 'not to rush' into deal with Iran</title>
+      <link>https://www.bbc.com/news/articles/clyp0040x7po</link>
+      <guid isPermaLink="false">5d97c2a33dcc2fab</guid>
+      <pubDate>Sun, 24 May 2026 21:39:55 +0000</pubDate>
+      <description>BBC berichtet, dass Trump US-Verhandler angewiesen hat, ein Iran-Abkommen nicht zu überstürzen; diskutiert werde laut US-Medien eine Verlängerung der 60-tägigen Waffenruhe und die Wiederöffnung der Straße von Hormus.
+Quelle: BBC World RSS
+Zeit: 2026-05-24T21:39:55Z</description>
+      <category>Iran-Konflikt</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — Trump tells US negotiators 'not to rush' into deal with Iran</title>
       <link>https://www.bbc.com/news/articles/clyp0040x7po?amp%3Bat_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-21T07:57:24Z</description>
 Quelle: The Record
 Zeit: 2026-05-21T07:57:24Z</description>
       <category>IT-News</category>
-    </item>
-    <item>
-      <title>MITTEL — AI-News — Google will erstmals seit Google Glass wieder smarte Brillen veröffentlichen</title>
-      <link>https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">8b43837bcf1f9f72</guid>
-      <pubDate>Thu, 21 May 2026 07:57:11 +0000</pubDate>
-      <description>BBC berichtet, dass Google im Herbst neue Smart Glasses mit KI-Interaktion auf den Markt bringen will.
-Quelle: BBC Technology
-Zeit: 2026-05-21T07:57:11Z</description>
-      <category>AI-News</category>
     </item>
   </channel>
 </rss>

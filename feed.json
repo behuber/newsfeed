@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "5d97c2a33dcc2fab",
+      "url": "https://www.bbc.com/news/articles/clyp0040x7po",
+      "title": "HOCH — Iran-Konflikt — Trump tells US negotiators 'not to rush' into deal with Iran",
+      "content_text": "BBC berichtet, dass Trump US-Verhandler angewiesen hat, ein Iran-Abkommen nicht zu überstürzen; diskutiert werde laut US-Medien eine Verlängerung der 60-tägigen Waffenruhe und die Wiederöffnung der Straße von Hormus.\nQuelle: BBC World RSS\nZeit: 2026-05-24T21:39:55Z",
+      "date_published": "2026-05-24T21:39:55Z",
+      "tags": [
+        "Iran-Konflikt",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "59ef514586a42032",
       "url": "https://www.bbc.com/news/articles/clyp0040x7po?amp%3Bat_campaign=rss&at_medium=RSS",
       "title": "HOCH — Iran-Krieg — Trump tells US negotiators 'not to rush' into deal with Iran",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "8b43837bcf1f9f72",
-      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — AI-News — Google will erstmals seit Google Glass wieder smarte Brillen veröffentlichen",
-      "content_text": "BBC berichtet, dass Google im Herbst neue Smart Glasses mit KI-Interaktion auf den Markt bringen will.\nQuelle: BBC Technology\nZeit: 2026-05-21T07:57:11Z",
-      "date_published": "2026-05-21T07:57:11Z",
-      "tags": [
-        "AI-News",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC Technology"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-24T19:39:48.849970Z"
+  "generated_at": "2026-05-24T21:40:12.899475Z"
 }
