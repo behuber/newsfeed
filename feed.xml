@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 24 May 2026 13:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 19:39:48 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Trump tells US negotiators 'not to rush' into deal with Iran</title>
+      <link>https://www.bbc.com/news/articles/clyp0040x7po?amp%3Bat_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">59ef514586a42032</guid>
+      <pubDate>Sun, 24 May 2026 19:39:35 +0000</pubDate>
+      <description>The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.
+Quelle: bbc-world
+Zeit: 2026-05-24T19:39:35Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — Iran-Krieg — Bericht: Rahmen für Iran-Deal weitgehend ausgehandelt</title>
       <link>https://www.bbc.com/news/articles/crmp121z3z8o?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-21T07:57:24Z</description>
 Quelle: BBC Technology
 Zeit: 2026-05-21T07:57:11Z</description>
       <category>AI-News</category>
-    </item>
-    <item>
-      <title>MITTEL — AI/IT — Musk loses OpenAI court battle after jury finds he waited too long to sue</title>
-      <link>https://www.bbc.com/news/articles/cewpyv79pw1o?amp%3Bat_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">d77c55956da30ab3</guid>
-      <pubDate>Wed, 20 May 2026 21:58:02 +0000</pubDate>
-      <description>Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</description>
-      <category>AI/IT</category>
     </item>
   </channel>
 </rss>

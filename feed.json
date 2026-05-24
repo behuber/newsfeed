@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "59ef514586a42032",
+      "url": "https://www.bbc.com/news/articles/clyp0040x7po?amp%3Bat_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Iran-Krieg — Trump tells US negotiators 'not to rush' into deal with Iran",
+      "content_text": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.\nQuelle: bbc-world\nZeit: 2026-05-24T19:39:35Z",
+      "date_published": "2026-05-24T19:39:35Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "bbc-world"
+        }
+      ]
+    },
+    {
       "id": "3f80143fa6d6d0e0",
       "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — Iran-Krieg — Bericht: Rahmen für Iran-Deal weitgehend ausgehandelt",
@@ -795,23 +811,7 @@
           "name": "BBC Technology"
         }
       ]
-    },
-    {
-      "id": "d77c55956da30ab3",
-      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?amp%3Bat_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — AI/IT — Musk loses OpenAI court battle after jury finds he waited too long to sue",
-      "content_text": "Jurors spent weeks hearing about Musk's claim that Altman had \\\"stolen a charity.\\\"\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
-      "date_published": "2026-05-20T21:58:02Z",
-      "tags": [
-        "AI/IT",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "feeds.bbci.co.uk"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-24T13:44:39.110710Z"
+  "generated_at": "2026-05-24T19:39:48.849970Z"
 }
