@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-24T11:44:39.246007Z</updated>
+  <updated>2026-05-24T13:44:39.110710Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Iran-Krieg — Bericht: Rahmen für Iran-Deal weitgehend ausgehandelt</title>
+    <id>3f80143fa6d6d0e0</id>
+    <updated>2026-05-24T11:57:14Z</updated>
+    <link href="https://www.bbc.com/news/articles/crmp121z3z8o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>BBC meldet, Trump habe erklärt, ein Iran-Deal sei weitgehend ausgehandelt; Teheran signalisiere ebenfalls Fortschritte, während die Wiederöffnung der Straße von Hormus Teil des Rahmens sein solle.
+Quelle: BBC World RSS
+Zeit: 2026-05-24T11:57:14Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Großangriff Russlands auf die Ukraine mit Toten und Dutzenden Verletzten</title>
+    <id>f9ac87e839a4a6df</id>
+    <updated>2026-05-24T11:57:13Z</updated>
+    <link href="https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>BBC meldet einen groß angelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Feed wurde dabei auch eine Oreshnik-Rakete eingesetzt.
+Quelle: BBC World RSS
+Zeit: 2026-05-24T11:57:13Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured</title>
     <id>6faa1d8553f96b03</id>
@@ -438,24 +456,6 @@ Zeit: 2026-05-21T07:57:11Z</summary>
     <updated>2026-05-20T21:58:02Z</updated>
     <link href="https://www.bbc.com/news/articles/cewpyv79pw1o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
     <summary>Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — International — Instant AI answers can trivialise human intelligence, warns Royal Observatory</title>
-    <id>29b193c23db3621b</id>
-    <updated>2026-05-20T21:58:02Z</updated>
-    <link href="https://www.bbc.com/news/articles/c2023l60370o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
-    <summary>Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.\n\n
-Quelle: feeds.bbci.co.uk
-Zeit: 2026-05-20T21:58:02Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — AI/IT — Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial</title>
-    <id>8cdd8dbddc4073c2</id>
-    <updated>2026-05-20T21:58:02Z</updated>
-    <link href="https://www.bbc.com/news/articles/crlp991nw41o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
-    <summary>The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.
 Quelle: feeds.bbci.co.uk
 Zeit: 2026-05-20T21:58:02Z</summary>
   </entry>

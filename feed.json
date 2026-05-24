@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "3f80143fa6d6d0e0",
+      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Iran-Krieg — Bericht: Rahmen für Iran-Deal weitgehend ausgehandelt",
+      "content_text": "BBC meldet, Trump habe erklärt, ein Iran-Deal sei weitgehend ausgehandelt; Teheran signalisiere ebenfalls Fortschritte, während die Wiederöffnung der Straße von Hormus Teil des Rahmens sein solle.\nQuelle: BBC World RSS\nZeit: 2026-05-24T11:57:14Z",
+      "date_published": "2026-05-24T11:57:14Z",
+      "tags": [
+        "Iran-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "f9ac87e839a4a6df",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Ukraine-Krieg — Großangriff Russlands auf die Ukraine mit Toten und Dutzenden Verletzten",
+      "content_text": "BBC meldet einen groß angelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Feed wurde dabei auch eine Oreshnik-Rakete eingesetzt.\nQuelle: BBC World RSS\nZeit: 2026-05-24T11:57:13Z",
+      "date_published": "2026-05-24T11:57:13Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "6faa1d8553f96b03",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&at_medium=RSS",
       "title": "HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
@@ -779,39 +811,7 @@
           "name": "feeds.bbci.co.uk"
         }
       ]
-    },
-    {
-      "id": "29b193c23db3621b",
-      "url": "https://www.bbc.com/news/articles/c2023l60370o?amp%3Bat_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — International — Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-      "content_text": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \\\"dependence\\\" on AI.\\n\\n\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
-      "date_published": "2026-05-20T21:58:02Z",
-      "tags": [
-        "International",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "feeds.bbci.co.uk"
-        }
-      ]
-    },
-    {
-      "id": "8cdd8dbddc4073c2",
-      "url": "https://www.bbc.com/news/articles/crlp991nw41o?amp%3Bat_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — AI/IT — Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-      "content_text": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it.\nQuelle: feeds.bbci.co.uk\nZeit: 2026-05-20T21:58:02Z",
-      "date_published": "2026-05-20T21:58:02Z",
-      "tags": [
-        "AI/IT",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "feeds.bbci.co.uk"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-24T11:44:39.246007Z"
+  "generated_at": "2026-05-24T13:44:39.110710Z"
 }
