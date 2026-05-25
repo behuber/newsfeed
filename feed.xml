@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 25 May 2026 09:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 11:40:13 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Iran says deal with US not imminent</title>
+      <link>https://www.bbc.com/news/articles/cglpp2yk336o</link>
+      <guid isPermaLink="false">f102597ea765db59</guid>
+      <pubDate>Mon, 25 May 2026 11:39:27 +0000</pubDate>
+      <description>Iran hat einer unmittelbar bevorstehenden Einigung mit den USA widersprochen. Das dämpft Hoffnungen auf schnelle Entspannung rund um Iran und die Straße von Hormus.
+Quelle: BBC World
+Zeit: 2026-05-25T11:39:27Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>HOCH — Steuern — Waymo pauses robotaxis in five US cities after cars drive into flooded roads</title>
       <link>https://www.bbc.com/news/articles/ckgplyxxl75o?amp%3Bat_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-21T19:57:41Z</description>
 Quelle: BBC World
 Zeit: 2026-05-21T19:57:28Z</description>
       <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — VPN service used by ransomware actors dismantled — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks</title>
-      <link>https://therecord.media/europe-dismantles-first-vpn</link>
-      <guid isPermaLink="false">7c3c64d6c819eecf</guid>
-      <pubDate>Thu, 21 May 2026 17:57:21 +0000</pubDate>
-      <description>European authorities dismantled First VPN, a service long marketed on Russian-speaking cybercrime forums and used to shield ransomware and data-theft operations.
-Quelle: The Record
-Zeit: 2026-05-21T17:57:21Z</description>
-      <category>VPN service used by ransomware actors dismantled</category>
     </item>
   </channel>
 </rss>

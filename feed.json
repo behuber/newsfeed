@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "f102597ea765db59",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o",
+      "title": "HOCH — Iran-Krieg — Iran says deal with US not imminent",
+      "content_text": "Iran hat einer unmittelbar bevorstehenden Einigung mit den USA widersprochen. Das dämpft Hoffnungen auf schnelle Entspannung rund um Iran und die Straße von Hormus.\nQuelle: BBC World\nZeit: 2026-05-25T11:39:27Z",
+      "date_published": "2026-05-25T11:39:27Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "41cbe84af4cfe2bc",
       "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?amp%3Bat_campaign=rss&at_medium=RSS",
       "title": "HOCH — Steuern — Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "7c3c64d6c819eecf",
-      "url": "https://therecord.media/europe-dismantles-first-vpn",
-      "title": "MITTEL — VPN service used by ransomware actors dismantled — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks",
-      "content_text": "European authorities dismantled First VPN, a service long marketed on Russian-speaking cybercrime forums and used to shield ransomware and data-theft operations.\nQuelle: The Record\nZeit: 2026-05-21T17:57:21Z",
-      "date_published": "2026-05-21T17:57:21Z",
-      "tags": [
-        "VPN service used by ransomware actors dismantled",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-25T09:40:12.162655Z"
+  "generated_at": "2026-05-25T11:40:13.652620Z"
 }
