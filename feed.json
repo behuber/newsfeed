@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "1f707abe5cd7ae05",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o",
+      "title": "HOCH — Ukraine-Krieg — Russland droht mit weiteren Angriffen auf Kyjiw und fordert Ausländer zur Ausreise auf",
+      "content_text": "BBC berichtet, dass Russland nach einem der schwersten Luftangriffe auf Kyjiw weitere Schläge androht und ausländische Staatsangehörige zum Verlassen der Ukraine auffordert.\nQuelle: BBC World\nZeit: 2026-05-25T21:39:33Z",
+      "date_published": "2026-05-25T21:39:33Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "a0e11acc268171a7",
       "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — Iran-Krieg — Deal with US not imminent, Iran says",
@@ -795,23 +811,7 @@
           "name": "BBC"
         }
       ]
-    },
-    {
-      "id": "0826209d0a9d527f",
-      "url": "https://therecord.media/europe-dismantles-first-vpn",
-      "title": "MITTEL — IT-Sicherheit — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks",
-      "content_text": "The Record berichtet, dass europäische Behörden den Dienst First VPN zerschlagen haben, der in Ransomware- und Datendiebstahlangriffen zur Verschleierung genutzt wurde.\nQuelle: The Record\nZeit: 2026-05-21T21:57:20Z",
-      "date_published": "2026-05-21T21:57:20Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-25T19:40:20.832427Z"
+  "generated_at": "2026-05-25T21:40:21.405160Z"
 }

@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 25 May 2026 19:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 21:40:21 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russland droht mit weiteren Angriffen auf Kyjiw und fordert Ausländer zur Ausreise auf</title>
+      <link>https://www.bbc.com/news/articles/c1e22n55zn4o</link>
+      <guid isPermaLink="false">1f707abe5cd7ae05</guid>
+      <pubDate>Mon, 25 May 2026 21:39:33 +0000</pubDate>
+      <description>BBC berichtet, dass Russland nach einem der schwersten Luftangriffe auf Kyjiw weitere Schläge androht und ausländische Staatsangehörige zum Verlassen der Ukraine auffordert.
+Quelle: BBC World
+Zeit: 2026-05-25T21:39:33Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>MITTEL — Iran-Krieg — Deal with US not imminent, Iran says</title>
       <link>https://www.bbc.com/news/articles/cglpp2yk336o?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-22T07:57:07Z</description>
 Quelle: BBC
 Zeit: 2026-05-22T05:57:23Z</description>
       <category>Iran</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — Europe dismantles VPN service used by cybercriminals to hide ransomware attacks</title>
-      <link>https://therecord.media/europe-dismantles-first-vpn</link>
-      <guid isPermaLink="false">0826209d0a9d527f</guid>
-      <pubDate>Thu, 21 May 2026 21:57:20 +0000</pubDate>
-      <description>The Record berichtet, dass europäische Behörden den Dienst First VPN zerschlagen haben, der in Ransomware- und Datendiebstahlangriffen zur Verschleierung genutzt wurde.
-Quelle: The Record
-Zeit: 2026-05-21T21:57:20Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
