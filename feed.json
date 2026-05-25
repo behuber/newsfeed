@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "6faa1d8553f96b03",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o",
+      "title": "HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "content_text": "BBC berichtet über einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Bericht wurde auch eine Hyperschallrakete eingesetzt.\nQuelle: BBC World\nZeit: 2026-05-25T05:39:30Z",
+      "date_published": "2026-05-25T05:39:30Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "5d97c2a33dcc2fab",
       "url": "https://www.bbc.com/news/articles/clyp0040x7po",
       "title": "HOCH — Iran-Konflikt — Trump tells US negotiators 'not to rush' into deal with Iran",
@@ -795,23 +811,7 @@
           "name": "BBC Technology"
         }
       ]
-    },
-    {
-      "id": "f9efaa9bdf0b6214",
-      "url": "https://therecord.media/discord-migrates-users-to-end-to-end-encryption",
-      "title": "MITTEL — IT-News — Discord stellt Nutzer standardmäßig auf Ende-zu-Ende-Verschlüsselung um",
-      "content_text": "The Record berichtet, dass Discord alle Nutzer auf standardmäßig aktivierte Ende-zu-Ende-Verschlüsselung für Messaging migriert.\nQuelle: The Record\nZeit: 2026-05-21T07:57:24Z",
-      "date_published": "2026-05-21T07:57:24Z",
-      "tags": [
-        "IT-News",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-25T03:40:11.656433Z"
+  "generated_at": "2026-05-25T05:40:12.012345Z"
 }

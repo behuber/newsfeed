@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-25T03:40:11.656433Z</updated>
+  <updated>2026-05-25T05:40:12.012345Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured</title>
+    <id>6faa1d8553f96b03</id>
+    <updated>2026-05-25T05:39:30Z</updated>
+    <link href="https://www.bbc.com/news/articles/clyp6831yp5o" />
+    <summary>BBC berichtet über einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Bericht wurde auch eine Hyperschallrakete eingesetzt.
+Quelle: BBC World
+Zeit: 2026-05-25T05:39:30Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Konflikt — Trump tells US negotiators 'not to rush' into deal with Iran</title>
     <id>5d97c2a33dcc2fab</id>
@@ -448,15 +457,6 @@ Zeit: 2026-05-21T09:57:13Z</summary>
     <link href="https://www.bbc.com/news/articles/cn0pky4zpxxo?at_campaign=rss&amp;at_medium=RSS" />
     <summary>Die britische Medienaufsicht Ofcom wirft TikTok und YouTube laut BBC unzureichende Schutzmaßnahmen für Minderjährige vor.
 Quelle: BBC Technology
-Zeit: 2026-05-21T07:57:24Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-News — Discord stellt Nutzer standardmäßig auf Ende-zu-Ende-Verschlüsselung um</title>
-    <id>f9efaa9bdf0b6214</id>
-    <updated>2026-05-21T07:57:24Z</updated>
-    <link href="https://therecord.media/discord-migrates-users-to-end-to-end-encryption" />
-    <summary>The Record berichtet, dass Discord alle Nutzer auf standardmäßig aktivierte Ende-zu-Ende-Verschlüsselung für Messaging migriert.
-Quelle: The Record
 Zeit: 2026-05-21T07:57:24Z</summary>
   </entry>
 </feed>
