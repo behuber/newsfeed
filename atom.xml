@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-25T11:40:13.652620Z</updated>
+  <updated>2026-05-25T13:40:13.126049Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
+    <id>c1805361ec690598</id>
+    <updated>2026-05-25T13:39:45Z</updated>
+    <link href="https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev" />
+    <summary>CISA führt ein Meldeformular ein, über das Forscher und Hersteller Schwachstellen für den Katalog bekannter aktiv ausgenutzter Sicherheitslücken nominieren können.
+Quelle: The Record
+Zeit: 2026-05-25T13:39:45Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Iran says deal with US not imminent</title>
     <id>f102597ea765db59</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-21T19:57:41Z</summary>
     <summary>The Record berichtet, dass China und Russland in einer gemeinsamen Erklärung engere Zusammenarbeit bei KI, Cyberspace und Satellitensystemen zusagen, um ihre technologische Abhängigkeit vom Westen zu verringern.
 Quelle: The Record
 Zeit: 2026-05-21T19:57:41Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran-Krieg — Iran steps up claim to control Strait of Hormuz</title>
-    <id>d095bada1c183cc6</id>
-    <updated>2026-05-21T19:57:28Z</updated>
-    <link href="https://www.bbc.com/news/articles/cq5py64gvwzo" />
-    <summary>BBC berichtet, dass Iran eine Karte veröffentlicht hat, die eine militärische Aufsicht über weite Teile der Straße von Hormus beansprucht. Das verschärft die Lage an einer zentralen globalen Öl- und Handelsroute.
-Quelle: BBC World
-Zeit: 2026-05-21T19:57:28Z</summary>
   </entry>
 </feed>

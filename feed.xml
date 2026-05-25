@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 25 May 2026 11:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 13:40:13 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
+      <link>https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev</link>
+      <guid isPermaLink="false">c1805361ec690598</guid>
+      <pubDate>Mon, 25 May 2026 13:39:45 +0000</pubDate>
+      <description>CISA führt ein Meldeformular ein, über das Forscher und Hersteller Schwachstellen für den Katalog bekannter aktiv ausgenutzter Sicherheitslücken nominieren können.
+Quelle: The Record
+Zeit: 2026-05-25T13:39:45Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — Iran says deal with US not imminent</title>
       <link>https://www.bbc.com/news/articles/cglpp2yk336o</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-21T19:57:41Z</description>
 Quelle: The Record
 Zeit: 2026-05-21T19:57:41Z</description>
       <category>AI-News</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Iran steps up claim to control Strait of Hormuz</title>
-      <link>https://www.bbc.com/news/articles/cq5py64gvwzo</link>
-      <guid isPermaLink="false">d095bada1c183cc6</guid>
-      <pubDate>Thu, 21 May 2026 19:57:28 +0000</pubDate>
-      <description>BBC berichtet, dass Iran eine Karte veröffentlicht hat, die eine militärische Aufsicht über weite Teile der Straße von Hormus beansprucht. Das verschärft die Lage an einer zentralen globalen Öl- und Handelsroute.
-Quelle: BBC World
-Zeit: 2026-05-21T19:57:28Z</description>
-      <category>Iran-Krieg</category>
     </item>
   </channel>
 </rss>

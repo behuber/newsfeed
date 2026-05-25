@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "c1805361ec690598",
+      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
+      "title": "MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
+      "content_text": "CISA führt ein Meldeformular ein, über das Forscher und Hersteller Schwachstellen für den Katalog bekannter aktiv ausgenutzter Sicherheitslücken nominieren können.\nQuelle: The Record\nZeit: 2026-05-25T13:39:45Z",
+      "date_published": "2026-05-25T13:39:45Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "f102597ea765db59",
       "url": "https://www.bbc.com/news/articles/cglpp2yk336o",
       "title": "HOCH — Iran-Krieg — Iran says deal with US not imminent",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "d095bada1c183cc6",
-      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo",
-      "title": "HOCH — Iran-Krieg — Iran steps up claim to control Strait of Hormuz",
-      "content_text": "BBC berichtet, dass Iran eine Karte veröffentlicht hat, die eine militärische Aufsicht über weite Teile der Straße von Hormus beansprucht. Das verschärft die Lage an einer zentralen globalen Öl- und Handelsroute.\nQuelle: BBC World\nZeit: 2026-05-21T19:57:28Z",
-      "date_published": "2026-05-21T19:57:28Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-25T11:40:13.652620Z"
+  "generated_at": "2026-05-25T13:40:13.126049Z"
 }
