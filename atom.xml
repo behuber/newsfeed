@@ -3,12 +3,84 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-25T05:40:12.012345Z</updated>
+  <updated>2026-05-25T07:40:12.381423Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Steuern — Waymo pauses robotaxis in five US cities after cars drive into flooded roads</title>
+    <id>41cbe84af4cfe2bc</id>
+    <updated>2026-05-25T07:39:29Z</updated>
+    <link href="https://www.bbc.com/news/articles/ckgplyxxl75o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
+    <summary>A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".
+Quelle: bbc-tech
+Zeit: 2026-05-25T07:39:29Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Gesundheitsreform — Tech Life</title>
+    <id>d60b54acff9a31df</id>
+    <updated>2026-05-25T07:39:29Z</updated>
+    <link href="https://www.bbc.co.uk/sounds/play/w3ct8jxt?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
+    <summary>A sleep apnoea wearable. Plus, tech to free up hospital beds and a breast health app.
+Quelle: bbc-tech
+Zeit: 2026-05-25T07:39:29Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Iran-Krieg — Rubio says 'solid' Iran deal may come on Monday</title>
+    <id>ff3d541e484d53fb</id>
+    <updated>2026-05-25T07:39:28Z</updated>
+    <link href="https://www.bbc.com/news/articles/cglpp2yk336o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
+    <summary>The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, US media reports.
+Quelle: bbc-world
+Zeit: 2026-05-25T07:39:28Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Iran-Krieg — Oil prices slide on hopes of US-Iran peace deal</title>
+    <id>50ca3b2040fdab77</id>
+    <updated>2026-05-25T07:39:28Z</updated>
+    <link href="https://www.bbc.com/news/articles/c809m7g29r7o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
+    <summary>Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.
+Quelle: bbc-world
+Zeit: 2026-05-25T07:39:28Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Steuern — She was told to marry in a country which bans girls' education. So she got in a taxi and fled</title>
+    <id>f1ecc0313082d11f</id>
+    <updated>2026-05-25T07:39:28Z</updated>
+    <link href="https://www.bbc.com/news/articles/ce3pgn48wnqo?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
+    <summary>Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.
+Quelle: bbc-world
+Zeit: 2026-05-25T07:39:28Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Iran-Krieg — Rubio meets Modi during India visit with energy high on agenda</title>
+    <id>6e4d3ac7a9c7ef61</id>
+    <updated>2026-05-25T07:39:28Z</updated>
+    <link href="https://www.bbc.com/news/articles/c87qrwyyrn2o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
+    <summary>The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.
+Quelle: bbc-world
+Zeit: 2026-05-25T07:39:28Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Iran-Krieg — Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz</title>
+    <id>b9b82a2bed87ec0c</id>
+    <updated>2026-05-25T07:39:28Z</updated>
+    <link href="https://www.bbc.com/news/articles/crmp121z3z8o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
+    <summary>Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.
+Quelle: bbc-world
+Zeit: 2026-05-25T07:39:28Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory</title>
+    <id>a9b6f1b1ac2758aa</id>
+    <updated>2026-05-25T07:39:28Z</updated>
+    <link href="https://www.bbc.com/news/articles/c5y74lwx395o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
+    <summary>Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.
+Quelle: bbc-world
+Zeit: 2026-05-25T07:39:28Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured</title>
     <id>6faa1d8553f96b03</id>
@@ -386,77 +458,5 @@ Zeit: 2026-05-21T19:57:28Z</summary>
     <summary>European authorities dismantled First VPN, a service long marketed on Russian-speaking cybercrime forums and used to shield ransomware and data-theft operations.
 Quelle: The Record
 Zeit: 2026-05-21T17:57:21Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — UK cybercrime law reform — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
-    <id>a7218ed862a569f4</id>
-    <updated>2026-05-21T15:57:27Z</updated>
-    <link href="https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections" />
-    <summary>Experts warn the UK's planned cybercrime-law reform would force researchers to stop once they spot a bug, limiting verification, severity assessment and exploitability checks.
-Quelle: The Record
-Zeit: 2026-05-21T15:57:27Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — China-Russia AI cooperation — Xi and Putin pledge closer cooperation on AI, cyberspace and satellite systems</title>
-    <id>0bc911622aed7a6a</id>
-    <updated>2026-05-21T15:57:27Z</updated>
-    <link href="https://therecord.media/russia-and-china-pledge-cooperation-2026" />
-    <summary>China and Russia pledged closer cooperation on AI, cyberspace, satellite internet and open-source software to reduce reliance on Western technology.
-Quelle: The Record
-Zeit: 2026-05-21T15:57:27Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Nvidia earnings — Nvidia's latest record earnings fail to impress investors</title>
-    <id>7c4c6f50c1c932c8</id>
-    <updated>2026-05-21T15:57:27Z</updated>
-    <link href="https://www.bbc.com/news/articles/c759x9pq3dpo" />
-    <summary>Nvidia reported another set of record results, but the market reaction was muted as investors questioned whether its growth pace can continue amid rising competition.
-Quelle: BBC World
-Zeit: 2026-05-21T15:57:27Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran/Strait of Hormuz — Iran steps up claim to control Strait of Hormuz</title>
-    <id>36e11fdb8613e7f4</id>
-    <updated>2026-05-21T15:57:14Z</updated>
-    <link href="https://www.bbc.com/news/articles/cq5py64gvwzo" />
-    <summary>Iran published a map claiming armed-forces oversight across more than 22,000 square kilometres of the Strait of Hormuz waterway.
-Quelle: BBC World
-Zeit: 2026-05-21T15:57:14Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — AI-News — Nvidia's latest record result fails to impress investors</title>
-    <id>09f26eae72d56949</id>
-    <updated>2026-05-21T11:57:16Z</updated>
-    <link href="https://www.bbc.com/news/articles/c759x9pq3dpo" />
-    <summary>Nvidia meldet erneut Rekordzahlen, doch die Aktie gibt nachbörslich nach, weil Anleger Zweifel am weiteren Wachstumstempo haben.
-Quelle: BBC
-Zeit: 2026-05-21T11:57:16Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Internationale Ereignisse — Xi and Putin pledge closer cooperation on AI, cyberspace and satellite systems</title>
-    <id>e0830dd99f54b7bc</id>
-    <updated>2026-05-21T11:57:16Z</updated>
-    <link href="https://therecord.media/russia-and-china-pledge-cooperation-2026" />
-    <summary>Russland und China vereinbaren laut gemeinsamer Erklärung engere Zusammenarbeit bei KI, Cyberspace und Satellitensystemen, um technologische Abhängigkeiten vom Westen zu verringern.
-Quelle: The Record
-Zeit: 2026-05-21T11:57:16Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Allgemeine IT-News — Discord stellt End-to-End-Verschlüsselung standardmäßig für alle Nutzer um</title>
-    <id>f70be1dc61cc8752</id>
-    <updated>2026-05-21T09:57:13Z</updated>
-    <link href="https://therecord.media/discord-migrates-users-to-end-to-end-encryption" />
-    <summary>Laut The Record migriert Discord alle Nutzer standardmäßig auf Ende-zu-Ende-verschlüsselte Nachrichten.
-Quelle: The Record
-Zeit: 2026-05-21T09:57:13Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-News — Ofcom hält TikTok und YouTube für nicht sicher genug für Kinder</title>
-    <id>f51355ae0aaf6889</id>
-    <updated>2026-05-21T07:57:24Z</updated>
-    <link href="https://www.bbc.com/news/articles/cn0pky4zpxxo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Die britische Medienaufsicht Ofcom wirft TikTok und YouTube laut BBC unzureichende Schutzmaßnahmen für Minderjährige vor.
-Quelle: BBC Technology
-Zeit: 2026-05-21T07:57:24Z</summary>
   </entry>
 </feed>
