@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-25T17:40:11.556611Z</updated>
+  <updated>2026-05-25T19:40:20.832427Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Iran-Krieg — Deal with US not imminent, Iran says</title>
+    <id>a0e11acc268171a7</id>
+    <updated>2026-05-25T19:39:35Z</updated>
+    <link href="https://www.bbc.com/news/articles/cglpp2yk336o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Iran erklärt laut BBC, ein Abkommen mit den USA stehe nicht unmittelbar bevor, nachdem aus Washington Hoffnungen auf eine schnelle Einigung signalisiert worden waren.
+Quelle: BBC World
+Zeit: 2026-05-25T19:39:35Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
     <id>d589612e546b97fb</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-22T05:57:23Z</summary>
     <summary>The Record berichtet, dass europäische Behörden den Dienst First VPN zerschlagen haben, der in Ransomware- und Datendiebstahlangriffen zur Verschleierung genutzt wurde.
 Quelle: The Record
 Zeit: 2026-05-21T21:57:20Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
-    <id>a6ec7d8ffa600d16</id>
-    <updated>2026-05-21T19:57:41Z</updated>
-    <link href="https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections" />
-    <summary>The Record berichtet, dass britische Reformpläne zum Cybercrime-Recht Sicherheitsforscher laut Experten kaum schützen würden und sogar die Bewertung realer Schwachstellen erschweren könnten.
-Quelle: The Record
-Zeit: 2026-05-21T19:57:41Z</summary>
   </entry>
 </feed>
