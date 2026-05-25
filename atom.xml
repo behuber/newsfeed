@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-25T15:40:14.080886Z</updated>
+  <updated>2026-05-25T17:40:11.556611Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
+    <id>d589612e546b97fb</id>
+    <updated>2026-05-25T17:39:36Z</updated>
+    <link href="https://www.bbc.com/news/articles/c1e22n55zn4o" />
+    <summary>Russland droht laut BBC mit weiteren Angriffen auf Kyjiw und fordert Ausländer zum Verlassen der Ukraine auf, nachdem die Hauptstadt zuletzt eine der schwersten Luftangriffe des Krieges erlebt hat.
+Quelle: BBC World
+Zeit: 2026-05-25T17:39:36Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
     <id>c1805361ec690598</id>
@@ -447,15 +456,6 @@ Zeit: 2026-05-21T21:57:20Z</summary>
     <updated>2026-05-21T19:57:41Z</updated>
     <link href="https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections" />
     <summary>The Record berichtet, dass britische Reformpläne zum Cybercrime-Recht Sicherheitsforscher laut Experten kaum schützen würden und sogar die Bewertung realer Schwachstellen erschweren könnten.
-Quelle: The Record
-Zeit: 2026-05-21T19:57:41Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — AI-News — Xi and Putin pledge closer cooperation on AI, cyberspace and satellite systems</title>
-    <id>1b133f08410e681e</id>
-    <updated>2026-05-21T19:57:41Z</updated>
-    <link href="https://therecord.media/russia-and-china-pledge-cooperation-2026" />
-    <summary>The Record berichtet, dass China und Russland in einer gemeinsamen Erklärung engere Zusammenarbeit bei KI, Cyberspace und Satellitensystemen zusagen, um ihre technologische Abhängigkeit vom Westen zu verringern.
 Quelle: The Record
 Zeit: 2026-05-21T19:57:41Z</summary>
   </entry>

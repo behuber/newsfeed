@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "d589612e546b97fb",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o",
+      "title": "HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "content_text": "Russland droht laut BBC mit weiteren Angriffen auf Kyjiw und fordert Ausländer zum Verlassen der Ukraine auf, nachdem die Hauptstadt zuletzt eine der schwersten Luftangriffe des Krieges erlebt hat.\nQuelle: BBC World\nZeit: 2026-05-25T17:39:36Z",
+      "date_published": "2026-05-25T17:39:36Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "c1805361ec690598",
       "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
       "title": "MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "1b133f08410e681e",
-      "url": "https://therecord.media/russia-and-china-pledge-cooperation-2026",
-      "title": "MITTEL — AI-News — Xi and Putin pledge closer cooperation on AI, cyberspace and satellite systems",
-      "content_text": "The Record berichtet, dass China und Russland in einer gemeinsamen Erklärung engere Zusammenarbeit bei KI, Cyberspace und Satellitensystemen zusagen, um ihre technologische Abhängigkeit vom Westen zu verringern.\nQuelle: The Record\nZeit: 2026-05-21T19:57:41Z",
-      "date_published": "2026-05-21T19:57:41Z",
-      "tags": [
-        "AI-News",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-25T15:40:14.080886Z"
+  "generated_at": "2026-05-25T17:40:11.556611Z"
 }
