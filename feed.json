@@ -13,6 +13,54 @@
   "expired": false,
   "items": [
     {
+      "id": "13e76a3b17adaf77",
+      "url": "https://www.bbc.com/news/articles/c1w22y1n74do",
+      "title": "MITTEL — Iran-Krieg — Internet starts coming back in Iran after months-long blackout",
+      "content_text": "Im Iran kehrt der Internetzugang nach monatelangem Blackout seit Kriegsbeginn Ende Februar teilweise zurück.\nQuelle: BBC World\nZeit: 2026-05-26T17:40:33Z",
+      "date_published": "2026-05-26T17:40:33Z",
+      "tags": [
+        "Iran-Krieg",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "0bfc2958c72b2905",
+      "url": "https://therecord.media/dutch-authorities-arrest-suspects-over-russian-cyber-operations",
+      "title": "HOCH — IT-Sicherheit — Dutch authorities arrest men suspected of providing infrastructure for Russian cyber operations",
+      "content_text": "Niederländische Behörden nahmen zwei Verdächtige fest und beschlagnahmten mehr als 800 Server wegen mutmaßlicher Unterstützung pro-russischer Cyberangriffe und Desinformationskampagnen.\nQuelle: The Record\nZeit: 2026-05-26T17:40:33Z",
+      "date_published": "2026-05-26T17:40:33Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
+      "id": "d4807960b1e86c5e",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o",
+      "title": "MITTEL — AI-News — AI may speed up search for drugs to treat brain conditions",
+      "content_text": "Forscher setzen KI ein, um schneller bezahlbare und wirksame Medikamente gegen Hirnerkrankungen wie MND zu identifizieren.\nQuelle: BBC Technology\nZeit: 2026-05-26T17:40:33Z",
+      "date_published": "2026-05-26T17:40:33Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology"
+        }
+      ]
+    },
+    {
       "id": "a6d2a47b93184b54",
       "url": "https://therecord.media/lithuania-investigates-theft-of-state-records",
       "title": "MITTEL — IT-Sicherheit — Lithuania investigates theft of 600,000 state registry records by foreign actor",
@@ -763,55 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "04fe3de8aa5c8288",
-      "url": "https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine",
-      "title": "MITTEL — Ukraine-Krieg — Belarus-nahe Hacker greifen ukrainische Regierungsbeamte mit gefälschten Zertifikats-Mails an",
-      "content_text": "The Record berichtet über eine neue GhostWriter-Spionagekampagne gegen ukrainische Behörden mit Malware in täuschend echten Trainingszertifikat-Mails.\nQuelle: The Record\nZeit: 2026-05-22T13:57:10Z",
-      "date_published": "2026-05-22T13:57:10Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "30373a9e9178e984",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo",
-      "title": "HOCH — Internationale Ereignisse — Nato begrüßt Entsendung von 5.000 US-Soldaten nach Polen",
-      "content_text": "BBC berichtet, dass Nato-Generalsekretär die von Präsident Trump angekündigte Verlegung von 5.000 US-Soldaten nach Polen vor dem Außenministertreffen begrüßt.\nQuelle: BBC World\nZeit: 2026-05-22T13:57:10Z",
-      "date_published": "2026-05-22T13:57:10Z",
-      "tags": [
-        "Internationale Ereignisse",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "8c6b89ecdd7fc362",
-      "url": "https://www.bbc.com/news/articles/c232z4yk437o",
-      "title": "HOCH — Iran-Krieg — US stoppt laut BBC vorerst 14-Milliarden-Dollar-Waffenverkauf an Taiwan wegen Iran-Krieg",
-      "content_text": "Der US-Marinechef sagte laut BBC, der bereits angekündigte Waffenverkauf an Taiwan werde pausiert, um Munition für den Iran-Krieg vorzuhalten.\nQuelle: BBC World\nZeit: 2026-05-22T13:57:09Z",
-      "date_published": "2026-05-22T13:57:09Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-26T15:40:55.264979Z"
+  "generated_at": "2026-05-26T17:40:54.765459Z"
 }
