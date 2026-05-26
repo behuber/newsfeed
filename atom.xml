@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-26T19:40:54.477602Z</updated>
+  <updated>2026-05-26T21:40:53.762540Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
+    <id>d589612e546b97fb</id>
+    <updated>2026-05-26T21:40:19Z</updated>
+    <link href="https://www.bbc.com/news/articles/c1e22n55zn4o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Russland droht weitere Angriffe auf Kyjiw an und fordert Ausländer zur Ausreise auf, nach einem der schwersten Luftangriffe der letzten Zeit.
+Quelle: BBC World
+Zeit: 2026-05-26T21:40:19Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Iran verurteilt US-Angriffe als groben Verstoß gegen die Waffenruhe</title>
     <id>2097c9aae628c9d6</id>
@@ -448,15 +457,6 @@ Zeit: 2026-05-22T21:57:08Z</summary>
     <link href="https://www.bbc.com/news/articles/c5y74lwx395o" />
     <summary>Russlands Präsident Putin kündigt Vergeltung an, nachdem Moskau der Ukraine einen Angriff auf ein Studentenwohnheim vorwirft; Kiew erklärte laut BBC, eine Elite-Drohneneinheit im besetzten Osten getroffen zu haben.
 Quelle: BBC World
-Zeit: 2026-05-22T19:57:16Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
-    <id>c1805361ec690598</id>
-    <updated>2026-05-22T19:57:16Z</updated>
-    <link href="https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev" />
-    <summary>CISA führt laut The Record ein Meldeformular ein, über das Forscher und Hersteller Schwachstellen für den Known Exploited Vulnerabilities-Katalog einreichen können.
-Quelle: The Record
 Zeit: 2026-05-22T19:57:16Z</summary>
   </entry>
 </feed>

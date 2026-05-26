@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 26 May 2026 19:40:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:40:53 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
+      <link>https://www.bbc.com/news/articles/c1e22n55zn4o?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">d589612e546b97fb</guid>
+      <pubDate>Tue, 26 May 2026 21:40:19 +0000</pubDate>
+      <description>Russland droht weitere Angriffe auf Kyjiw an und fordert Ausländer zur Ausreise auf, nach einem der schwersten Luftangriffe der letzten Zeit.
+Quelle: BBC World
+Zeit: 2026-05-26T21:40:19Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — Iran verurteilt US-Angriffe als groben Verstoß gegen die Waffenruhe</title>
       <link>https://www.bbc.com/news/articles/c4g44yl7q70o</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-22T21:57:08Z</description>
 Quelle: BBC World
 Zeit: 2026-05-22T19:57:16Z</description>
       <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
-      <link>https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev</link>
-      <guid isPermaLink="false">c1805361ec690598</guid>
-      <pubDate>Fri, 22 May 2026 19:57:16 +0000</pubDate>
-      <description>CISA führt laut The Record ein Meldeformular ein, über das Forscher und Hersteller Schwachstellen für den Known Exploited Vulnerabilities-Katalog einreichen können.
-Quelle: The Record
-Zeit: 2026-05-22T19:57:16Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>

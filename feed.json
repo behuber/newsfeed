@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "d589612e546b97fb",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "content_text": "Russland droht weitere Angriffe auf Kyjiw an und fordert Ausländer zur Ausreise auf, nach einem der schwersten Luftangriffe der letzten Zeit.\nQuelle: BBC World\nZeit: 2026-05-26T21:40:19Z",
+      "date_published": "2026-05-26T21:40:19Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "2097c9aae628c9d6",
       "url": "https://www.bbc.com/news/articles/c4g44yl7q70o",
       "title": "HOCH — Iran-Krieg — Iran verurteilt US-Angriffe als groben Verstoß gegen die Waffenruhe",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "c1805361ec690598",
-      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
-      "title": "MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
-      "content_text": "CISA führt laut The Record ein Meldeformular ein, über das Forscher und Hersteller Schwachstellen für den Known Exploited Vulnerabilities-Katalog einreichen können.\nQuelle: The Record\nZeit: 2026-05-22T19:57:16Z",
-      "date_published": "2026-05-22T19:57:16Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-26T19:40:54.477602Z"
+  "generated_at": "2026-05-26T21:40:53.762540Z"
 }
