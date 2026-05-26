@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "926bf9c54b829ec7",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o",
+      "title": "HOCH — Iran-Krieg — US launches new strikes on Iran, targeting missile sites and boats",
+      "content_text": "Die USA haben laut US Central Command neue Angriffe auf iranische Raketenstellungen und Boote ausgeführt und begründen das mit Selbstverteidigung; parallel laufen in Katar Gespräche über ein mögliches Kriegsende.\nQuelle: BBC World\nZeit: 2026-05-26T05:39:29Z",
+      "date_published": "2026-05-26T05:39:29Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "1f707abe5cd7ae05",
       "url": "https://www.bbc.com/news/articles/c1e22n55zn4o",
       "title": "HOCH — Ukraine-Krieg — Russland droht mit weiteren Angriffen auf Kyjiw und fordert Ausländer zur Ausreise auf",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "923576a39dd3274c",
-      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo",
-      "title": "HOCH — Iran — Iran steps up claim to control Strait of Hormuz",
-      "content_text": "BBC reports Iran published a map claiming armed forces oversight across more than 22,000 square kilometers of the Strait of Hormuz waterway.\nQuelle: BBC\nZeit: 2026-05-22T05:57:23Z",
-      "date_published": "2026-05-22T05:57:23Z",
-      "tags": [
-        "Iran",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-26T03:40:19.271378Z"
+  "generated_at": "2026-05-26T05:40:18.737571Z"
 }

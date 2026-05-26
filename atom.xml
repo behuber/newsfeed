@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-26T03:40:19.271378Z</updated>
+  <updated>2026-05-26T05:40:18.737571Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — US launches new strikes on Iran, targeting missile sites and boats</title>
+    <id>926bf9c54b829ec7</id>
+    <updated>2026-05-26T05:39:29Z</updated>
+    <link href="https://www.bbc.com/news/articles/cvgzzn4y1n8o" />
+    <summary>Die USA haben laut US Central Command neue Angriffe auf iranische Raketenstellungen und Boote ausgeführt und begründen das mit Selbstverteidigung; parallel laufen in Katar Gespräche über ein mögliches Kriegsende.
+Quelle: BBC World
+Zeit: 2026-05-26T05:39:29Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Russland droht mit weiteren Angriffen auf Kyjiw und fordert Ausländer zur Ausreise auf</title>
     <id>1f707abe5cd7ae05</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-22T09:58:09Z</summary>
     <summary>Die USA setzen laut BBC einen geplanten Waffenverkauf an Taiwan im Wert von 14 Milliarden Dollar aus, um Munition für den Iran-Krieg vorzuhalten.
 Quelle: BBC World
 Zeit: 2026-05-22T07:57:07Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran — Iran steps up claim to control Strait of Hormuz</title>
-    <id>923576a39dd3274c</id>
-    <updated>2026-05-22T05:57:23Z</updated>
-    <link href="https://www.bbc.com/news/articles/cq5py64gvwzo" />
-    <summary>BBC reports Iran published a map claiming armed forces oversight across more than 22,000 square kilometers of the Strait of Hormuz waterway.
-Quelle: BBC
-Zeit: 2026-05-22T05:57:23Z</summary>
   </entry>
 </feed>

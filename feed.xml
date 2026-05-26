@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 26 May 2026 03:40:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 05:40:18 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — US launches new strikes on Iran, targeting missile sites and boats</title>
+      <link>https://www.bbc.com/news/articles/cvgzzn4y1n8o</link>
+      <guid isPermaLink="false">926bf9c54b829ec7</guid>
+      <pubDate>Tue, 26 May 2026 05:39:29 +0000</pubDate>
+      <description>Die USA haben laut US Central Command neue Angriffe auf iranische Raketenstellungen und Boote ausgeführt und begründen das mit Selbstverteidigung; parallel laufen in Katar Gespräche über ein mögliches Kriegsende.
+Quelle: BBC World
+Zeit: 2026-05-26T05:39:29Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>HOCH — Ukraine-Krieg — Russland droht mit weiteren Angriffen auf Kyjiw und fordert Ausländer zur Ausreise auf</title>
       <link>https://www.bbc.com/news/articles/c1e22n55zn4o</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-22T09:58:09Z</description>
 Quelle: BBC World
 Zeit: 2026-05-22T07:57:07Z</description>
       <category>Iran-Krieg / Taiwan</category>
-    </item>
-    <item>
-      <title>HOCH — Iran — Iran steps up claim to control Strait of Hormuz</title>
-      <link>https://www.bbc.com/news/articles/cq5py64gvwzo</link>
-      <guid isPermaLink="false">923576a39dd3274c</guid>
-      <pubDate>Fri, 22 May 2026 05:57:23 +0000</pubDate>
-      <description>BBC reports Iran published a map claiming armed forces oversight across more than 22,000 square kilometers of the Strait of Hormuz waterway.
-Quelle: BBC
-Zeit: 2026-05-22T05:57:23Z</description>
-      <category>Iran</category>
     </item>
   </channel>
 </rss>
