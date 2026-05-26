@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "d589612e546b97fb",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o",
+      "title": "HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "content_text": "Russland droht mit weiteren Angriffen auf Kyjiw und fordert Ausländer zur Ausreise auf, nach einem der schwersten Luftangriffe auf die Hauptstadt seit Kriegsbeginn.\nQuelle: BBC World\nZeit: 2026-05-26T07:39:32Z",
+      "date_published": "2026-05-26T07:39:32Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "926bf9c54b829ec7",
       "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o",
       "title": "HOCH — Iran-Krieg — US launches new strikes on Iran, targeting missile sites and boats",
@@ -795,23 +811,7 @@
           "name": "therecord.media"
         }
       ]
-    },
-    {
-      "id": "37c401b95d84afe9",
-      "url": "https://www.bbc.com/news/articles/c232z4yk437o",
-      "title": "HOCH — Iran-Krieg / Taiwan — US pauses $14bn weapons sale to Taiwan due to Iran war",
-      "content_text": "Die USA setzen laut BBC einen geplanten Waffenverkauf an Taiwan im Wert von 14 Milliarden Dollar aus, um Munition für den Iran-Krieg vorzuhalten.\nQuelle: BBC World\nZeit: 2026-05-22T07:57:07Z",
-      "date_published": "2026-05-22T07:57:07Z",
-      "tags": [
-        "Iran-Krieg / Taiwan",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-26T05:40:18.737571Z"
+  "generated_at": "2026-05-26T07:40:20.222366Z"
 }

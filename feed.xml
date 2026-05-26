@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 26 May 2026 05:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:40:20 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
+      <link>https://www.bbc.com/news/articles/c1e22n55zn4o</link>
+      <guid isPermaLink="false">d589612e546b97fb</guid>
+      <pubDate>Tue, 26 May 2026 07:39:32 +0000</pubDate>
+      <description>Russland droht mit weiteren Angriffen auf Kyjiw und fordert Ausländer zur Ausreise auf, nach einem der schwersten Luftangriffe auf die Hauptstadt seit Kriegsbeginn.
+Quelle: BBC World
+Zeit: 2026-05-26T07:39:32Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — US launches new strikes on Iran, targeting missile sites and boats</title>
       <link>https://www.bbc.com/news/articles/cvgzzn4y1n8o</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-22T09:58:09Z</description>
 Quelle: therecord.media
 Zeit: 2026-05-22T09:58:09Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg / Taiwan — US pauses $14bn weapons sale to Taiwan due to Iran war</title>
-      <link>https://www.bbc.com/news/articles/c232z4yk437o</link>
-      <guid isPermaLink="false">37c401b95d84afe9</guid>
-      <pubDate>Fri, 22 May 2026 07:57:07 +0000</pubDate>
-      <description>Die USA setzen laut BBC einen geplanten Waffenverkauf an Taiwan im Wert von 14 Milliarden Dollar aus, um Munition für den Iran-Krieg vorzuhalten.
-Quelle: BBC World
-Zeit: 2026-05-22T07:57:07Z</description>
-      <category>Iran-Krieg / Taiwan</category>
     </item>
   </channel>
 </rss>
