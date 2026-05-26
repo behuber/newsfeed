@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-26T07:40:20.222366Z</updated>
+  <updated>2026-05-26T09:40:19.235639Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Internationale Ereignisse — Netanyahu says Israel will intensify strikes against Hezbollah</title>
+    <id>c7a1e270515a5c6a</id>
+    <updated>2026-05-26T09:39:43Z</updated>
+    <link href="https://www.bbc.com/news/articles/cewppdk1187o" />
+    <summary>Israels Regierungschef Benjamin Netanyahu kündigte eine Intensivierung der Angriffe auf die Hisbollah an; kurz darauf meldete das Militär Angriffe auf Ziele im Osten des Libanon.
+Quelle: BBC World RSS
+Zeit: 2026-05-26T09:39:43Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
     <id>d589612e546b97fb</id>
@@ -448,15 +457,6 @@ Zeit: 2026-05-22T09:58:09Z</summary>
     <link href="https://www.bbc.com/news/articles/cedpz9669deo?at_campaign=rss&amp;at_medium=RSS" />
     <summary>Die NATO begrüßt die angekündigte Verlegung von 5.000 US-Soldaten nach Polen vor dem Außenministertreffen; das stärkt die Ostflanke.
 Quelle: bbc.com
-Zeit: 2026-05-22T09:58:09Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
-    <id>a6ec7d8ffa600d16</id>
-    <updated>2026-05-22T09:58:09Z</updated>
-    <link href="https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections" />
-    <summary>Experten warnen, dass die britischen Reformpläne Forschende faktisch ausbremsen und kaum Schutz für legitime Sicherheitsarbeit schaffen.
-Quelle: therecord.media
 Zeit: 2026-05-22T09:58:09Z</summary>
   </entry>
 </feed>

@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "c7a1e270515a5c6a",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o",
+      "title": "HOCH — Internationale Ereignisse — Netanyahu says Israel will intensify strikes against Hezbollah",
+      "content_text": "Israels Regierungschef Benjamin Netanyahu kündigte eine Intensivierung der Angriffe auf die Hisbollah an; kurz darauf meldete das Militär Angriffe auf Ziele im Osten des Libanon.\nQuelle: BBC World RSS\nZeit: 2026-05-26T09:39:43Z",
+      "date_published": "2026-05-26T09:39:43Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "d589612e546b97fb",
       "url": "https://www.bbc.com/news/articles/c1e22n55zn4o",
       "title": "HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave",
@@ -795,23 +811,7 @@
           "name": "bbc.com"
         }
       ]
-    },
-    {
-      "id": "a6ec7d8ffa600d16",
-      "url": "https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections",
-      "title": "MITTEL — IT-Sicherheit — UK plans for cybercrime law reform would protect almost no one, experts warn",
-      "content_text": "Experten warnen, dass die britischen Reformpläne Forschende faktisch ausbremsen und kaum Schutz für legitime Sicherheitsarbeit schaffen.\nQuelle: therecord.media\nZeit: 2026-05-22T09:58:09Z",
-      "date_published": "2026-05-22T09:58:09Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "therecord.media"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-26T07:40:20.222366Z"
+  "generated_at": "2026-05-26T09:40:19.235639Z"
 }

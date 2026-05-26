@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 26 May 2026 07:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:40:19 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Internationale Ereignisse — Netanyahu says Israel will intensify strikes against Hezbollah</title>
+      <link>https://www.bbc.com/news/articles/cewppdk1187o</link>
+      <guid isPermaLink="false">c7a1e270515a5c6a</guid>
+      <pubDate>Tue, 26 May 2026 09:39:43 +0000</pubDate>
+      <description>Israels Regierungschef Benjamin Netanyahu kündigte eine Intensivierung der Angriffe auf die Hisbollah an; kurz darauf meldete das Militär Angriffe auf Ziele im Osten des Libanon.
+Quelle: BBC World RSS
+Zeit: 2026-05-26T09:39:43Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
     <item>
       <title>HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
       <link>https://www.bbc.com/news/articles/c1e22n55zn4o</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-22T09:58:09Z</description>
 Quelle: bbc.com
 Zeit: 2026-05-22T09:58:09Z</description>
       <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — UK plans for cybercrime law reform would protect almost no one, experts warn</title>
-      <link>https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections</link>
-      <guid isPermaLink="false">a6ec7d8ffa600d16</guid>
-      <pubDate>Fri, 22 May 2026 09:58:09 +0000</pubDate>
-      <description>Experten warnen, dass die britischen Reformpläne Forschende faktisch ausbremsen und kaum Schutz für legitime Sicherheitsarbeit schaffen.
-Quelle: therecord.media
-Zeit: 2026-05-22T09:58:09Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
