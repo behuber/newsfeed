@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-26T09:40:19.235639Z</updated>
+  <updated>2026-05-26T11:40:21.780577Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — AI-News — Streeting backs under-16s social media ban as government consultation concludes</title>
+    <id>a2e9f4939eb1c40f</id>
+    <updated>2026-05-26T11:39:34Z</updated>
+    <link href="https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>BBC Technology meldet politische Unterstützung für ein Social-Media-Verbot für Unter-16-Jährige nach Abschluss der Konsultation. Das ist eher Regulierung als KI, aber potenziell relevant für Tech-Politik.
+Quelle: BBC Technology
+Zeit: 2026-05-26T11:39:34Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Internationale Ereignisse — Netanyahu says Israel will intensify strikes against Hezbollah</title>
     <id>c7a1e270515a5c6a</id>
@@ -447,15 +456,6 @@ Zeit: 2026-05-22T11:57:05Z</summary>
     <updated>2026-05-22T09:58:09Z</updated>
     <link href="https://www.bbc.com/news/articles/c232z4yk437o?at_campaign=rss&amp;at_medium=RSS" />
     <summary>Die USA setzen laut BBC einen 14-Milliarden-Dollar-Waffendeal mit Taiwan vorerst aus, um Munition für den Iran-Krieg vorzuhalten.
-Quelle: bbc.com
-Zeit: 2026-05-22T09:58:09Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Ukraine-Krieg — Nato chief welcomes US sending 5,000 troops to Poland</title>
-    <id>7281faa5c61fd229</id>
-    <updated>2026-05-22T09:58:09Z</updated>
-    <link href="https://www.bbc.com/news/articles/cedpz9669deo?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>Die NATO begrüßt die angekündigte Verlegung von 5.000 US-Soldaten nach Polen vor dem Außenministertreffen; das stärkt die Ostflanke.
 Quelle: bbc.com
 Zeit: 2026-05-22T09:58:09Z</summary>
   </entry>

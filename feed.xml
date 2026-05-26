@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 26 May 2026 09:40:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 11:40:21 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — AI-News — Streeting backs under-16s social media ban as government consultation concludes</title>
+      <link>https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">a2e9f4939eb1c40f</guid>
+      <pubDate>Tue, 26 May 2026 11:39:34 +0000</pubDate>
+      <description>BBC Technology meldet politische Unterstützung für ein Social-Media-Verbot für Unter-16-Jährige nach Abschluss der Konsultation. Das ist eher Regulierung als KI, aber potenziell relevant für Tech-Politik.
+Quelle: BBC Technology
+Zeit: 2026-05-26T11:39:34Z</description>
+      <category>AI-News</category>
+    </item>
     <item>
       <title>HOCH — Internationale Ereignisse — Netanyahu says Israel will intensify strikes against Hezbollah</title>
       <link>https://www.bbc.com/news/articles/cewppdk1187o</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-22T11:57:05Z</description>
 Quelle: bbc.com
 Zeit: 2026-05-22T09:58:09Z</description>
       <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — Ukraine-Krieg — Nato chief welcomes US sending 5,000 troops to Poland</title>
-      <link>https://www.bbc.com/news/articles/cedpz9669deo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">7281faa5c61fd229</guid>
-      <pubDate>Fri, 22 May 2026 09:58:09 +0000</pubDate>
-      <description>Die NATO begrüßt die angekündigte Verlegung von 5.000 US-Soldaten nach Polen vor dem Außenministertreffen; das stärkt die Ostflanke.
-Quelle: bbc.com
-Zeit: 2026-05-22T09:58:09Z</description>
-      <category>Ukraine-Krieg</category>
     </item>
   </channel>
 </rss>

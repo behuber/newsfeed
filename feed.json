@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "a2e9f4939eb1c40f",
+      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI-News — Streeting backs under-16s social media ban as government consultation concludes",
+      "content_text": "BBC Technology meldet politische Unterstützung für ein Social-Media-Verbot für Unter-16-Jährige nach Abschluss der Konsultation. Das ist eher Regulierung als KI, aber potenziell relevant für Tech-Politik.\nQuelle: BBC Technology\nZeit: 2026-05-26T11:39:34Z",
+      "date_published": "2026-05-26T11:39:34Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology"
+        }
+      ]
+    },
+    {
       "id": "c7a1e270515a5c6a",
       "url": "https://www.bbc.com/news/articles/cewppdk1187o",
       "title": "HOCH — Internationale Ereignisse — Netanyahu says Israel will intensify strikes against Hezbollah",
@@ -795,23 +811,7 @@
           "name": "bbc.com"
         }
       ]
-    },
-    {
-      "id": "7281faa5c61fd229",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — Ukraine-Krieg — Nato chief welcomes US sending 5,000 troops to Poland",
-      "content_text": "Die NATO begrüßt die angekündigte Verlegung von 5.000 US-Soldaten nach Polen vor dem Außenministertreffen; das stärkt die Ostflanke.\nQuelle: bbc.com\nZeit: 2026-05-22T09:58:09Z",
-      "date_published": "2026-05-22T09:58:09Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "bbc.com"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-26T09:40:19.235639Z"
+  "generated_at": "2026-05-26T11:40:21.780577Z"
 }
