@@ -3,12 +3,39 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-26T17:40:54.765459Z</updated>
+  <updated>2026-05-26T19:40:54.477602Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — Iran verurteilt US-Angriffe als groben Verstoß gegen die Waffenruhe</title>
+    <id>2097c9aae628c9d6</id>
+    <updated>2026-05-26T19:40:12Z</updated>
+    <link href="https://www.bbc.com/news/articles/c4g44yl7q70o" />
+    <summary>BBC meldet, dass Iran die US-Angriffe während laufender Gespräche in Doha als groben Verstoß gegen die Waffenruhe verurteilt. Das deutet auf neue Spannungen trotz laufender Friedensverhandlungen hin.
+Quelle: BBC World
+Zeit: 2026-05-26T19:40:12Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Ukraine-Krieg — Russland droht mit weiteren Angriffen auf Kyjiw und rät Ausländern zur Ausreise</title>
+    <id>a5cbffd355cd4c4d</id>
+    <updated>2026-05-26T19:40:12Z</updated>
+    <link href="https://www.bbc.com/news/articles/c1e22n55zn4o" />
+    <summary>BBC berichtet nach einem der größten Luftangriffe des Krieges auf Kyjiw, dass Russland weitere Schläge androht und Ausländern die Ausreise nahelegt.
+Quelle: BBC World
+Zeit: 2026-05-26T19:40:12Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — IT-Sicherheit — Litauen untersucht Diebstahl von 600.000 staatlichen Registerdatensätzen</title>
+    <id>bd5ec9bc36ee0547</id>
+    <updated>2026-05-26T19:40:12Z</updated>
+    <link href="https://therecord.media/lithuania-investigates-theft-of-state-records" />
+    <summary>The Record berichtet, dass ein ausländischer Akteur unbefugt auf mehr als 600.000 staatliche Registereinträge zugegriffen haben soll.
+Quelle: The Record
+Zeit: 2026-05-26T19:40:12Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — Iran-Krieg — Internet starts coming back in Iran after months-long blackout</title>
     <id>13e76a3b17adaf77</id>
@@ -431,32 +458,5 @@ Zeit: 2026-05-22T19:57:16Z</summary>
     <summary>CISA führt laut The Record ein Meldeformular ein, über das Forscher und Hersteller Schwachstellen für den Known Exploited Vulnerabilities-Katalog einreichen können.
 Quelle: The Record
 Zeit: 2026-05-22T19:57:16Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran-Krieg / Internationale Ereignisse — USA pausieren laut Marineführung Waffenverkauf an Taiwan wegen Iran-Krieg</title>
-    <id>4b212e422de2e314</id>
-    <updated>2026-05-22T17:57:25Z</updated>
-    <link href="https://www.bbc.com/news/articles/c232z4yk437o" />
-    <summary>Die US-Marineführung sagt, ein 14-Milliarden-Dollar-Rüstungsgeschäft mit Taiwan werde pausiert, um Munition für den Iran-Krieg verfügbar zu halten.
-Quelle: BBC World
-Zeit: 2026-05-22T17:57:25Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Internationale Ereignisse — Afrika-Gipfel in Indien wegen Ebola-Sorgen verschoben</title>
-    <id>4068cdf352e3034c</id>
-    <updated>2026-05-22T17:57:25Z</updated>
-    <link href="https://www.bbc.com/news/articles/cp8p1l7gp1po" />
-    <summary>Der India-Africa-Gipfel wurde kurzfristig verschoben, nachdem die Sorge vor einer Ausweitung des Ebola-Ausbruchs zugenommen hat.
-Quelle: BBC World
-Zeit: 2026-05-22T17:57:25Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — Ukraine-Krieg / IT-Sicherheit — Belarus-nahe Hacker greifen ukrainische Behörden mit Fake-Zertifikaten an</title>
-    <id>62e99bfce411ab4f</id>
-    <updated>2026-05-22T17:57:13Z</updated>
-    <link href="https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine" />
-    <summary>Die GhostWriter-Gruppe verschickt gefälschte Schulungszertifikate, um ukrainische Regierungsmitarbeiter mit Malware zu kompromittieren.
-Quelle: The Record
-Zeit: 2026-05-22T17:57:13Z</summary>
   </entry>
 </feed>

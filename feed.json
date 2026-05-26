@@ -13,6 +13,54 @@
   "expired": false,
   "items": [
     {
+      "id": "2097c9aae628c9d6",
+      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o",
+      "title": "HOCH — Iran-Krieg — Iran verurteilt US-Angriffe als groben Verstoß gegen die Waffenruhe",
+      "content_text": "BBC meldet, dass Iran die US-Angriffe während laufender Gespräche in Doha als groben Verstoß gegen die Waffenruhe verurteilt. Das deutet auf neue Spannungen trotz laufender Friedensverhandlungen hin.\nQuelle: BBC World\nZeit: 2026-05-26T19:40:12Z",
+      "date_published": "2026-05-26T19:40:12Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "a5cbffd355cd4c4d",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o",
+      "title": "HOCH — Ukraine-Krieg — Russland droht mit weiteren Angriffen auf Kyjiw und rät Ausländern zur Ausreise",
+      "content_text": "BBC berichtet nach einem der größten Luftangriffe des Krieges auf Kyjiw, dass Russland weitere Schläge androht und Ausländern die Ausreise nahelegt.\nQuelle: BBC World\nZeit: 2026-05-26T19:40:12Z",
+      "date_published": "2026-05-26T19:40:12Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "bd5ec9bc36ee0547",
+      "url": "https://therecord.media/lithuania-investigates-theft-of-state-records",
+      "title": "HOCH — IT-Sicherheit — Litauen untersucht Diebstahl von 600.000 staatlichen Registerdatensätzen",
+      "content_text": "The Record berichtet, dass ein ausländischer Akteur unbefugt auf mehr als 600.000 staatliche Registereinträge zugegriffen haben soll.\nQuelle: The Record\nZeit: 2026-05-26T19:40:12Z",
+      "date_published": "2026-05-26T19:40:12Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "13e76a3b17adaf77",
       "url": "https://www.bbc.com/news/articles/c1w22y1n74do",
       "title": "MITTEL — Iran-Krieg — Internet starts coming back in Iran after months-long blackout",
@@ -763,55 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "4b212e422de2e314",
-      "url": "https://www.bbc.com/news/articles/c232z4yk437o",
-      "title": "HOCH — Iran-Krieg / Internationale Ereignisse — USA pausieren laut Marineführung Waffenverkauf an Taiwan wegen Iran-Krieg",
-      "content_text": "Die US-Marineführung sagt, ein 14-Milliarden-Dollar-Rüstungsgeschäft mit Taiwan werde pausiert, um Munition für den Iran-Krieg verfügbar zu halten.\nQuelle: BBC World\nZeit: 2026-05-22T17:57:25Z",
-      "date_published": "2026-05-22T17:57:25Z",
-      "tags": [
-        "Iran-Krieg / Internationale Ereignisse",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "4068cdf352e3034c",
-      "url": "https://www.bbc.com/news/articles/cp8p1l7gp1po",
-      "title": "MITTEL — Internationale Ereignisse — Afrika-Gipfel in Indien wegen Ebola-Sorgen verschoben",
-      "content_text": "Der India-Africa-Gipfel wurde kurzfristig verschoben, nachdem die Sorge vor einer Ausweitung des Ebola-Ausbruchs zugenommen hat.\nQuelle: BBC World\nZeit: 2026-05-22T17:57:25Z",
-      "date_published": "2026-05-22T17:57:25Z",
-      "tags": [
-        "Internationale Ereignisse",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "62e99bfce411ab4f",
-      "url": "https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine",
-      "title": "MITTEL — Ukraine-Krieg / IT-Sicherheit — Belarus-nahe Hacker greifen ukrainische Behörden mit Fake-Zertifikaten an",
-      "content_text": "Die GhostWriter-Gruppe verschickt gefälschte Schulungszertifikate, um ukrainische Regierungsmitarbeiter mit Malware zu kompromittieren.\nQuelle: The Record\nZeit: 2026-05-22T17:57:13Z",
-      "date_published": "2026-05-22T17:57:13Z",
-      "tags": [
-        "Ukraine-Krieg / IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-26T17:40:54.765459Z"
+  "generated_at": "2026-05-26T19:40:54.477602Z"
 }

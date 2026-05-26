@@ -5,9 +5,39 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 26 May 2026 17:40:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 19:40:54 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Iran verurteilt US-Angriffe als groben Verstoß gegen die Waffenruhe</title>
+      <link>https://www.bbc.com/news/articles/c4g44yl7q70o</link>
+      <guid isPermaLink="false">2097c9aae628c9d6</guid>
+      <pubDate>Tue, 26 May 2026 19:40:12 +0000</pubDate>
+      <description>BBC meldet, dass Iran die US-Angriffe während laufender Gespräche in Doha als groben Verstoß gegen die Waffenruhe verurteilt. Das deutet auf neue Spannungen trotz laufender Friedensverhandlungen hin.
+Quelle: BBC World
+Zeit: 2026-05-26T19:40:12Z</description>
+      <category>Iran-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — Ukraine-Krieg — Russland droht mit weiteren Angriffen auf Kyjiw und rät Ausländern zur Ausreise</title>
+      <link>https://www.bbc.com/news/articles/c1e22n55zn4o</link>
+      <guid isPermaLink="false">a5cbffd355cd4c4d</guid>
+      <pubDate>Tue, 26 May 2026 19:40:12 +0000</pubDate>
+      <description>BBC berichtet nach einem der größten Luftangriffe des Krieges auf Kyjiw, dass Russland weitere Schläge androht und Ausländern die Ausreise nahelegt.
+Quelle: BBC World
+Zeit: 2026-05-26T19:40:12Z</description>
+      <category>Ukraine-Krieg</category>
+    </item>
+    <item>
+      <title>HOCH — IT-Sicherheit — Litauen untersucht Diebstahl von 600.000 staatlichen Registerdatensätzen</title>
+      <link>https://therecord.media/lithuania-investigates-theft-of-state-records</link>
+      <guid isPermaLink="false">bd5ec9bc36ee0547</guid>
+      <pubDate>Tue, 26 May 2026 19:40:12 +0000</pubDate>
+      <description>The Record berichtet, dass ein ausländischer Akteur unbefugt auf mehr als 600.000 staatliche Registereinträge zugegriffen haben soll.
+Quelle: The Record
+Zeit: 2026-05-26T19:40:12Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — Iran-Krieg — Internet starts coming back in Iran after months-long blackout</title>
       <link>https://www.bbc.com/news/articles/c1w22y1n74do</link>
@@ -477,36 +507,6 @@ Zeit: 2026-05-22T19:57:16Z</description>
 Quelle: The Record
 Zeit: 2026-05-22T19:57:16Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg / Internationale Ereignisse — USA pausieren laut Marineführung Waffenverkauf an Taiwan wegen Iran-Krieg</title>
-      <link>https://www.bbc.com/news/articles/c232z4yk437o</link>
-      <guid isPermaLink="false">4b212e422de2e314</guid>
-      <pubDate>Fri, 22 May 2026 17:57:25 +0000</pubDate>
-      <description>Die US-Marineführung sagt, ein 14-Milliarden-Dollar-Rüstungsgeschäft mit Taiwan werde pausiert, um Munition für den Iran-Krieg verfügbar zu halten.
-Quelle: BBC World
-Zeit: 2026-05-22T17:57:25Z</description>
-      <category>Iran-Krieg / Internationale Ereignisse</category>
-    </item>
-    <item>
-      <title>MITTEL — Internationale Ereignisse — Afrika-Gipfel in Indien wegen Ebola-Sorgen verschoben</title>
-      <link>https://www.bbc.com/news/articles/cp8p1l7gp1po</link>
-      <guid isPermaLink="false">4068cdf352e3034c</guid>
-      <pubDate>Fri, 22 May 2026 17:57:25 +0000</pubDate>
-      <description>Der India-Africa-Gipfel wurde kurzfristig verschoben, nachdem die Sorge vor einer Ausweitung des Ebola-Ausbruchs zugenommen hat.
-Quelle: BBC World
-Zeit: 2026-05-22T17:57:25Z</description>
-      <category>Internationale Ereignisse</category>
-    </item>
-    <item>
-      <title>MITTEL — Ukraine-Krieg / IT-Sicherheit — Belarus-nahe Hacker greifen ukrainische Behörden mit Fake-Zertifikaten an</title>
-      <link>https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine</link>
-      <guid isPermaLink="false">62e99bfce411ab4f</guid>
-      <pubDate>Fri, 22 May 2026 17:57:13 +0000</pubDate>
-      <description>Die GhostWriter-Gruppe verschickt gefälschte Schulungszertifikate, um ukrainische Regierungsmitarbeiter mit Malware zu kompromittieren.
-Quelle: The Record
-Zeit: 2026-05-22T17:57:13Z</description>
-      <category>Ukraine-Krieg / IT-Sicherheit</category>
     </item>
   </channel>
 </rss>
