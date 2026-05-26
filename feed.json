@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "a6d2a47b93184b54",
+      "url": "https://therecord.media/lithuania-investigates-theft-of-state-records",
+      "title": "MITTEL — IT-Sicherheit — Lithuania investigates theft of 600,000 state registry records by foreign actor",
+      "content_text": "Litauen untersucht den Diebstahl von mehr als 600.000 Datensätzen aus staatlichen Registern nach unbefugtem Zugriff auf die zentrale Registerbehörde.\nQuelle: The Record RSS\nZeit: 2026-05-26T15:40:21Z",
+      "date_published": "2026-05-26T15:40:21Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
+      "id": "0d0fbf7e37ff718d",
+      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Iran-Krieg — Iran condemns US strikes as 'gross violation' of ceasefire",
+      "content_text": "Iran verurteilt US-Angriffe als groben Bruch einer Waffenruhe; laut BBC liefen die Angriffe während Gesprächen iranischer und katarischer Unterhändler in Doha.\nQuelle: BBC World RSS\nZeit: 2026-05-26T15:40:12Z",
+      "date_published": "2026-05-26T15:40:12Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "bc67ee673aa2606b",
       "url": "https://www.bbc.com/news/articles/cx211rgngp0o",
       "title": "HOCH — Internationale Ereignisse — Eleven killed in Lebanon village as Israel intensifies strikes",
@@ -779,39 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "c12e10d271ab7763",
-      "url": "https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine",
-      "title": "MITTEL — IT-Sicherheit / Ukraine — Belarus-linked hackers use fake training certificates to target Ukrainian officials",
-      "content_text": "The Record berichtet über eine neue GhostWriter-Kampagne: Belarus-nahe Angreifer verschicken gefälschte Schulungszertifikate, um ukrainische Regierungsmitarbeiter mit Malware zu infizieren.\nQuelle: The Record\nZeit: 2026-05-22T11:57:06Z",
-      "date_published": "2026-05-22T11:57:06Z",
-      "tags": [
-        "IT-Sicherheit / Ukraine",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "0165abe4c9cc8d7d",
-      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Iran-Krieg / internationale Sicherheit — US navy chief says bn arms sale to Taiwan paused due to Iran war",
-      "content_text": "US-Marinechef Hung Cao sagte laut BBC, der geplante Waffenverkauf an Taiwan im Wert von 14 Milliarden Dollar werde pausiert, damit Munition für den Iran-Krieg verfügbar bleibt.\nQuelle: BBC World\nZeit: 2026-05-22T11:57:05Z",
-      "date_published": "2026-05-22T11:57:05Z",
-      "tags": [
-        "Iran-Krieg / internationale Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-26T13:40:55.268032Z"
+  "generated_at": "2026-05-26T15:40:55.264979Z"
 }

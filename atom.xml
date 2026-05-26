@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-26T13:40:55.268032Z</updated>
+  <updated>2026-05-26T15:40:55.264979Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — Lithuania investigates theft of 600,000 state registry records by foreign actor</title>
+    <id>a6d2a47b93184b54</id>
+    <updated>2026-05-26T15:40:21Z</updated>
+    <link href="https://therecord.media/lithuania-investigates-theft-of-state-records" />
+    <summary>Litauen untersucht den Diebstahl von mehr als 600.000 Datensätzen aus staatlichen Registern nach unbefugtem Zugriff auf die zentrale Registerbehörde.
+Quelle: The Record RSS
+Zeit: 2026-05-26T15:40:21Z</summary>
+  </entry>
+  <entry>
+    <title>HOCH — Iran-Krieg — Iran condemns US strikes as 'gross violation' of ceasefire</title>
+    <id>0d0fbf7e37ff718d</id>
+    <updated>2026-05-26T15:40:12Z</updated>
+    <link href="https://www.bbc.com/news/articles/c4g44yl7q70o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Iran verurteilt US-Angriffe als groben Bruch einer Waffenruhe; laut BBC liefen die Angriffe während Gesprächen iranischer und katarischer Unterhändler in Doha.
+Quelle: BBC World RSS
+Zeit: 2026-05-26T15:40:12Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Internationale Ereignisse — Eleven killed in Lebanon village as Israel intensifies strikes</title>
     <id>bc67ee673aa2606b</id>
@@ -440,23 +458,5 @@ Zeit: 2026-05-22T13:57:10Z</summary>
     <summary>Der US-Marinechef sagte laut BBC, der bereits angekündigte Waffenverkauf an Taiwan werde pausiert, um Munition für den Iran-Krieg vorzuhalten.
 Quelle: BBC World
 Zeit: 2026-05-22T13:57:09Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit / Ukraine — Belarus-linked hackers use fake training certificates to target Ukrainian officials</title>
-    <id>c12e10d271ab7763</id>
-    <updated>2026-05-22T11:57:06Z</updated>
-    <link href="https://therecord.media/oysterfresh-belarus-linked-campaign-targets-ukraine" />
-    <summary>The Record berichtet über eine neue GhostWriter-Kampagne: Belarus-nahe Angreifer verschicken gefälschte Schulungszertifikate, um ukrainische Regierungsmitarbeiter mit Malware zu infizieren.
-Quelle: The Record
-Zeit: 2026-05-22T11:57:06Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran-Krieg / internationale Sicherheit — US navy chief says bn arms sale to Taiwan paused due to Iran war</title>
-    <id>0165abe4c9cc8d7d</id>
-    <updated>2026-05-22T11:57:05Z</updated>
-    <link href="https://www.bbc.com/news/articles/c232z4yk437o?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>US-Marinechef Hung Cao sagte laut BBC, der geplante Waffenverkauf an Taiwan im Wert von 14 Milliarden Dollar werde pausiert, damit Munition für den Iran-Krieg verfügbar bleibt.
-Quelle: BBC World
-Zeit: 2026-05-22T11:57:05Z</summary>
   </entry>
 </feed>
