@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "bc67ee673aa2606b",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o",
+      "title": "HOCH — Internationale Ereignisse — Eleven killed in Lebanon village as Israel intensifies strikes",
+      "content_text": "Bei verstärkten israelischen Angriffen im Libanon wurden laut BBC in einem Dorf elf Menschen getötet; Israel spricht von Angriffen auf Hezbollah-Infrastruktur.\nQuelle: BBC World\nZeit: 2026-05-26T13:40:37Z",
+      "date_published": "2026-05-26T13:40:37Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "aa7bffdf2e477de8",
+      "url": "https://therecord.media/andrei-kozlov-appointed-russia-security-council",
+      "title": "MITTEL — IT-Sicherheit — Kremlin appoints cyber executive with alleged GRU ties to Security Council role",
+      "content_text": "Russland beruft einen Cyber-Manager mit mutmaßlichen GRU-Verbindungen in eine Rolle beim Sicherheitsrat, was auf eine weitere Verzahnung von Staat und Cyberapparat hindeutet.\nQuelle: The Record\nZeit: 2026-05-26T13:40:37Z",
+      "date_published": "2026-05-26T13:40:37Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record"
+        }
+      ]
+    },
+    {
       "id": "a2e9f4939eb1c40f",
       "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — AI-News — Streeting backs under-16s social media ban as government consultation concludes",
@@ -779,39 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "fc341d2278b2dc29",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Europa / Sicherheitspolitik — Nato chief welcomes US sending 5,000 troops to Poland",
-      "content_text": "Laut BBC begrüßt der Nato-Generalsekretär die angekündigte Entsendung von 5.000 US-Soldaten nach Polen vor einem Treffen der Nato-Außenminister.\nQuelle: BBC World\nZeit: 2026-05-22T11:57:05Z",
-      "date_published": "2026-05-22T11:57:05Z",
-      "tags": [
-        "Europa / Sicherheitspolitik",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "080abcbd6f5cb135",
-      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Iran-Krieg — US navy chief says bn arms sale to Taiwan paused due to Iran war",
-      "content_text": "Die USA setzen laut BBC einen 14-Milliarden-Dollar-Waffendeal mit Taiwan vorerst aus, um Munition für den Iran-Krieg vorzuhalten.\nQuelle: bbc.com\nZeit: 2026-05-22T09:58:09Z",
-      "date_published": "2026-05-22T09:58:09Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "bbc.com"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-26T11:40:21.780577Z"
+  "generated_at": "2026-05-26T13:40:55.268032Z"
 }

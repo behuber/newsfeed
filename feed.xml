@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 26 May 2026 11:40:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 13:40:55 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Internationale Ereignisse — Eleven killed in Lebanon village as Israel intensifies strikes</title>
+      <link>https://www.bbc.com/news/articles/cx211rgngp0o</link>
+      <guid isPermaLink="false">bc67ee673aa2606b</guid>
+      <pubDate>Tue, 26 May 2026 13:40:37 +0000</pubDate>
+      <description>Bei verstärkten israelischen Angriffen im Libanon wurden laut BBC in einem Dorf elf Menschen getötet; Israel spricht von Angriffen auf Hezbollah-Infrastruktur.
+Quelle: BBC World
+Zeit: 2026-05-26T13:40:37Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Kremlin appoints cyber executive with alleged GRU ties to Security Council role</title>
+      <link>https://therecord.media/andrei-kozlov-appointed-russia-security-council</link>
+      <guid isPermaLink="false">aa7bffdf2e477de8</guid>
+      <pubDate>Tue, 26 May 2026 13:40:37 +0000</pubDate>
+      <description>Russland beruft einen Cyber-Manager mit mutmaßlichen GRU-Verbindungen in eine Rolle beim Sicherheitsrat, was auf eine weitere Verzahnung von Staat und Cyberapparat hindeutet.
+Quelle: The Record
+Zeit: 2026-05-26T13:40:37Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>MITTEL — AI-News — Streeting backs under-16s social media ban as government consultation concludes</title>
       <link>https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_campaign=rss&amp;at_medium=RSS</link>
@@ -487,26 +507,6 @@ Zeit: 2026-05-22T11:57:06Z</description>
 Quelle: BBC World
 Zeit: 2026-05-22T11:57:05Z</description>
       <category>Iran-Krieg / internationale Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Europa / Sicherheitspolitik — Nato chief welcomes US sending 5,000 troops to Poland</title>
-      <link>https://www.bbc.com/news/articles/cedpz9669deo?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">fc341d2278b2dc29</guid>
-      <pubDate>Fri, 22 May 2026 11:57:05 +0000</pubDate>
-      <description>Laut BBC begrüßt der Nato-Generalsekretär die angekündigte Entsendung von 5.000 US-Soldaten nach Polen vor einem Treffen der Nato-Außenminister.
-Quelle: BBC World
-Zeit: 2026-05-22T11:57:05Z</description>
-      <category>Europa / Sicherheitspolitik</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — US navy chief says bn arms sale to Taiwan paused due to Iran war</title>
-      <link>https://www.bbc.com/news/articles/c232z4yk437o?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">080abcbd6f5cb135</guid>
-      <pubDate>Fri, 22 May 2026 09:58:09 +0000</pubDate>
-      <description>Die USA setzen laut BBC einen 14-Milliarden-Dollar-Waffendeal mit Taiwan vorerst aus, um Munition für den Iran-Krieg vorzuhalten.
-Quelle: bbc.com
-Zeit: 2026-05-22T09:58:09Z</description>
-      <category>Iran-Krieg</category>
     </item>
   </channel>
 </rss>
