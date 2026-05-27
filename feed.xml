@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 27 May 2026 11:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 13:40:55 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — IT-Sicherheit — Iranian intelligence service behind hack of LA transit system, researchers say</title>
+      <link>https://therecord.media/iranian-intelligence-behind-hack-of-la-transit-system</link>
+      <guid isPermaLink="false">86b75da7ee559682</guid>
+      <pubDate>Wed, 27 May 2026 13:40:26 +0000</pubDate>
+      <description>The Record berichtet, dass Forscher den Hack des Verkehrssystems von Los Angeles dem iranischen Geheimdienst MOIS zuordnen.
+Quelle: The Record RSS
+Zeit: 2026-05-27T13:40:26Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Nahost — Dozens killed in Lebanon as Israel intensifies strikes</title>
       <link>https://www.bbc.com/news/articles/cx211rgngp0o</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-24T09:57:16Z</description>
 Quelle: BBC World RSS
 Zeit: 2026-05-24T07:57:14Z</description>
       <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog</title>
-      <link>https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev</link>
-      <guid isPermaLink="false">c1805361ec690598</guid>
-      <pubDate>Sun, 24 May 2026 07:57:14 +0000</pubDate>
-      <description>The Record meldet, dass CISA ein Meldeformular eingeführt hat, damit Forschende und Anbieter Schwachstellen für den KEV-Katalog einreichen können.
-Quelle: The Record RSS
-Zeit: 2026-05-24T07:57:14Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>

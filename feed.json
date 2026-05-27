@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "86b75da7ee559682",
+      "url": "https://therecord.media/iranian-intelligence-behind-hack-of-la-transit-system",
+      "title": "HOCH — IT-Sicherheit — Iranian intelligence service behind hack of LA transit system, researchers say",
+      "content_text": "The Record berichtet, dass Forscher den Hack des Verkehrssystems von Los Angeles dem iranischen Geheimdienst MOIS zuordnen.\nQuelle: The Record RSS\nZeit: 2026-05-27T13:40:26Z",
+      "date_published": "2026-05-27T13:40:26Z",
+      "tags": [
+        "IT-Sicherheit",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
       "id": "aaa2d01d67739562",
       "url": "https://www.bbc.com/news/articles/cx211rgngp0o",
       "title": "HOCH — Nahost — Dozens killed in Lebanon as Israel intensifies strikes",
@@ -795,23 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "c1805361ec690598",
-      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
-      "title": "MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
-      "content_text": "The Record meldet, dass CISA ein Meldeformular eingeführt hat, damit Forschende und Anbieter Schwachstellen für den KEV-Katalog einreichen können.\nQuelle: The Record RSS\nZeit: 2026-05-24T07:57:14Z",
-      "date_published": "2026-05-24T07:57:14Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-27T11:40:57.033697Z"
+  "generated_at": "2026-05-27T13:40:55.440114Z"
 }
