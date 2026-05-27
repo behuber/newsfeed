@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-27T17:41:11.493188Z</updated>
+  <updated>2026-05-27T19:41:21.086394Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>MITTEL — Internationale Ereignisse — Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns</title>
+    <id>6c94a8cc1ec25647</id>
+    <updated>2026-05-27T19:40:28Z</updated>
+    <link href="https://www.bbc.com/news/articles/cdxpdex062yo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>Die WHO warnt, dass sich im Osten der DR Kongo Ebola-Ausbruch und bewaffneter Konflikt zu einer katastrophalen Lage überlagern und Gegenmaßnahmen behindern.
+Quelle: BBC World
+Zeit: 2026-05-27T19:40:28Z</summary>
+  </entry>
   <entry>
     <title>MITTEL — Internationale Ereignisse — Israel strikes Tyre after ordering evacuation of south Lebanon city</title>
     <id>6c08ce6afd53034a</id>
@@ -448,15 +457,6 @@ Zeit: 2026-05-24T11:57:13Z</summary>
     <link href="https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&amp;at_medium=RSS" />
     <summary>BBC meldet einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; Russland habe dabei auch den Oreshnik-Hyperschallflugkörper eingesetzt.
 Quelle: BBC World
-Zeit: 2026-05-24T09:57:16Z</summary>
-  </entry>
-  <entry>
-    <title>MITTEL — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks</title>
-    <id>a0be641e89f5da0c</id>
-    <updated>2026-05-24T09:57:16Z</updated>
-    <link href="https://therecord.media/fbi-warns-of-kali365-phishing-attacks" />
-    <summary>The Record meldet eine FBI-Warnung zu Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und so breiten Zugriff auf Microsoft-365-Umgebungen ermöglicht.
-Quelle: The Record
 Zeit: 2026-05-24T09:57:16Z</summary>
   </entry>
 </feed>

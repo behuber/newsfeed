@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 27 May 2026 17:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 19:41:21 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Internationale Ereignisse — Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns</title>
+      <link>https://www.bbc.com/news/articles/cdxpdex062yo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">6c94a8cc1ec25647</guid>
+      <pubDate>Wed, 27 May 2026 19:40:28 +0000</pubDate>
+      <description>Die WHO warnt, dass sich im Osten der DR Kongo Ebola-Ausbruch und bewaffneter Konflikt zu einer katastrophalen Lage überlagern und Gegenmaßnahmen behindern.
+Quelle: BBC World
+Zeit: 2026-05-27T19:40:28Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
     <item>
       <title>MITTEL — Internationale Ereignisse — Israel strikes Tyre after ordering evacuation of south Lebanon city</title>
       <link>https://www.bbc.com/news/articles/cj3pgrpmlklo?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-24T11:57:13Z</description>
 Quelle: BBC World
 Zeit: 2026-05-24T09:57:16Z</description>
       <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks</title>
-      <link>https://therecord.media/fbi-warns-of-kali365-phishing-attacks</link>
-      <guid isPermaLink="false">a0be641e89f5da0c</guid>
-      <pubDate>Sun, 24 May 2026 09:57:16 +0000</pubDate>
-      <description>The Record meldet eine FBI-Warnung zu Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und so breiten Zugriff auf Microsoft-365-Umgebungen ermöglicht.
-Quelle: The Record
-Zeit: 2026-05-24T09:57:16Z</description>
-      <category>IT-Sicherheit</category>
     </item>
   </channel>
 </rss>

@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "6c94a8cc1ec25647",
+      "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Internationale Ereignisse — Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+      "content_text": "Die WHO warnt, dass sich im Osten der DR Kongo Ebola-Ausbruch und bewaffneter Konflikt zu einer katastrophalen Lage überlagern und Gegenmaßnahmen behindern.\nQuelle: BBC World\nZeit: 2026-05-27T19:40:28Z",
+      "date_published": "2026-05-27T19:40:28Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "6c08ce6afd53034a",
       "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — Internationale Ereignisse — Israel strikes Tyre after ordering evacuation of south Lebanon city",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "a0be641e89f5da0c",
-      "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
-      "title": "MITTEL — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks",
-      "content_text": "The Record meldet eine FBI-Warnung zu Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und so breiten Zugriff auf Microsoft-365-Umgebungen ermöglicht.\nQuelle: The Record\nZeit: 2026-05-24T09:57:16Z",
-      "date_published": "2026-05-24T09:57:16Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-27T17:41:11.493188Z"
+  "generated_at": "2026-05-27T19:41:21.086394Z"
 }
