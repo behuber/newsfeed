@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 27 May 2026 07:40:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:40:55 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — internationale ereignisse — Israeli strike in Gaza City kills new head of Hamas's military wing</title>
+      <link>https://www.bbc.com/news/articles/cjwppj1yn7go</link>
+      <guid isPermaLink="false">edb188d1b0c83dab</guid>
+      <pubDate>Wed, 27 May 2026 09:40:18 +0000</pubDate>
+      <description>BBC berichtet, dass ein israelischer Angriff in Gaza-Stadt den neuen Chef des militärischen Hamas-Flügels getötet hat, obwohl eine Waffenruhe mit Hamas bestand.
+Quelle: BBC World
+Zeit: 2026-05-27T09:40:18Z</description>
+      <category>internationale ereignisse</category>
+    </item>
     <item>
       <title>HOCH — Ukraine-Krieg — Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says</title>
       <link>https://www.bbc.com/news/articles/c4g44gprnnvo?at_campaign=rss&amp;at_medium=RSS</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-24T07:57:13Z</description>
 Quelle: BBC World
 Zeit: 2026-05-24T05:57:09Z</description>
       <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Trump meldet weit fortgeschrittenen Iran-Deal inklusive Straße von Hormus</title>
-      <link>https://www.bbc.com/news/articles/crmp121z3z8o</link>
-      <guid isPermaLink="false">09bcb6fe577c2583</guid>
-      <pubDate>Sun, 24 May 2026 05:57:09 +0000</pubDate>
-      <description>Laut BBC spricht Trump von einem weitgehend ausgehandelten Abkommen mit Iran; Teheran signalisiert Fortschritte, zentrale Nuklearfragen seien aber noch nicht Teil des ersten Rahmens.
-Quelle: BBC World
-Zeit: 2026-05-24T05:57:09Z</description>
-      <category>Iran-Krieg</category>
     </item>
   </channel>
 </rss>

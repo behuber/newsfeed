@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-27T07:40:54.411935Z</updated>
+  <updated>2026-05-27T09:40:55.529086Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — internationale ereignisse — Israeli strike in Gaza City kills new head of Hamas's military wing</title>
+    <id>edb188d1b0c83dab</id>
+    <updated>2026-05-27T09:40:18Z</updated>
+    <link href="https://www.bbc.com/news/articles/cjwppj1yn7go" />
+    <summary>BBC berichtet, dass ein israelischer Angriff in Gaza-Stadt den neuen Chef des militärischen Hamas-Flügels getötet hat, obwohl eine Waffenruhe mit Hamas bestand.
+Quelle: BBC World
+Zeit: 2026-05-27T09:40:18Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says</title>
     <id>dd404c761d6c1761</id>
@@ -447,15 +456,6 @@ Zeit: 2026-05-24T07:57:13Z</summary>
     <updated>2026-05-24T05:57:09Z</updated>
     <link href="https://www.bbc.com/news/articles/clyp6831yp5o" />
     <summary>BBC meldet neue russische Angriffe auf die Ukraine mit mindestens einem Toten und 21 Verletzten; Schäden wurden aus allen Bezirken Kyjiws gemeldet.
-Quelle: BBC World
-Zeit: 2026-05-24T05:57:09Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran-Krieg — Trump meldet weit fortgeschrittenen Iran-Deal inklusive Straße von Hormus</title>
-    <id>09bcb6fe577c2583</id>
-    <updated>2026-05-24T05:57:09Z</updated>
-    <link href="https://www.bbc.com/news/articles/crmp121z3z8o" />
-    <summary>Laut BBC spricht Trump von einem weitgehend ausgehandelten Abkommen mit Iran; Teheran signalisiert Fortschritte, zentrale Nuklearfragen seien aber noch nicht Teil des ersten Rahmens.
 Quelle: BBC World
 Zeit: 2026-05-24T05:57:09Z</summary>
   </entry>

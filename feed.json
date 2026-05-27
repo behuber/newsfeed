@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "edb188d1b0c83dab",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go",
+      "title": "HOCH — internationale ereignisse — Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "content_text": "BBC berichtet, dass ein israelischer Angriff in Gaza-Stadt den neuen Chef des militärischen Hamas-Flügels getötet hat, obwohl eine Waffenruhe mit Hamas bestand.\nQuelle: BBC World\nZeit: 2026-05-27T09:40:18Z",
+      "date_published": "2026-05-27T09:40:18Z",
+      "tags": [
+        "internationale ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "dd404c761d6c1761",
       "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_campaign=rss&at_medium=RSS",
       "title": "HOCH — Ukraine-Krieg — Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "09bcb6fe577c2583",
-      "url": "https://www.bbc.com/news/articles/crmp121z3z8o",
-      "title": "HOCH — Iran-Krieg — Trump meldet weit fortgeschrittenen Iran-Deal inklusive Straße von Hormus",
-      "content_text": "Laut BBC spricht Trump von einem weitgehend ausgehandelten Abkommen mit Iran; Teheran signalisiert Fortschritte, zentrale Nuklearfragen seien aber noch nicht Teil des ersten Rahmens.\nQuelle: BBC World\nZeit: 2026-05-24T05:57:09Z",
-      "date_published": "2026-05-24T05:57:09Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-27T07:40:54.411935Z"
+  "generated_at": "2026-05-27T09:40:55.529086Z"
 }
