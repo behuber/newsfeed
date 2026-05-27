@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 27 May 2026 15:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 17:41:11 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>MITTEL — Internationale Ereignisse — Israel strikes Tyre after ordering evacuation of south Lebanon city</title>
+      <link>https://www.bbc.com/news/articles/cj3pgrpmlklo?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">6c08ce6afd53034a</guid>
+      <pubDate>Wed, 27 May 2026 17:40:19 +0000</pubDate>
+      <description>Israel meldet Angriffe auf Ziele in Tyre im Südlibanon, nachdem Bewohner zur Evakuierung aufgefordert wurden.
+Quelle: BBC World
+Zeit: 2026-05-27T17:40:19Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
     <item>
       <title>HOCH — IT-Sicherheit — Iranian intelligence service behind hack of LA transit system, researchers say</title>
       <link>https://therecord.media/iranian-intelligence-behind-hack-of-la-transit-system</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-24T09:57:16Z</description>
 Quelle: The Record
 Zeit: 2026-05-24T09:57:16Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Trump says Iran deal largely negotiated including reopening Strait of Hormuz</title>
-      <link>https://www.bbc.com/news/articles/crmp121z3z8o</link>
-      <guid isPermaLink="false">b9b82a2bed87ec0c</guid>
-      <pubDate>Sun, 24 May 2026 07:57:14 +0000</pubDate>
-      <description>BBC meldet deutliche Fortschritte bei Verhandlungen mit Iran; genannt werden ein weitgehend ausverhandelter Deal und die Wiederöffnung der Straße von Hormus.
-Quelle: BBC World RSS
-Zeit: 2026-05-24T07:57:14Z</description>
-      <category>Iran-Krieg</category>
     </item>
   </channel>
 </rss>

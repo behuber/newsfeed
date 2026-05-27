@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "6c08ce6afd53034a",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Internationale Ereignisse — Israel strikes Tyre after ordering evacuation of south Lebanon city",
+      "content_text": "Israel meldet Angriffe auf Ziele in Tyre im Südlibanon, nachdem Bewohner zur Evakuierung aufgefordert wurden.\nQuelle: BBC World\nZeit: 2026-05-27T17:40:19Z",
+      "date_published": "2026-05-27T17:40:19Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "86b75da7ee559682",
       "url": "https://therecord.media/iranian-intelligence-behind-hack-of-la-transit-system",
       "title": "HOCH — IT-Sicherheit — Iranian intelligence service behind hack of LA transit system, researchers say",
@@ -795,23 +811,7 @@
           "name": "The Record"
         }
       ]
-    },
-    {
-      "id": "b9b82a2bed87ec0c",
-      "url": "https://www.bbc.com/news/articles/crmp121z3z8o",
-      "title": "HOCH — Iran-Krieg — Trump says Iran deal largely negotiated including reopening Strait of Hormuz",
-      "content_text": "BBC meldet deutliche Fortschritte bei Verhandlungen mit Iran; genannt werden ein weitgehend ausverhandelter Deal und die Wiederöffnung der Straße von Hormus.\nQuelle: BBC World RSS\nZeit: 2026-05-24T07:57:14Z",
-      "date_published": "2026-05-24T07:57:14Z",
-      "tags": [
-        "Iran-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-27T15:41:11.723030Z"
+  "generated_at": "2026-05-27T17:41:11.493188Z"
 }
