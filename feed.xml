@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 27 May 2026 09:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:40:57 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Nahost — Dozens killed in Lebanon as Israel intensifies strikes</title>
+      <link>https://www.bbc.com/news/articles/cx211rgngp0o</link>
+      <guid isPermaLink="false">aaa2d01d67739562</guid>
+      <pubDate>Wed, 27 May 2026 11:40:21 +0000</pubDate>
+      <description>BBC berichtet über dutzende Tote im Libanon, nachdem Israel seine Angriffe laut eigener Darstellung auf Hisbollah-Ziele deutlich ausgeweitet hat.
+Quelle: BBC World
+Zeit: 2026-05-27T11:40:21Z</description>
+      <category>Nahost</category>
+    </item>
+    <item>
+      <title>HOCH — Nahost — Israeli strike in Gaza City kills new head of Hamas's military wing</title>
+      <link>https://www.bbc.com/news/articles/cjwppj1yn7go</link>
+      <guid isPermaLink="false">eec2234b66487c7e</guid>
+      <pubDate>Wed, 27 May 2026 11:40:20 +0000</pubDate>
+      <description>BBC meldet einen israelischen Angriff in Gaza-Stadt, bei dem der neue Chef des militärischen Hamas-Flügels getötet worden sein soll, trotz bestehender Waffenruhe.
+Quelle: BBC World
+Zeit: 2026-05-27T11:40:20Z</description>
+      <category>Nahost</category>
+    </item>
     <item>
       <title>HOCH — internationale ereignisse — Israeli strike in Gaza City kills new head of Hamas's military wing</title>
       <link>https://www.bbc.com/news/articles/cjwppj1yn7go</link>
@@ -487,26 +507,6 @@ Zeit: 2026-05-24T07:57:14Z</description>
 Quelle: The Record RSS
 Zeit: 2026-05-24T07:57:14Z</description>
       <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Ukraine-Krieg — Four dead and dozens injured in wave of Russian strikes on Kyiv</title>
-      <link>https://www.bbc.com/news/articles/clyp6831yp5o</link>
-      <guid isPermaLink="false">869fecab0d3fde2e</guid>
-      <pubDate>Sun, 24 May 2026 07:57:13 +0000</pubDate>
-      <description>BBC berichtet über eine neue Welle russischer Angriffe auf Kyjiw und Umgebung mit mindestens vier Toten und über 50 Verletzten, darunter Kinder.
-Quelle: BBC World RSS
-Zeit: 2026-05-24T07:57:13Z</description>
-      <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — Ukraine-Krieg — Russland greift Ukraine in mehreren Wellen an, Schäden in ganz Kyjiw</title>
-      <link>https://www.bbc.com/news/articles/clyp6831yp5o</link>
-      <guid isPermaLink="false">8345964e0bd60651</guid>
-      <pubDate>Sun, 24 May 2026 05:57:09 +0000</pubDate>
-      <description>BBC meldet neue russische Angriffe auf die Ukraine mit mindestens einem Toten und 21 Verletzten; Schäden wurden aus allen Bezirken Kyjiws gemeldet.
-Quelle: BBC World
-Zeit: 2026-05-24T05:57:09Z</description>
-      <category>Ukraine-Krieg</category>
     </item>
   </channel>
 </rss>

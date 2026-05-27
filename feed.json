@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "aaa2d01d67739562",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o",
+      "title": "HOCH — Nahost — Dozens killed in Lebanon as Israel intensifies strikes",
+      "content_text": "BBC berichtet über dutzende Tote im Libanon, nachdem Israel seine Angriffe laut eigener Darstellung auf Hisbollah-Ziele deutlich ausgeweitet hat.\nQuelle: BBC World\nZeit: 2026-05-27T11:40:21Z",
+      "date_published": "2026-05-27T11:40:21Z",
+      "tags": [
+        "Nahost",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "eec2234b66487c7e",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go",
+      "title": "HOCH — Nahost — Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "content_text": "BBC meldet einen israelischen Angriff in Gaza-Stadt, bei dem der neue Chef des militärischen Hamas-Flügels getötet worden sein soll, trotz bestehender Waffenruhe.\nQuelle: BBC World\nZeit: 2026-05-27T11:40:20Z",
+      "date_published": "2026-05-27T11:40:20Z",
+      "tags": [
+        "Nahost",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "edb188d1b0c83dab",
       "url": "https://www.bbc.com/news/articles/cjwppj1yn7go",
       "title": "HOCH — internationale ereignisse — Israeli strike in Gaza City kills new head of Hamas's military wing",
@@ -779,39 +811,7 @@
           "name": "The Record RSS"
         }
       ]
-    },
-    {
-      "id": "869fecab0d3fde2e",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o",
-      "title": "HOCH — Ukraine-Krieg — Four dead and dozens injured in wave of Russian strikes on Kyiv",
-      "content_text": "BBC berichtet über eine neue Welle russischer Angriffe auf Kyjiw und Umgebung mit mindestens vier Toten und über 50 Verletzten, darunter Kinder.\nQuelle: BBC World RSS\nZeit: 2026-05-24T07:57:13Z",
-      "date_published": "2026-05-24T07:57:13Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
-    },
-    {
-      "id": "8345964e0bd60651",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o",
-      "title": "HOCH — Ukraine-Krieg — Russland greift Ukraine in mehreren Wellen an, Schäden in ganz Kyjiw",
-      "content_text": "BBC meldet neue russische Angriffe auf die Ukraine mit mindestens einem Toten und 21 Verletzten; Schäden wurden aus allen Bezirken Kyjiws gemeldet.\nQuelle: BBC World\nZeit: 2026-05-24T05:57:09Z",
-      "date_published": "2026-05-24T05:57:09Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-27T09:40:55.529086Z"
+  "generated_at": "2026-05-27T11:40:57.033697Z"
 }
