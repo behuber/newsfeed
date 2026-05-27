@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "3810353d5866b1f4",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Nahost/Iran — Dozens killed in Lebanon as Israel intensifies strikes",
+      "content_text": "BBC berichtet über dutzende Tote im Libanon, nachdem Israel seine Angriffe ausgeweitet und laut eigener Darstellung 100 Hisbollah-Ziele attackiert hat.\nQuelle: BBC World RSS\nZeit: 2026-05-27T05:40:12Z",
+      "date_published": "2026-05-27T05:40:12Z",
+      "tags": [
+        "Nahost/Iran",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
+      "id": "a6d2a47b93184b54",
+      "url": "https://therecord.media/lithuania-investigates-theft-of-state-records",
+      "title": "MITTEL — IT-Sicherheit — Lithuania investigates theft of 600,000 state registry records by foreign actor",
+      "content_text": "The Record berichtet, dass Litauen den Diebstahl von mehr als 600.000 Datensätzen aus staatlichen Registern durch einen ausländischen Akteur untersucht.\nQuelle: The Record RSS\nZeit: 2026-05-27T05:40:12Z",
+      "date_published": "2026-05-27T05:40:12Z",
+      "tags": [
+        "IT-Sicherheit",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "The Record RSS"
+        }
+      ]
+    },
+    {
       "id": "d589612e546b97fb",
       "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_campaign=rss&at_medium=RSS",
       "title": "HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave",
@@ -779,39 +811,7 @@
           "name": "BBC Technology"
         }
       ]
-    },
-    {
-      "id": "a0be641e89f5da0c",
-      "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
-      "title": "HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks",
-      "content_text": "Das FBI warnt vor Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und damit breite Zugriffe auf Microsoft-365-Umgebungen ermöglicht.\nQuelle: The Record\nZeit: 2026-05-22T21:57:08Z",
-      "date_published": "2026-05-22T21:57:08Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "a9b6f1b1ac2758aa",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o",
-      "title": "HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "content_text": "Russlands Präsident Putin kündigt Vergeltung an, nachdem Moskau der Ukraine einen Angriff auf ein Studentenwohnheim vorwirft; Kiew erklärte laut BBC, eine Elite-Drohneneinheit im besetzten Osten getroffen zu haben.\nQuelle: BBC World\nZeit: 2026-05-22T19:57:16Z",
-      "date_published": "2026-05-22T19:57:16Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-27T03:40:53.886295Z"
+  "generated_at": "2026-05-27T05:40:55.046932Z"
 }

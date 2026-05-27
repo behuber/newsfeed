@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-27T03:40:53.886295Z</updated>
+  <updated>2026-05-27T05:40:55.046932Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Nahost/Iran — Dozens killed in Lebanon as Israel intensifies strikes</title>
+    <id>3810353d5866b1f4</id>
+    <updated>2026-05-27T05:40:12Z</updated>
+    <link href="https://www.bbc.com/news/articles/cx211rgngp0o?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>BBC berichtet über dutzende Tote im Libanon, nachdem Israel seine Angriffe ausgeweitet und laut eigener Darstellung 100 Hisbollah-Ziele attackiert hat.
+Quelle: BBC World RSS
+Zeit: 2026-05-27T05:40:12Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — IT-Sicherheit — Lithuania investigates theft of 600,000 state registry records by foreign actor</title>
+    <id>a6d2a47b93184b54</id>
+    <updated>2026-05-27T05:40:12Z</updated>
+    <link href="https://therecord.media/lithuania-investigates-theft-of-state-records" />
+    <summary>The Record berichtet, dass Litauen den Diebstahl von mehr als 600.000 Datensätzen aus staatlichen Registern durch einen ausländischen Akteur untersucht.
+Quelle: The Record RSS
+Zeit: 2026-05-27T05:40:12Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
     <id>d589612e546b97fb</id>
@@ -440,23 +458,5 @@ Zeit: 2026-05-23T07:57:22Z</summary>
     <summary>Forscher berichten, dass KI die Suche nach bezahlbaren Medikamenten gegen neurologische Erkrankungen wie MND beschleunigen könnte.
 Quelle: BBC Technology
 Zeit: 2026-05-23T05:57:28Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks</title>
-    <id>a0be641e89f5da0c</id>
-    <updated>2026-05-22T21:57:08Z</updated>
-    <link href="https://therecord.media/fbi-warns-of-kali365-phishing-attacks" />
-    <summary>Das FBI warnt vor Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und damit breite Zugriffe auf Microsoft-365-Umgebungen ermöglicht.
-Quelle: The Record
-Zeit: 2026-05-22T21:57:08Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory</title>
-    <id>a9b6f1b1ac2758aa</id>
-    <updated>2026-05-22T19:57:16Z</updated>
-    <link href="https://www.bbc.com/news/articles/c5y74lwx395o" />
-    <summary>Russlands Präsident Putin kündigt Vergeltung an, nachdem Moskau der Ukraine einen Angriff auf ein Studentenwohnheim vorwirft; Kiew erklärte laut BBC, eine Elite-Drohneneinheit im besetzten Osten getroffen zu haben.
-Quelle: BBC World
-Zeit: 2026-05-22T19:57:16Z</summary>
   </entry>
 </feed>

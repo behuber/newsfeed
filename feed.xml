@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 27 May 2026 03:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 05:40:55 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Nahost/Iran — Dozens killed in Lebanon as Israel intensifies strikes</title>
+      <link>https://www.bbc.com/news/articles/cx211rgngp0o?at_campaign=rss&amp;at_medium=RSS</link>
+      <guid isPermaLink="false">3810353d5866b1f4</guid>
+      <pubDate>Wed, 27 May 2026 05:40:12 +0000</pubDate>
+      <description>BBC berichtet über dutzende Tote im Libanon, nachdem Israel seine Angriffe ausgeweitet und laut eigener Darstellung 100 Hisbollah-Ziele attackiert hat.
+Quelle: BBC World RSS
+Zeit: 2026-05-27T05:40:12Z</description>
+      <category>Nahost/Iran</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Lithuania investigates theft of 600,000 state registry records by foreign actor</title>
+      <link>https://therecord.media/lithuania-investigates-theft-of-state-records</link>
+      <guid isPermaLink="false">a6d2a47b93184b54</guid>
+      <pubDate>Wed, 27 May 2026 05:40:12 +0000</pubDate>
+      <description>The Record berichtet, dass Litauen den Diebstahl von mehr als 600.000 Datensätzen aus staatlichen Registern durch einen ausländischen Akteur untersucht.
+Quelle: The Record RSS
+Zeit: 2026-05-27T05:40:12Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Ukraine-Krieg — Russia threatens more Kyiv strikes and tells foreign nationals to leave</title>
       <link>https://www.bbc.com/news/articles/c1e22n55zn4o?at_campaign=rss&amp;at_medium=RSS</link>
@@ -487,26 +507,6 @@ Zeit: 2026-05-23T07:57:22Z</description>
 Quelle: BBC Technology
 Zeit: 2026-05-23T05:57:28Z</description>
       <category>AI-News</category>
-    </item>
-    <item>
-      <title>HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks</title>
-      <link>https://therecord.media/fbi-warns-of-kali365-phishing-attacks</link>
-      <guid isPermaLink="false">a0be641e89f5da0c</guid>
-      <pubDate>Fri, 22 May 2026 21:57:08 +0000</pubDate>
-      <description>Das FBI warnt vor Kali365, einem Telegram-basierten Phishing-as-a-Service, das OAuth-Tokens abgreift und damit breite Zugriffe auf Microsoft-365-Umgebungen ermöglicht.
-Quelle: The Record
-Zeit: 2026-05-22T21:57:08Z</description>
-      <category>IT-Sicherheit</category>
-    </item>
-    <item>
-      <title>HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory</title>
-      <link>https://www.bbc.com/news/articles/c5y74lwx395o</link>
-      <guid isPermaLink="false">a9b6f1b1ac2758aa</guid>
-      <pubDate>Fri, 22 May 2026 19:57:16 +0000</pubDate>
-      <description>Russlands Präsident Putin kündigt Vergeltung an, nachdem Moskau der Ukraine einen Angriff auf ein Studentenwohnheim vorwirft; Kiew erklärte laut BBC, eine Elite-Drohneneinheit im besetzten Osten getroffen zu haben.
-Quelle: BBC World
-Zeit: 2026-05-22T19:57:16Z</description>
-      <category>Ukraine-Krieg</category>
     </item>
   </channel>
 </rss>
