@@ -13,6 +13,134 @@
   "expired": false,
   "items": [
     {
+      "id": "dd404c761d6c1761",
+      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Ukraine-Krieg — Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
+      "content_text": "The spy agency's head will set out threats facing the UK and the measures she believes need to be taken to confront them on Wednesday.\nQuelle: bbc-world\nZeit: 2026-05-27T07:40:38Z",
+      "date_published": "2026-05-27T07:40:38Z",
+      "tags": [
+        "Ukraine-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "bbc-world"
+        }
+      ]
+    },
+    {
+      "id": "90629451d2edbe28",
+      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI-News — Champion ethical hacker warns AI tools like Mythos will make competing harder",
+      "content_text": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.\nQuelle: bbc-technology\nZeit: 2026-05-27T07:40:38Z",
+      "date_published": "2026-05-27T07:40:38Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "bbc-technology"
+        }
+      ]
+    },
+    {
+      "id": "d4807960b1e86c5e",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — AI-News — AI may speed up search for drugs to treat brain conditions",
+      "content_text": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.\nQuelle: bbc-technology\nZeit: 2026-05-27T07:40:38Z",
+      "date_published": "2026-05-27T07:40:38Z",
+      "tags": [
+        "AI-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "bbc-technology"
+        }
+      ]
+    },
+    {
+      "id": "41cbe84af4cfe2bc",
+      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Steuern — Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+      "content_text": "A Waymo spokesperson said it had expanded the temporary pause \\\"out of an abundance of caution\\\".\nQuelle: bbc-technology\nZeit: 2026-05-27T07:40:38Z",
+      "date_published": "2026-05-27T07:40:38Z",
+      "tags": [
+        "Steuern",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "bbc-technology"
+        }
+      ]
+    },
+    {
+      "id": "4f4ec8309f500793",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Internationale Ereignisse — Israel says new head of Hamas' military wing killed in Gaza City strikes",
+      "content_text": "At least three people were killed in the attacks, which came despite a ceasefire with Hamas being in place.\nQuelle: bbc-world\nZeit: 2026-05-27T07:40:37Z",
+      "date_published": "2026-05-27T07:40:37Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "bbc-world"
+        }
+      ]
+    },
+    {
+      "id": "5a99ccd3ebe668cd",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — Iran-Krieg — Dozens killed in Lebanon as Israel intensifies strikes",
+      "content_text": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \\\"crush\\\" the Iran-backed group.\nQuelle: bbc-world\nZeit: 2026-05-27T07:40:37Z",
+      "date_published": "2026-05-27T07:40:37Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "bbc-world"
+        }
+      ]
+    },
+    {
+      "id": "63c78e5e6a5d1fa0",
+      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Internationale Ereignisse — Iran condemns US strikes as 'gross violation' of ceasefire",
+      "content_text": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.\nQuelle: bbc-world\nZeit: 2026-05-27T07:40:37Z",
+      "date_published": "2026-05-27T07:40:37Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "bbc-world"
+        }
+      ]
+    },
+    {
+      "id": "dd99f11ff68c72c7",
+      "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — Internationale Ereignisse — Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+      "content_text": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.\nQuelle: bbc-world\nZeit: 2026-05-27T07:40:37Z",
+      "date_published": "2026-05-27T07:40:37Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "bbc-world"
+        }
+      ]
+    },
+    {
       "id": "3810353d5866b1f4",
       "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_campaign=rss&at_medium=RSS",
       "title": "HOCH — Nahost/Iran — Dozens killed in Lebanon as Israel intensifies strikes",
@@ -683,135 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "592eade41cd10f7d",
-      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
-      "title": "MITTEL — IT-Sicherheit — CISA öffnet KEV-Meldungen für externe Sicherheitsforscher",
-      "content_text": "The Record berichtet, dass CISA ein Nominierungsformular gestartet hat, über das Forscher und Anbieter aktiv ausgenutzte Schwachstellen für den KEV-Katalog melden können.\nQuelle: The Record\nZeit: 2026-05-24T05:57:09Z",
-      "date_published": "2026-05-24T05:57:09Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "72f7ec1be01fa04b",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o",
-      "title": "MITTEL — Internationale Ereignisse — Rubio meets Modi during India visit with energy high on agenda",
-      "content_text": "Bei Rubios Indien-Besuch steht laut BBC Energie im Zentrum; Hintergrund sind Engpässe infolge des Iran-Kriegs.\nQuelle: BBC World\nZeit: 2026-05-23T13:57:25Z",
-      "date_published": "2026-05-23T13:57:25Z",
-      "tags": [
-        "Internationale Ereignisse",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "a03006b58556f01e",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko",
-      "title": "HOCH — Internationale Ereignisse — At least 90 killed in Chinese coal mine explosion, state media reports",
-      "content_text": "BBC berichtet, dass bei einer Explosion in einem Kohlebergwerk in der chinesischen Provinz Shanxi mindestens 90 Menschen getötet wurden. Es wäre das schwerste Grubenunglück des Landes seit 16 Jahren.\nQuelle: BBC World\nZeit: 2026-05-23T11:57:40Z",
-      "date_published": "2026-05-23T11:57:40Z",
-      "tags": [
-        "Internationale Ereignisse",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "6e4d3ac7a9c7ef61",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o",
-      "title": "MITTEL — Iran-Krieg — Rubio meets Modi during India visit with energy high on agenda",
-      "content_text": "BBC berichtet, dass bei Rubios Indien-Besuch Energieversorgung im Mittelpunkt steht, weil der Iran-Krieg Ausfälle verursacht. Washington will zusätzliche US-Energie nach Indien verkaufen.\nQuelle: BBC World\nZeit: 2026-05-23T11:57:40Z",
-      "date_published": "2026-05-23T11:57:40Z",
-      "tags": [
-        "Iran-Krieg",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "a0be641e89f5da0c",
-      "url": "https://therecord.media/fbi-warns-of-kali365-phishing-attacks",
-      "title": "HOCH — IT-Sicherheit — FBI warns of Kali365 phishing-as-a-service after April Microsoft 365 attacks",
-      "content_text": "The Record berichtet, dass das FBI vor Kali365 warnt, einem Telegram-basierten Phishing-as-a-Service, der OAuth-Tokens abgreift und so breiten Zugriff auf Microsoft-365-Umgebungen ermöglicht.\nQuelle: The Record\nZeit: 2026-05-23T11:57:40Z",
-      "date_published": "2026-05-23T11:57:40Z",
-      "tags": [
-        "IT-Sicherheit",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "a9b6f1b1ac2758aa",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o",
-      "title": "HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "content_text": "Russlands Präsident kündigt Vergeltung an, nachdem Moskau der Ukraine einen Angriff auf ein Studentenwohnheim vorwirft; Kiew meldet stattdessen einen Schlag gegen eine Elite-Drohneneinheit in besetztem Gebiet.\nQuelle: BBC World\nZeit: 2026-05-23T07:57:22Z",
-      "date_published": "2026-05-23T07:57:22Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
-    },
-    {
-      "id": "c1805361ec690598",
-      "url": "https://therecord.media/cisa-to-allow-researchers-to-report-vulnerabilities-kev",
-      "title": "MITTEL — IT-Sicherheit — CISA to allow researchers to report vulnerabilities to exploited bugs catalog",
-      "content_text": "CISA öffnet den Meldeweg für Forscher und Anbieter, damit neu beobachtete aktiv ausgenutzte Schwachstellen schneller in den KEV-Katalog aufgenommen werden können.\nQuelle: The Record\nZeit: 2026-05-23T07:57:22Z",
-      "date_published": "2026-05-23T07:57:22Z",
-      "tags": [
-        "IT-Sicherheit",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "The Record"
-        }
-      ]
-    },
-    {
-      "id": "d4807960b1e86c5e",
-      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_campaign=rss&at_medium=RSS",
-      "title": "MITTEL — AI-News — AI may speed up search for drugs to treat brain conditions",
-      "content_text": "Forscher berichten, dass KI die Suche nach bezahlbaren Medikamenten gegen neurologische Erkrankungen wie MND beschleunigen könnte.\nQuelle: BBC Technology\nZeit: 2026-05-23T05:57:28Z",
-      "date_published": "2026-05-23T05:57:28Z",
-      "tags": [
-        "AI-News",
-        "mittel"
-      ],
-      "authors": [
-        {
-          "name": "BBC Technology"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-27T05:40:55.046932Z"
+  "generated_at": "2026-05-27T07:40:54.411935Z"
 }
