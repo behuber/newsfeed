@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "3b2cd689a8fa65e2",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo",
+      "title": "HOCH — Internationale Ereignisse — Israel issues evacuation order for swathes of southern Lebanon",
+      "content_text": "Israel's military declared areas south of the Zahrani River combat zones and ordered evacuations, signaling possible fresh strikes against Hezbollah.\nQuelle: BBC World RSS\nZeit: 2026-05-27T21:40:18Z",
+      "date_published": "2026-05-27T21:40:18Z",
+      "tags": [
+        "Internationale Ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "6c94a8cc1ec25647",
       "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_campaign=rss&at_medium=RSS",
       "title": "MITTEL — Internationale Ereignisse — Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
@@ -795,23 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "6faa1d8553f96b03",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "content_text": "BBC meldet einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; Russland habe dabei auch den Oreshnik-Hyperschallflugkörper eingesetzt.\nQuelle: BBC World\nZeit: 2026-05-24T09:57:16Z",
-      "date_published": "2026-05-24T09:57:16Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-27T19:41:21.086394Z"
+  "generated_at": "2026-05-27T21:41:10.652586Z"
 }

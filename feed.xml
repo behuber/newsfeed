@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 27 May 2026 19:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:41:10 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Internationale Ereignisse — Israel issues evacuation order for swathes of southern Lebanon</title>
+      <link>https://www.bbc.com/news/articles/cj3pgrpmlklo</link>
+      <guid isPermaLink="false">3b2cd689a8fa65e2</guid>
+      <pubDate>Wed, 27 May 2026 21:40:18 +0000</pubDate>
+      <description>Israel's military declared areas south of the Zahrani River combat zones and ordered evacuations, signaling possible fresh strikes against Hezbollah.
+Quelle: BBC World RSS
+Zeit: 2026-05-27T21:40:18Z</description>
+      <category>Internationale Ereignisse</category>
+    </item>
     <item>
       <title>MITTEL — Internationale Ereignisse — Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns</title>
       <link>https://www.bbc.com/news/articles/cdxpdex062yo?at_campaign=rss&amp;at_medium=RSS</link>
@@ -496,16 +506,6 @@ Zeit: 2026-05-24T11:57:14Z</description>
       <description>BBC meldet einen groß angelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Feed wurde dabei auch eine Oreshnik-Rakete eingesetzt.
 Quelle: BBC World RSS
 Zeit: 2026-05-24T11:57:13Z</description>
-      <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured</title>
-      <link>https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">6faa1d8553f96b03</guid>
-      <pubDate>Sun, 24 May 2026 09:57:16 +0000</pubDate>
-      <description>BBC meldet einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; Russland habe dabei auch den Oreshnik-Hyperschallflugkörper eingesetzt.
-Quelle: BBC World
-Zeit: 2026-05-24T09:57:16Z</description>
       <category>Ukraine-Krieg</category>
     </item>
   </channel>
