@@ -5,9 +5,29 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 28 May 2026 05:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 07:41:11 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — US strikes Iran military site as Tehran says it has targeted American base</title>
+      <link>https://www.bbc.com/news/articles/c98r2qy5809o</link>
+      <guid isPermaLink="false">64a2787c2cb8a914</guid>
+      <pubDate>Thu, 28 May 2026 07:40:09 +0000</pubDate>
+      <description>BBC meldet neue US-Angriffe auf ein iranisches Militärziel; Teheran habe im Gegenzug einen US-Stützpunkt angegriffen. Das deutet auf eine neue Eskalation trotz fragiler Waffenruhe hin.
+Quelle: BBC World
+Zeit: 2026-05-28T07:40:09Z</description>
+      <category>Iran-Krieg</category>
+    </item>
+    <item>
+      <title>MITTEL — IT-Sicherheit — Iranian intelligence service behind hack of LA transit system, researchers say</title>
+      <link>https://therecord.media/iranian-intelligence-behind-hack-of-la-transit-system</link>
+      <guid isPermaLink="false">86b75da7ee559682</guid>
+      <pubDate>Thu, 28 May 2026 07:40:09 +0000</pubDate>
+      <description>The Record berichtet, dass Forscher einen Angriff auf das LA-Transitsystem dem iranischen Geheimdienst zuordnen. Das verbindet geopolitischen Konflikt mit staatlich gestützter Cyberaktivität.
+Quelle: The Record
+Zeit: 2026-05-28T07:40:09Z</description>
+      <category>IT-Sicherheit</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — US strikes Iran targets for second time in three days</title>
       <link>https://www.bbc.com/news/articles/c98r2qy5809o</link>
@@ -487,26 +507,6 @@ Zeit: 2026-05-25T05:39:30Z</description>
 Quelle: BBC World RSS
 Zeit: 2026-05-24T21:39:55Z</description>
       <category>Iran-Konflikt</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Krieg — Trump tells US negotiators 'not to rush' into deal with Iran</title>
-      <link>https://www.bbc.com/news/articles/clyp0040x7po?amp%3Bat_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">59ef514586a42032</guid>
-      <pubDate>Sun, 24 May 2026 19:39:35 +0000</pubDate>
-      <description>The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.
-Quelle: bbc-world
-Zeit: 2026-05-24T19:39:35Z</description>
-      <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>MITTEL — Iran-Krieg — Bericht: Rahmen für Iran-Deal weitgehend ausgehandelt</title>
-      <link>https://www.bbc.com/news/articles/crmp121z3z8o?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">3f80143fa6d6d0e0</guid>
-      <pubDate>Sun, 24 May 2026 11:57:14 +0000</pubDate>
-      <description>BBC meldet, Trump habe erklärt, ein Iran-Deal sei weitgehend ausgehandelt; Teheran signalisiere ebenfalls Fortschritte, während die Wiederöffnung der Straße von Hormus Teil des Rahmens sein solle.
-Quelle: BBC World RSS
-Zeit: 2026-05-24T11:57:14Z</description>
-      <category>Iran-Krieg</category>
     </item>
   </channel>
 </rss>
