@@ -13,6 +13,38 @@
   "expired": false,
   "items": [
     {
+      "id": "0d3f5f88c9a23bf8",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_campaign=rss&at_medium=RSS",
+      "title": "HOCH — internationale Ereignisse — Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
+      "content_text": "BBC World meldet neue israelische Angriffe auf Beirut und den Süden des Libanon nach groß angelegten Evakuierungsanordnungen für Teile des Landes.\nQuelle: BBC World\nZeit: 2026-05-28T11:40:31Z",
+      "date_published": "2026-05-28T11:40:31Z",
+      "tags": [
+        "internationale Ereignisse",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
+      "id": "45364743e9f58a0d",
+      "url": "https://www.bbc.com/news/articles/c152yvwjwkko?at_campaign=rss&at_medium=RSS",
+      "title": "MITTEL — allgemeine IT-News — Meta repeatedly snubs EU body over Facebook and Instagram user bans",
+      "content_text": "BBC Technology berichtet, dass Meta eine EU-Stelle wiederholt bei Streitfällen um mutmaßlich falsche Sperren auf Facebook und Instagram übergeht.\nQuelle: BBC Technology\nZeit: 2026-05-28T11:40:31Z",
+      "date_published": "2026-05-28T11:40:31Z",
+      "tags": [
+        "allgemeine IT-News",
+        "mittel"
+      ],
+      "authors": [
+        {
+          "name": "BBC Technology"
+        }
+      ]
+    },
+    {
       "id": "58c12f99145923a2",
       "url": "https://www.bbc.com/news/articles/c98r2qy5809o",
       "title": "HOCH — Iran-Krieg — Iran says it targeted American base after fresh US strikes",
@@ -779,39 +811,7 @@
           "name": "bbc-world"
         }
       ]
-    },
-    {
-      "id": "a9b6f1b1ac2758aa",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?amp%3Bat_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "content_text": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.\nQuelle: bbc-world\nZeit: 2026-05-25T07:39:28Z",
-      "date_published": "2026-05-25T07:39:28Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "bbc-world"
-        }
-      ]
-    },
-    {
-      "id": "6faa1d8553f96b03",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o",
-      "title": "HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "content_text": "BBC berichtet über einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Bericht wurde auch eine Hyperschallrakete eingesetzt.\nQuelle: BBC World\nZeit: 2026-05-25T05:39:30Z",
-      "date_published": "2026-05-25T05:39:30Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-28T09:41:12.636306Z"
+  "generated_at": "2026-05-28T11:41:11.684371Z"
 }

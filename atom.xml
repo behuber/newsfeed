@@ -3,12 +3,30 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-28T09:41:12.636306Z</updated>
+  <updated>2026-05-28T11:41:11.684371Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — internationale Ereignisse — Israel strikes Beirut and southern Lebanon after large-scale evacuation orders</title>
+    <id>0d3f5f88c9a23bf8</id>
+    <updated>2026-05-28T11:40:31Z</updated>
+    <link href="https://www.bbc.com/news/articles/cj3pgrpmlklo?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>BBC World meldet neue israelische Angriffe auf Beirut und den Süden des Libanon nach groß angelegten Evakuierungsanordnungen für Teile des Landes.
+Quelle: BBC World
+Zeit: 2026-05-28T11:40:31Z</summary>
+  </entry>
+  <entry>
+    <title>MITTEL — allgemeine IT-News — Meta repeatedly snubs EU body over Facebook and Instagram user bans</title>
+    <id>45364743e9f58a0d</id>
+    <updated>2026-05-28T11:40:31Z</updated>
+    <link href="https://www.bbc.com/news/articles/c152yvwjwkko?at_campaign=rss&amp;at_medium=RSS" />
+    <summary>BBC Technology berichtet, dass Meta eine EU-Stelle wiederholt bei Streitfällen um mutmaßlich falsche Sperren auf Facebook und Instagram übergeht.
+Quelle: BBC Technology
+Zeit: 2026-05-28T11:40:31Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — Iran says it targeted American base after fresh US strikes</title>
     <id>58c12f99145923a2</id>
@@ -440,23 +458,5 @@ Zeit: 2026-05-25T07:39:28Z</summary>
     <summary>Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.
 Quelle: bbc-world
 Zeit: 2026-05-25T07:39:28Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Ukraine-Krieg — Putin vows retaliation after accusing Ukraine of hitting student dormitory</title>
-    <id>a9b6f1b1ac2758aa</id>
-    <updated>2026-05-25T07:39:28Z</updated>
-    <link href="https://www.bbc.com/news/articles/c5y74lwx395o?amp%3Bat_campaign=rss&amp;at_medium=RSS" />
-    <summary>Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.
-Quelle: bbc-world
-Zeit: 2026-05-25T07:39:28Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Ukraine-Krieg — Large-scale Russian attack on Ukraine leaves four dead and dozens injured</title>
-    <id>6faa1d8553f96b03</id>
-    <updated>2026-05-25T05:39:30Z</updated>
-    <link href="https://www.bbc.com/news/articles/clyp6831yp5o" />
-    <summary>BBC berichtet über einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Bericht wurde auch eine Hyperschallrakete eingesetzt.
-Quelle: BBC World
-Zeit: 2026-05-25T05:39:30Z</summary>
   </entry>
 </feed>
