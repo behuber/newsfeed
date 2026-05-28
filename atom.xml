@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-28T07:41:11.477300Z</updated>
+  <updated>2026-05-28T09:41:12.636306Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — Iran says it targeted American base after fresh US strikes</title>
+    <id>58c12f99145923a2</id>
+    <updated>2026-05-28T09:40:21Z</updated>
+    <link href="https://www.bbc.com/news/articles/c98r2qy5809o" />
+    <summary>BBC berichtet, dass Iran nach neuen US-Angriffen eine amerikanische Basis ins Visier genommen habe. Das passiert trotz fragiler Waffenruhe und laufender Verhandlungen.
+Quelle: BBC World
+Zeit: 2026-05-28T09:40:21Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Iran-Krieg — US strikes Iran military site as Tehran says it has targeted American base</title>
     <id>64a2787c2cb8a914</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-25T07:39:28Z</summary>
     <summary>BBC berichtet über einen großangelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Bericht wurde auch eine Hyperschallrakete eingesetzt.
 Quelle: BBC World
 Zeit: 2026-05-25T05:39:30Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Iran-Konflikt — Trump tells US negotiators 'not to rush' into deal with Iran</title>
-    <id>5d97c2a33dcc2fab</id>
-    <updated>2026-05-24T21:39:55Z</updated>
-    <link href="https://www.bbc.com/news/articles/clyp0040x7po" />
-    <summary>BBC berichtet, dass Trump US-Verhandler angewiesen hat, ein Iran-Abkommen nicht zu überstürzen; diskutiert werde laut US-Medien eine Verlängerung der 60-tägigen Waffenruhe und die Wiederöffnung der Straße von Hormus.
-Quelle: BBC World RSS
-Zeit: 2026-05-24T21:39:55Z</summary>
   </entry>
 </feed>

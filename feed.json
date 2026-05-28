@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "58c12f99145923a2",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o",
+      "title": "HOCH — Iran-Krieg — Iran says it targeted American base after fresh US strikes",
+      "content_text": "BBC berichtet, dass Iran nach neuen US-Angriffen eine amerikanische Basis ins Visier genommen habe. Das passiert trotz fragiler Waffenruhe und laufender Verhandlungen.\nQuelle: BBC World\nZeit: 2026-05-28T09:40:21Z",
+      "date_published": "2026-05-28T09:40:21Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World"
+        }
+      ]
+    },
+    {
       "id": "64a2787c2cb8a914",
       "url": "https://www.bbc.com/news/articles/c98r2qy5809o",
       "title": "HOCH — Iran-Krieg — US strikes Iran military site as Tehran says it has targeted American base",
@@ -795,23 +811,7 @@
           "name": "BBC World"
         }
       ]
-    },
-    {
-      "id": "5d97c2a33dcc2fab",
-      "url": "https://www.bbc.com/news/articles/clyp0040x7po",
-      "title": "HOCH — Iran-Konflikt — Trump tells US negotiators 'not to rush' into deal with Iran",
-      "content_text": "BBC berichtet, dass Trump US-Verhandler angewiesen hat, ein Iran-Abkommen nicht zu überstürzen; diskutiert werde laut US-Medien eine Verlängerung der 60-tägigen Waffenruhe und die Wiederöffnung der Straße von Hormus.\nQuelle: BBC World RSS\nZeit: 2026-05-24T21:39:55Z",
-      "date_published": "2026-05-24T21:39:55Z",
-      "tags": [
-        "Iran-Konflikt",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-28T07:41:11.477300Z"
+  "generated_at": "2026-05-28T09:41:12.636306Z"
 }

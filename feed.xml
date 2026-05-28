@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 28 May 2026 07:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:41:12 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — Iran says it targeted American base after fresh US strikes</title>
+      <link>https://www.bbc.com/news/articles/c98r2qy5809o</link>
+      <guid isPermaLink="false">58c12f99145923a2</guid>
+      <pubDate>Thu, 28 May 2026 09:40:21 +0000</pubDate>
+      <description>BBC berichtet, dass Iran nach neuen US-Angriffen eine amerikanische Basis ins Visier genommen habe. Das passiert trotz fragiler Waffenruhe und laufender Verhandlungen.
+Quelle: BBC World
+Zeit: 2026-05-28T09:40:21Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>HOCH — Iran-Krieg — US strikes Iran military site as Tehran says it has targeted American base</title>
       <link>https://www.bbc.com/news/articles/c98r2qy5809o</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-25T07:39:28Z</description>
 Quelle: BBC World
 Zeit: 2026-05-25T05:39:30Z</description>
       <category>Ukraine-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — Iran-Konflikt — Trump tells US negotiators 'not to rush' into deal with Iran</title>
-      <link>https://www.bbc.com/news/articles/clyp0040x7po</link>
-      <guid isPermaLink="false">5d97c2a33dcc2fab</guid>
-      <pubDate>Sun, 24 May 2026 21:39:55 +0000</pubDate>
-      <description>BBC berichtet, dass Trump US-Verhandler angewiesen hat, ein Iran-Abkommen nicht zu überstürzen; diskutiert werde laut US-Medien eine Verlängerung der 60-tägigen Waffenruhe und die Wiederöffnung der Straße von Hormus.
-Quelle: BBC World RSS
-Zeit: 2026-05-24T21:39:55Z</description>
-      <category>Iran-Konflikt</category>
     </item>
   </channel>
 </rss>
