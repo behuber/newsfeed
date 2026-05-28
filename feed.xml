@@ -5,9 +5,19 @@
     <link>https://behuber.github.io/newsfeed/</link>
     <description>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</description>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 28 May 2026 03:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 05:41:10 +0000</lastBuildDate>
     <generator>generate_breaking_news_feed.py</generator>
     <ttl>10</ttl>
+    <item>
+      <title>HOCH — Iran-Krieg — US strikes Iran targets for second time in three days</title>
+      <link>https://www.bbc.com/news/articles/c98r2qy5809o</link>
+      <guid isPermaLink="false">4d90521a5e8fda14</guid>
+      <pubDate>Thu, 28 May 2026 05:40:38 +0000</pubDate>
+      <description>BBC meldet neue US-Angriffe auf Ziele im Iran trotz fragiler Waffenruhe und laufender Verhandlungen; Ölpreise ziehen an.
+Quelle: BBC World RSS
+Zeit: 2026-05-28T05:40:38Z</description>
+      <category>Iran-Krieg</category>
+    </item>
     <item>
       <title>HOCH — Internationale Ereignisse — Israel issues evacuation order for swathes of southern Lebanon</title>
       <link>https://www.bbc.com/news/articles/cj3pgrpmlklo</link>
@@ -497,16 +507,6 @@ Zeit: 2026-05-24T19:39:35Z</description>
 Quelle: BBC World RSS
 Zeit: 2026-05-24T11:57:14Z</description>
       <category>Iran-Krieg</category>
-    </item>
-    <item>
-      <title>HOCH — Ukraine-Krieg — Großangriff Russlands auf die Ukraine mit Toten und Dutzenden Verletzten</title>
-      <link>https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&amp;at_medium=RSS</link>
-      <guid isPermaLink="false">f9ac87e839a4a6df</guid>
-      <pubDate>Sun, 24 May 2026 11:57:13 +0000</pubDate>
-      <description>BBC meldet einen groß angelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Feed wurde dabei auch eine Oreshnik-Rakete eingesetzt.
-Quelle: BBC World RSS
-Zeit: 2026-05-24T11:57:13Z</description>
-      <category>Ukraine-Krieg</category>
     </item>
   </channel>
 </rss>

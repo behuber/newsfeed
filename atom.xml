@@ -3,12 +3,21 @@
   <title>Bobbi Newsfeed — Welt, Krieg, Sicherheit</title>
   <subtitle>Automatisch kuratierter Feed aus Bobbis lokalem Breaking-News-Monitoring zu Geopolitik, Krieg, IT-Sicherheit und relevanten Weltlagen.</subtitle>
   <id>https://behuber.github.io/newsfeed/atom.xml</id>
-  <updated>2026-05-28T03:41:11.086885Z</updated>
+  <updated>2026-05-28T05:41:10.530253Z</updated>
   <link href="https://behuber.github.io/newsfeed/atom.xml" rel="self" />
   <link href="https://behuber.github.io/newsfeed/" />
   <author>
     <name>Bobbi</name>
   </author>
+  <entry>
+    <title>HOCH — Iran-Krieg — US strikes Iran targets for second time in three days</title>
+    <id>4d90521a5e8fda14</id>
+    <updated>2026-05-28T05:40:38Z</updated>
+    <link href="https://www.bbc.com/news/articles/c98r2qy5809o" />
+    <summary>BBC meldet neue US-Angriffe auf Ziele im Iran trotz fragiler Waffenruhe und laufender Verhandlungen; Ölpreise ziehen an.
+Quelle: BBC World RSS
+Zeit: 2026-05-28T05:40:38Z</summary>
+  </entry>
   <entry>
     <title>HOCH — Internationale Ereignisse — Israel issues evacuation order for swathes of southern Lebanon</title>
     <id>3b2cd689a8fa65e2</id>
@@ -449,14 +458,5 @@ Zeit: 2026-05-24T19:39:35Z</summary>
     <summary>BBC meldet, Trump habe erklärt, ein Iran-Deal sei weitgehend ausgehandelt; Teheran signalisiere ebenfalls Fortschritte, während die Wiederöffnung der Straße von Hormus Teil des Rahmens sein solle.
 Quelle: BBC World RSS
 Zeit: 2026-05-24T11:57:14Z</summary>
-  </entry>
-  <entry>
-    <title>HOCH — Ukraine-Krieg — Großangriff Russlands auf die Ukraine mit Toten und Dutzenden Verletzten</title>
-    <id>f9ac87e839a4a6df</id>
-    <updated>2026-05-24T11:57:13Z</updated>
-    <link href="https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&amp;at_medium=RSS" />
-    <summary>BBC meldet einen groß angelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Feed wurde dabei auch eine Oreshnik-Rakete eingesetzt.
-Quelle: BBC World RSS
-Zeit: 2026-05-24T11:57:13Z</summary>
   </entry>
 </feed>

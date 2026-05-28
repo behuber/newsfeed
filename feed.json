@@ -13,6 +13,22 @@
   "expired": false,
   "items": [
     {
+      "id": "4d90521a5e8fda14",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o",
+      "title": "HOCH — Iran-Krieg — US strikes Iran targets for second time in three days",
+      "content_text": "BBC meldet neue US-Angriffe auf Ziele im Iran trotz fragiler Waffenruhe und laufender Verhandlungen; Ölpreise ziehen an.\nQuelle: BBC World RSS\nZeit: 2026-05-28T05:40:38Z",
+      "date_published": "2026-05-28T05:40:38Z",
+      "tags": [
+        "Iran-Krieg",
+        "hoch"
+      ],
+      "authors": [
+        {
+          "name": "BBC World RSS"
+        }
+      ]
+    },
+    {
       "id": "3b2cd689a8fa65e2",
       "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo",
       "title": "HOCH — Internationale Ereignisse — Israel issues evacuation order for swathes of southern Lebanon",
@@ -795,23 +811,7 @@
           "name": "BBC World RSS"
         }
       ]
-    },
-    {
-      "id": "f9ac87e839a4a6df",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_campaign=rss&at_medium=RSS",
-      "title": "HOCH — Ukraine-Krieg — Großangriff Russlands auf die Ukraine mit Toten und Dutzenden Verletzten",
-      "content_text": "BBC meldet einen groß angelegten russischen Angriff auf die Ukraine mit mindestens vier Toten und Dutzenden Verletzten; laut Feed wurde dabei auch eine Oreshnik-Rakete eingesetzt.\nQuelle: BBC World RSS\nZeit: 2026-05-24T11:57:13Z",
-      "date_published": "2026-05-24T11:57:13Z",
-      "tags": [
-        "Ukraine-Krieg",
-        "hoch"
-      ],
-      "authors": [
-        {
-          "name": "BBC World RSS"
-        }
-      ]
     }
   ],
-  "generated_at": "2026-05-28T03:41:11.086885Z"
+  "generated_at": "2026-05-28T05:41:10.530253Z"
 }
